@@ -23,7 +23,7 @@ def mask(token):
 
 
 def preprocess(document):
-    document = re.sub(r"&[a-z]+;", r" ", document)
+    document = re.sub(r'&[a-z]+;', r' ', document)
     document = document.lower()
     return document
 
@@ -77,16 +77,15 @@ if __name__ == '__main__':
     np.save('feature_names_{}.npy'.format(sys.argv[1]), feature_names)
     np.save('X_{}.npy'.format(sys.argv[1]), tfidf)
 
+    print('Saved features names (vocabulary) and tfidf matrix (X).')
     print('Factorizing tfidf matrix...')
 
-    # alpha controls strength of regularization
-    # l1_ratio controls ratio of l1 and l2 regularization
     nmf = NMF(n_components=int(sys.argv[2]),
               init='nndsvd',
               max_iter=200,
               random_state=1618,
               alpha=0.2,
-              l1_ratio=0.8,
+              l1_ratio=0.7,
               verbose=True)
 
     W = nmf.fit_transform(tfidf)
@@ -98,14 +97,23 @@ if __name__ == '__main__':
     np.save('H_{}.npy'.format(sys.argv[1]), H)
     np.save('W_{}.npy'.format(sys.argv[1]), W)
 
-    print('Reconstruction error: {}'.format(err))
+    print('Saved factorization matrices (W and H).')
 
     print('')
     print('------------------------------')
     print('')
 
+    print('Reconstruction error: {}'.format(err))
+    print('')
+
     for topic_idx, topic in enumerate(nmf.components_):
-        print("Topic #%d:" % topic_idx)
-        print(" ".join(['"' + feature_names[i] + '"'
-                        for i in topic.argsort()[:-50 - 1:-1]]))
+        print('Cluster #{}:'.format(topic_idx))
+        print(', '.join([feature_names[i]
+                         for i in topic.argsort()[:-20 - 1:-1]]))
+        #FIXME add cluster and word importances...
+        '''
+        print('Cluster importance: {}'.format(1.0))
+        print(' '.join(['"' + feature_names[i] + '"'
+                        for i in topic.argsort()[:-20 - 1:-1]]))
+        '''
         print('')
