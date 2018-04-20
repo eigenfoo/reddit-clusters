@@ -46,7 +46,7 @@ if __name__ == '__main__':
         lexeme = nlp.vocab[unicode(word)]
         lexeme.is_stop = True
 
-    DATA_FILE = './data/bigquery/2017/12/' + sys.argv[1] + '.csv'
+    DATA_FILE = './data/bigquery/2017/entire/' + sys.argv[1] + '.csv.gz'
 
     print('Loading Reddit comments...')
 
@@ -85,7 +85,7 @@ if __name__ == '__main__':
               max_iter=200,
               random_state=1618,
               alpha=0.2,
-              l1_ratio=0.7,
+              l1_ratio=0,
               verbose=True)
 
     W = nmf.fit_transform(tfidf)
@@ -106,14 +106,12 @@ if __name__ == '__main__':
     print('Reconstruction error: {}'.format(err))
     print('')
 
-    for topic_idx, topic in enumerate(nmf.components_):
+    for topic_idx, topic in enumerate(H):
         print('Cluster #{}:'.format(topic_idx))
-        print(', '.join([feature_names[i]
-                         for i in topic.argsort()[:-20 - 1:-1]]))
-        #FIXME add cluster and word importances...
-        '''
-        print('Cluster importance: {}'.format(1.0))
-        print(' '.join(['"' + feature_names[i] + '"'
-                        for i in topic.argsort()[:-20 - 1:-1]]))
-        '''
+        print('Cluster importance: {}'.format(
+            float((np.argmax(W, axis=1) == topic_idx).sum()) / W.shape[0]))
+        for token, importance in zip(
+                [feature_names[i] for i in np.argsort(topic)[:-15 - 1:-1]],
+                np.sort(topic)[:-15 - 1:-1]):
+            print('{}: {:2f}'.format(token, importance))
         print('')
