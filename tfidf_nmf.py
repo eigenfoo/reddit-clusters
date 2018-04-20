@@ -46,12 +46,17 @@ if __name__ == '__main__':
         lexeme = nlp.vocab[unicode(word)]
         lexeme.is_stop = True
 
-    DATA_FILE = './data/bigquery/' + sys.argv[1] + '.csv.gz'
+    DATA_FILE = './data/bigquery/2017/12/' + sys.argv[1] + '.csv'
 
     print('Loading Reddit comments...')
 
     data = pd.read_csv(DATA_FILE)
-    data = data.loc[:, 'body'].fillna('').astype(str)
+    data = data.loc[:, 'body'].fillna('').astype(str).squeeze()
+
+    # Cut off the bottom 20% of all comments, by simple count.
+    counts = data.apply(lambda s: len(s.split()))
+    threshold = counts.quantile(0.2)
+    data = data[counts > threshold]
 
     print('Loaded Reddit comments.')
     print('Vectorizing comments...')
@@ -62,23 +67,15 @@ if __name__ == '__main__':
                                  stop_words=list(STOP_WORDS),
                                  max_df=0.90,
                                  min_df=0.001,
-                                 norm=None)
+                                 norm='l2')
 
     tfidf = vectorizer.fit_transform(data)
-
-    # Remove bottom 20%. Save index as keep.
-    norms = tfidf.sum(axis=1)
-    threshold = np.percentile(norms, 20)
-    keep = np.where(norms > threshold)[0]
-    tfidf = tfidf[keep, :]
-    tfidf = tfidf / tfidf.sum(axis=1)
 
     print('Vectorized comments.')
 
     feature_names = vectorizer.get_feature_names()
     np.save('feature_names_{}.npy'.format(sys.argv[1]), feature_names)
-    np.save('tfidf_{}.npy'.format(sys.argv[1]), tfidf)
-    np.save('keep_{}.npy'.format(sys.argv[1]), keep)
+    np.save('X_{}.npy'.format(sys.argv[1]), tfidf)
 
     print('Factorizing tfidf matrix...')
 
@@ -89,7 +86,7 @@ if __name__ == '__main__':
               max_iter=200,
               random_state=1618,
               alpha=0.2,
-              l1_ratio=0,
+              l1_ratio=0.8,
               verbose=True)
 
     W = nmf.fit_transform(tfidf)
