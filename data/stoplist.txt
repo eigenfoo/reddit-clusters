@@ -1,5 +1,17 @@
 [deleted]
 [removed]
+reddit
+subreddit
+post
+comment
+op
+mod
+moderator
+karma
+gold
+bot
+delete
+remove
 a
 able
 about

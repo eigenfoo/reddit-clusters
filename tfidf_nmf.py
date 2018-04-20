@@ -23,7 +23,8 @@ def mask(token):
 
 
 def preprocess(document):
-    document = re.sub(r'&[a-z]+;', r' ', document)
+    document = re.sub(r'&[a-z]+;', r'', document)
+    document = re.sub(r'\[(.+)\][(].+[)]', r'\1', document)
     document = document.lower()
     return document
 
