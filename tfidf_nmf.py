@@ -36,7 +36,7 @@ def tokenize(document):
 if __name__ == '__main__':
     nlp = spacy.load('en', disable=['tagger', 'parser', 'ner'])
 
-    with open('data/ranksnl_large.txt', 'r') as f:
+    with open('data/stoplist.txt', 'r') as f:
         stops = f.read().split()
 
     for stop in stops:

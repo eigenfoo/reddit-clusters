@@ -15,6 +15,8 @@ __pycache__/
 
 # Logs and databases #
 ######################
+*.npy
+*.csv
 *.log
 *.sql
 *.sqlite
