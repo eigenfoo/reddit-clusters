@@ -71,3 +71,2494 @@ violation: 0.00235394565071
 violation: 0.00231979652438
 violation: 0.00228839849128
 violation: 0.00225917397105
+violation: 0.00223206407032
+violation: 0.00220657746992
+violation: 0.00218255764108
+violation: 0.00215977832041
+violation: 0.00213864368591
+violation: 0.00211925339573
+violation: 0.00210170856411
+violation: 0.0020861828025
+violation: 0.00207269026453
+violation: 0.00206137184915
+violation: 0.00205212956904
+violation: 0.00204494700143
+violation: 0.0020400686323
+violation: 0.00203757996227
+violation: 0.00203741807908
+violation: 0.00203972687027
+violation: 0.00204432313823
+violation: 0.00205077039253
+violation: 0.00205985924115
+violation: 0.00207119459851
+violation: 0.00208514858116
+violation: 0.00210144634331
+violation: 0.0021207646987
+violation: 0.00214312345532
+violation: 0.00216861978557
+violation: 0.00219662222569
+violation: 0.00222702505582
+violation: 0.00226028399669
+violation: 0.00229380436656
+violation: 0.00233102364146
+violation: 0.00237033123562
+violation: 0.00241221002499
+violation: 0.00245506874509
+violation: 0.00249717405853
+violation: 0.00253940162157
+violation: 0.00257604831125
+violation: 0.00260865467187
+violation: 0.00263743263944
+violation: 0.00266323516616
+violation: 0.00268341837237
+violation: 0.00269657299376
+violation: 0.00270137939418
+violation: 0.00260973343308
+violation: 0.00253325746325
+violation: 0.00238608279355
+violation: 0.00206448368732
+violation: 0.00180298529773
+violation: 0.00169028405028
+violation: 0.00160282365375
+violation: 0.00153457044498
+violation: 0.00147461530507
+violation: 0.0014188618788
+violation: 0.00136533047506
+violation: 0.00131025868474
+violation: 0.00124515000518
+violation: 0.0011892572481
+violation: 0.00113468467034
+violation: 0.00107749673063
+violation: 0.00102732360235
+violation: 0.000980069037903
+violation: 0.000934857403796
+violation: 0.000892065661546
+violation: 0.000848517763907
+violation: 0.000809357119239
+violation: 0.000772868898794
+violation: 0.000738226137264
+violation: 0.000705648390416
+violation: 0.000675084525616
+violation: 0.000646423256233
+violation: 0.000619575610556
+violation: 0.000594387608024
+violation: 0.000570767302857
+violation: 0.000548594863709
+violation: 0.000527767001851
+violation: 0.000507985127792
+violation: 0.000489603553233
+violation: 0.000472281180023
+violation: 0.000455945828891
+violation: 0.000440512801478
+violation: 0.000425923330907
+violation: 0.0004121331737
+violation: 0.000399073297751
+violation: 0.000386692967561
+violation: 0.000374949435386
+violation: 0.000363791314621
+violation: 0.000353180379045
+violation: 0.000343077914997
+violation: 0.000333447979489
+violation: 0.000324259259217
+violation: 0.000315480667498
+violation: 0.000307088102762
+violation: 0.000299054562292
+violation: 0.000291357390824
+violation: 0.000283974472937
+violation: 0.000276886233118
+violation: 0.000270073141251
+violation: 0.000263519783452
+violation: 0.000257210270112
+violation: 0.000251129814065
+violation: 0.000245264720547
+violation: 0.000239603260544
+violation: 0.000234133074193
+violation: 0.000228844304666
+violation: 0.000223726771014
+violation: 0.000218771853683
+violation: 0.000213971527933
+violation: 0.000209317584274
+violation: 0.000204802834994
+violation: 0.000200420241429
+violation: 0.00019616336313
+violation: 0.000192026828208
+violation: 0.000188005285519
+violation: 0.00018409341638
+violation: 0.000180286448378
+violation: 0.000176579923648
+violation: 0.000172969986106
+violation: 0.000169452656303
+violation: 0.000166024229917
+violation: 0.000162681306724
+violation: 0.000159420735195
+violation: 0.000156239394369
+violation: 0.000153134551417
+violation: 0.000150103395015
+violation: 0.000147143415581
+violation: 0.000144252187837
+violation: 0.000141427439276
+violation: 0.000138666973041
+violation: 0.000135968796484
+violation: 0.000133330934608
+violation: 0.000130751507307
+violation: 0.000128228787392
+violation: 0.000125761094343
+violation: 0.00012334692669
+violation: 0.000120984760029
+violation: 0.000118673175866
+Factorized tfidf matrix.
+Saved factorization matrices (W and H).
+
+------------------------------
+
+Reconstruction error: 668.268160352
+
+Cluster #0:
+Cluster importance: 0.416096150288
+wrong: 1.323997
+happen: 1.185091
+live: 1.025563
+long: 1.015547
+feel: 0.928598
+lot: 0.926298
+start: 0.925403
+talk: 0.885924
+bad: 0.873132
+big: 0.812969
+hear: 0.801624
+obama: 0.792350
+find: 0.764046
+kid: 0.763401
+real: 0.752591
+
+809
+Being off work for Christmas has left me with a lot more free time than I’m used to and I won’t be traveling to spend it with my family until tomorrow.  Normally I only visit T_D because I’ve refused to watch Fake News my entire life and I believe there is a lot more transparency in journalism here despite “popular opinion”; joke about popular vote here.  As such, I always feel surrounded with an atmosphere of positivity and a forward-looking mindset into making things great again.  Plus the shtick about not wanting to win anymore never gets old or fails to put a smile on my face. Well with this free time I made the mistake of going to other parts of Reddit and what I saw left me in legitimate awe.
+
+
+It wasn’t that long ago that I watched the video where the former KGB member discussed the methodology where Communism and altering the perception of a nation’s people was an effective, albeit lengthy, tactic to dismantle said nation.  Now – I am not a conspiracy theorist, but conspiracies are becoming more like realities every day it seems.  I understand the demographic of Reddit is probably not the best at encapsulating the feelings of a nation, but I feel it’s a large enough sample size to warrant my thoughts.  Everywhere I looked I saw - while possibly not obvious at a glance - at the very least, veiled disheartening and miserable comments that all shared similar attributes to one another.  I brushed it off at first, but after 30 minutes it was all I could see.
+
+
+* There was **always** a negative spin on the topic.
+* There was **always** some sort of self-loathing feeling to the comments.
+* There was **always** a back handed victim complex.
+
+
+And I wasn’t looking for these comments or cherry picking them.  These were all massively up-voted comments and I did find a few people who seemed to pick up on this that had responded.  I thought to myself thank God I’m not crazy!  But guess what?  I had to un-hide their comments because they’d all been down-voted like hell.    Then I started to think – well if I was trying to be the most depressing and miserable commenter I could be, just for the sake of doing it, this is the sort of thing I would say.  Then I started thinking about recent stories regarding ShareBlue and other groups whose sole purpose is to shill their agenda and attack or bury anything else; part of me hopes they read this because I’d be honored – but they better send their best!  
+
+
+I was not always a happy person.  And I know what you’re thinking, but no I never voted Democrat.  But, becoming a happy person was by far the most difficult thing I’ve ever had to do in my entire life.  Harder than my career, harder than relationships with others, and our world is not always an easy place to be happy.  Even still, I have difficult days at work where I feel like my head will explode – but I leave it at the door and meditate on how I can be happy with it or make the best of it.  I would say being happy is a difficult and full time job – but pays out something which money can’t buy.  
+
+
+The danger I see in all of this is how many people who have not yet found happiness are becoming prey to the negativity of it all.  In my case, I always isolated myself because I did not want my feeling down or sad to be a burden on other people.  I was also far too embarrassed to discuss my problems or seek sympathy because I did not want to feel the way I did!  Feeling better about a bad situation or becoming complacent with it is an awful coping mechanism, but one that is readily available and far easier than bettering the situation for yourself.  I’d like to clarify here that I am not promoting isolating yourself or letting issues fester just to say you’re not being a burden on others like I did.  This only leads to anxiety, depression, and every day that you isolate yourself makes seeking help, whether it is professional or not, increasingly difficult.  There are good and honest people that want to legitimately help!  But as I’ve said, that is not the easy way out.  You have to want to help yourself first, many times that means hearing things you don’t want to hear or saying things you are afraid to say.  But that is alright because it is a means to an end that is not describable and unique to every single person.
+
+
+But this influenza or feeling that I saw all over other parts of Reddit troubled me.  The fact that there are people out there acting as Misery’s Advocates, targeting the downtrodden and using them for personal gain disgusts and angers me.  My hope is that this post is read, seen, commented on, and even possibly to help someone.  Not because of the reality that T_D is the best venue for this message – I would be just as happy to have this thread buried and forgotten if it resonated with one person; seeking the affirmation of others is not a good metric for happiness.  And finally, I am more than willing to acknowledge opposing viewpoints on this topic if it means finding reason and understanding!  I am and always have been my biggest critic; very rarely will I act on something without first considering opposing viewpoints or weaknesses in my own views.  I just felt so strongly about this topic that I felt compelled to post it here.
+
+
+I hope you all have a Merry Christmas and keep up the positive vibes and making America great again!  I can always count on finding that here at T_D.
+
+
+5894
+Something needs to be done about what has been happening in CA, WA and OR. It's easy to mock it and blab on and on about it but the bottom line is this idealism began small and look what has happened in the span of one generation and how much it has spread. This is exactly what the founders put safeguards in about to prevent in terms of corruption and it spreading by a foreign infiltration into key positions and the manipulation of the free market by outside actors to control the narrative and push indoctrination of young minds. 
+
+This issue falls to the current generation to get under control because, like any virus, it will spread as it has and soon it won't be just the west coast. Look at the recent changes in CO, NV, AZ and the massive infiltration going on in even UT while TX has been being hit with multiple issues too. We sit idle and our way of life dies on our watch. We need to make use of what the founders gave to us in terms of protesting, using the court system, recall systems to remove bad/controlled leaders, and biggest thing we HAVE to start identifying and exposing the issues in our school systems, that is absolutely key as even one kid being indoctrinated by these types creates an entire cycle of that kid having their own kids and pushing the issue which will continue to get bigger and bigger. Can't wait for Trump to fix everything. The country and it's future are ours and nobody else's to determine. We either step up or we will watch this disease continue to spread. I see a lot of talking but never any organizing. They have a plan and they execute it every single day of their lives. We talk and discuss things and nothing ever happens from that. Not trying to be a dick but either we step up and do something or we fail our charge to this country. 
+
+74031
+I don't think its fair to call the difference between intersex and GID arbitrary - as you noted it is reasonable to differentiate them.
+
+My point was that GID, which you noted is defined by the absence of an IS condition, is presented as the same thing in political discussions regarding these issues. 
+
+I find this problematic because i think we can find better solutions for GID issues than we have right now (more on that later)
+
+I will concede that my description of IS was at best incomplete.
+
+&gt;It's the reason why so may IS people who don't need surgical intervention get it anyway, so society will treat them as "normal". 
+
+cosmetic surgery is a huge industry in this day and age and part of that is almost everyone will encounter social ostracisation from some group at some point for reasons outside of their control.
+
+There is no denying that IS and GID individuals will encounter this more than other people and I have a huge amount of sympathy for people in this situation.
+
+You may not agree with me on the above points - i am a free speech absolutist and it is core to my political beliefs that all people have the right to chose what they say as well as who they associate with. I have heard the other side of this debate (speech as harm) and i disagree but respect your right to hold those opinions.
+
+&gt;At that point they have a choice if they want to correct the mistaken sex assignment they got at birth as an IS person- fight for treatment protocols that don't exist for their condition on the grounds that doctors made a huge mistake and risk being labeled as delusional despite their IS diagnosis, or just cop to a clinical diagnosis of GID that technically can't apply to IS people but that's the only way they can get medical help.
+
+&gt;So they just accept the diagnosis as transsexual, because Dr's just don't like to admit that many IS "normalizations" don't work.
+
+This sounds legit fucking horrifying.
+
+&gt;to assume that physical conditions are wholly separate from any mental or emotional component that needs consideration is terrible patient care.
+
+i didn't mean to imply that physical conditions cannot affect you in mental or emotional ways, i will try and explain my point a little more clearly
+
+GID, as you noted earlier, does not have a physical component:
+
+&gt;it can only be diagnosed in the absence of a congenital IS condition
+
+and is distinct from intersex:
+
+&gt;or just cop to a clinical diagnosis of GID that technically can't apply to IS people but that's the only way they can get medical help.
+
+Conflating GID with intersex is the part that is problematic. If people knew the difference between intersex and GID then intersex individuals would not be called "mentally ill" or at least i would hope to see them treated with more understanding for something they have zero control over and no good answers to. 
+
+To be clear, for GID people i don't think calling someone mentally ill to insult them no matter what mental health issue someone might have is ever going to help anything. I also think mental health treatment is under-supported in most western countries.
+
+Currently almost everyone sees intersex individuals as the same as GID and part of that is the messaging coming from the left that conflates the two as the same thing - i have come to expect less articulate people from your side of the fence to automatically describe intersex people when GID comes up
+
+This is exactly why i don't think the whole '70 genders' / pronouns thing is a good idea especially when *some* of the most visible people using these are persons on tumblr and twitter that appear to be neither intersex or GID and give some people the impression that its all a big joke.
+
+&gt;and the current state of treatment is the best they've been able to come up with based on the best patient outcomes.
+
+So far - its naive to think we will not eventually find a better solution.
+
+My fear is for example if we develop drugs for example that do work for GID how will we look back on ourselves? As butchers chopping up peoples genitals because that was all we knew how to do at the time? We do this now when we look back at old medical practices like bloodletting for example. I think it is completely within bounds to be cautious about often irreversible surgeries being performed on younger and younger children. 
+
+I think treating sexual reassignment surgery as the 'best solution' might also bring some unintended consequences
+
+&gt;sometimes they get things wrong, patients lie to themselves or their doctors yo get what they think they need or simply can't be thoroughly helped in the end- just like any other medical treatment whether it's for physical or psychological conditions.
+
+And as you noted earlier parents and doctors try their best but whats scary is transitions are starting at age 7 now - imagine your child transitioning and then growing up, coming to see it as the wrong choice, and asking you why you let them do permanent changes to their body based on things they said / did as a child? (Why didn't you stop me mummy? I didn't know what I was doing. You should have protected me) This really scares me because statistically it will happen eventually.
+
+I would also mention the issue of 'doctor shopping' where individuals would go to different doctors until they get the answer they want
+
+&gt;Medical intervention does work for most of them
+
+There are certain things that medical intervention cannot fix for these people
+
+- never being able to have your own pregnancy / give birth (MtF)
+
+- 'locked out' of a huge amount of the dating market
+
+- male pattern baldness (MtF)
+
+- maintenance / drugs / dilation etc
+
+- if you 'get better' going back to your old gender is not 'easy' due to often irreversible surgeries
+
+Being intersex or GID is a long term uphill struggle no matter how you address it but saying there are 70 genders (which is what really got this debate going) and (not you) mixing them up as part of a big push to change public perception and criminalize dissent (pronoun / misgendering laws) has lead to a lot of in my view justified push back.
+
+I think i see the intention by mixing in sexual orientations to all the new genders as making a big enough group of people 'abnormal' that people treat 'abnormal' people better but i don't think that the good intentions have translated into good results. I would blame the failure on culture warriors on the left for language policing (again, pronoun / misgendering laws) this has translated into a large number of people with a justified anger that what they can say is being restricted. I would never seek to stop anyone from calling me any bad names they want.
+
+If your goal is to make the lives of these individuals better i hope you speak up to other lefty's and say hey maybe we are going about this the wrong way. Serious discussions about these issues are very hard when your less articulate friends just call me a bigot and try and shut down my ability to talk.
+
+4941
+# The Globalist Takeover of the Internet
+
+Long before fake news or Net Neutrality (N.N.) became major media topics, the U.S. government was already orchestrating a legal crackdown on anything it would eventually label fake news. 
+
+N.N. was just one move in a sequence of events to completely take over the internet. *A sequence that happened so slowly none of you noticed it happening at all.* After all, Net Neutrality wasn't even all *that* bad, right? Sure the internet became a quasi-utility, but it didn't *really* affect you. If anything, you got a chance to finally stick it to Comcast! Go you! Right? 
+
+But is anything ever that simple?
+
+Ask yourself why N.N. came out of nowhere. Why was it so heavily advertised? Who paid for the advertising? And who benefited from it? 
+
+Now ask yourself what sequence led up to N.N. and who led it to there? Where did the sequence intend to end? Believe it or not, the sequence already came to completion. On Obama's final month in office, the internet was quietly nationalized by legislation he signed the day before Christmas Eve. The president himself became legally capable of taking down any website in the United States within minutes. Of course, that was ruined by the election. 
+
+This is a long piece, and the beginning will cover some material that you already know but it is crucial to understand the big picture. I split this into two posts, the first one covers the two-decade buildup to Net Neutrality, which I will summarize below for those who are lazy. 
+
+### 1950 - Education 
+
+U.S. House of Representatives commissions the Reese Committee to investigate potential communist influence of domestic NGOs and nonprofits. Head investigator, Norman Dodd, [published the final report](https://www.scribd.com/doc/3768227/Dodd-Report-to-the-Reece-Committee-on-Foundations-1954) in which he discovers that the Ford, Rockefeller, and Carnegie foundations were actively influencing universities to promote "moral relativism" and "internationalism" to the end of "oligarchic collectivism." In other words, globalism. [His report was silenced and the two-year investigation was abruptly shut down.](https://youtu.be/YUYCBfmIcHM?t=16)
+
+### 1980 - Civil Society Sector
+
+The civil society sector is typically understood to be comprised of NGOs and nonprofits that, according to conventional wisdom, engage in humanitarian efforts, human rights advocacy, government accountability, and other international efforts of the sort. But if that was ever true, it isn't anymore, and hasn't been for decades. By 1980 all of civil society had been taken over by private and state interests, operating as proxies for their agendas. Just as Norman Dodd had discovered. [Julian Assange gives the contemporary example of Google Ideas, a think-tank that proxies high-risk endeavors directly for the White House.](https://wikileaks.org/google-is-not-what-it-seems/) Google Ideas was heavily involved in the Arab Spring, which was instigated by social media. VP of Stratfor said they have a "covert role in foaming up-risings," and that *"they are doing things the CIA cannot do."*
+
+### 1990 - Media
+
+[Bill Clinton's Telecommunication Act of 1996](https://transition.fcc.gov/Reports/tcom1996.pdf#page=26) legalizes the monopolization of the media, paving the way for a two-decade globalist crusade to consolidate dozens of media outlets into just six. And just like that, the globalists need only pluck six strings to make us dance to their false song. Comcast, Disney, Viacom, Time Warner, News Corp, CBS, and still shrinking.
+
+### 2000 - Social Media
+
+This section is best summarized by a quote from a reddit user.
+
+&gt; "If you happen to have a right-wing perspective, Google puts your search results on the 10th page, Youtube demonetizes your videos (or removes them), Twitter bans your account, and Facebook censors your posts so they never show up in the news feed." -/u/spydiggity
+
+### 2010 - The Internet 
+
+The globalists, having solidified their control over banks, education, civil society, media, and social media, now turn their gaze to the crown jewel of their decades-long pursuit: the internet itself.
+
+Already controlling much of the internet's media and all the social media platforms that propagate it, the only thing left for the globalists to control is the infrastructure itself that comprises the internet. That's why ISPs are important now. Before [*Verizon v. FCC*](https://www.cadc.uscourts.gov/internet/opinions.nsf/3af8b4d938cdeea685257c6000532062/$file/11-1355-1474943.pdf), the FCC classified ISPs under [Title I of Clinton's 1996 Telecommunications Act](https://transition.fcc.gov/Reports/tcom1996.pdf#page=7), meaning they acted as **private entities** with minimal regulation from the government. Separate and unrelated to that classification, the FCC held ISPs accountable to the Open-Internet Rules (no throttling, no blocking, no paid-prioritization). 
+
+[*Verizon v. FCC*](https://apps.fcc.gov/edocs_public/attachmatch/DOC-318262A1.pdf) changed that, ruling that if the FCC wanted to enforce Open-Internet Rules they need to re-classify ISPs under [Title II](https://transition.fcc.gov/Reports/tcom1996.pdf#page=63) as quasi-utilities strictly regulated as "common carriers", effectively a **state-licensed monopoly**. The most critical factor here is that under Title II, ISPs need to apply for *Broadcasting Licenses*, which give the government massive leverage over them. There was an insane amount of influence being exerted over *Verizon v. FCC* by tech companies and their politicians. [Netflix *allegedly* manipulated their own service to frame the ISPs for throttling.](http://techknowledge.center/blog/2014/09/netflix-secretly-holds-subscribers-hostage-to-gain-favorable-fcc-internet-regulations/) The full extent of the influence is not yet known. It may be that the lawsuit's outcome was sheer coincidence. Regardless, this was a huge win for the globalists, because now they are one step closer to *forcing ISPs to apply for Broadcasting Licenses and regularly renew them.* Without a license, the ISPs go bankrupt. The government can leverage this over them. Remember this, because Broadcasting Licenses become the globalist's most valuable weapon in just one act more of legislation.
+
+Three judges presided over the case, two Democrats, one Republican:
+
+- [Laurence H. Silberman](https://en.wikipedia.org/wiki/Laurence_Silberman) (appointed by Ronald Reagan)
+
+- [Judith Ann Wilson Rogers](https://en.wikipedia.org/wiki/Judith_W._Rogers) (appointed by Bill Clinton)
+
+- [David S. Tatel](https://en.wikipedia.org/wiki/David_S._Tatel) (appointed by Bill Clinton)
+
+The Clinton-appointee Democrats ruled in favor of the Title II classification ruling. The Reagan-appointee partially dissented. No surprise. Now the FCC is stuck between a rock and a hard place. If they want to enforce Open-Internet they have to practically nationalize the internet, and *any company that wants to offer access to the internet must receive a Broadcasting License.* The FCC is stumped and can't really figure out what to do next... *So Obama comes in to save the day.* He *pressures* them to move forward with the Title II classification and give the government sweeping authority over internet infrastructure. This potentially unpopular move is quickly rebranded with a cute name and sold to the public as... *Net Neutrality*. Surprise!
+
+The public is told that they are saving the internet! But saving it from whom? Hahaha from the very people who are telling them to save it! Whether by intent or by circumstance, the globalists ended up playing both sides and winning. They revoked Open Internet in *Verizon v. FCC*, repackaged it, and gave it back to us in a box full of red tape.
+
+Now here's where the story picks up...
+
+&gt; Net Neutrality invokes Title II of the Telecommunications Act of 1996 to require all ISPs and any company that provides internet service to register for Broadcasting Licenses from the government and regularly renew them. 
+
+Well... what if the FCC doesn't want to renew them? Ah but that's crazy talk, the FCC can't just revoke Broadcasting Licenses on a whim. It would be taken to court within seconds! 
+
+But imagine what happens when you're appointed by the president as chairman of the FCC, and shortly after you get a call. And that call you get is from whatever said globalist president rules your timeline. And that globalist president tells you that a particular ISP needs to have its license revoked because it's violating federal law. Well, you'd probably say "fuck you I voted for Trump" and just hang up. But then the office phones start ringing and you get a little nervous because now other government bodies are calling in, all substantiating that yes, in fact, the ISP really is breaking the law. So you hang up, call your lawyer, and ask him to look up all the laws they were talking about to see if the ISP really is violating them. After all, what kind of law would justify such an abuse of power? None, in fact, that you know of. The next thing that will happen is your lawyer will walk into your office, looking pale as a ghost, and hand you a legal document titled *[Countering Information Warfare Act of 2016 (S.2692)](https://www.congress.gov/bill/114th-congress/senate-bill/2692/text)*. 
+
+This is where everything comes together.
+
+Beads of sweat start to form on your forehead as you begin reading the *[Countering Information Warfare Act of 2016 (S.2692)](https://www.congress.gov/bill/114th-congress/senate-bill/2692/text)*. You put it down and look up at your lawyer, realizing why his face is drained of life. It was drained by the *[Countering Information Warfare Act of 2016 (S.2692)](https://www.congress.gov/bill/114th-congress/senate-bill/2692/text)*. You're about to ask him a question about the *[Countering Information Warfare Act of 2016 (S.2692)](https://www.congress.gov/bill/114th-congress/senate-bill/2692/text)*, but you pause, and another thought strikes you-
+
+"Why don't they just call it 'The InfoWars Act'?" 
+
+Your lawyer simply closes his eyes, as if with erotic satisfaction, and quickly whispers under his breath "...Bill Clinton is a rapist." You look back at the InfoWars Act to read its mission statement.
+
+&gt; ...counter foreign propaganda and disinformation from our enemies by establishing an interagency center *housed at the State Department*..."
+
+That's so bizarre, you think to yourself. Usually agencies  are created independent from other branches of government, specifically to preserve accountability and dissuade corrupting influences. Why would you bother creating a new independent agency if you're literally going to house it in the White House?
+
+&gt; interagency ***center***
+
+Okay so it's a center, of *multiple agencies*. In the White House...
+
+&gt; p. 1399 - The head of the Center... shall be appointed by the President.
+
+ ...that answers directly to the President? Okay? What exactly is it going to do?
+
+&gt; Maintain, collect, use, and disseminate records for research and data analysis of foreign state and **non-state propaganda** and disinformation efforts
+
+Wait what? Non-state propaganda? You mean like my evening shitposts on T_D? What the fuck does that mean? Literally everyone on the planet is not a state. And how exactly is propaganda defined? Huh, that's strange... there's no definition in here. Like they deliberately omitted it so they can just... call it whatever they want. Incredible. 
+
+You look up to your lawyer, "How the fuck did Obama get this through Congress?"
+
+Your lawyer drops another file on your desk. It looks suspiciously familiar.
+
+"He didn't." 
+
+The file is titled *[National Defense Authorization Act for Fiscal Year 2017](http://docs.house.gov/billsthisweek/20161128/CRPT-114HRPT-S2943.pdf)*, 
+
+"He waited until Christmas Eve and hid it inside of the 3,000 page annual military budget so nobody would notice it." 
+
+"Ohhhh shit yeah this is that fuckin propaganda thing that Obama legalized I always see it get reposted on The Donald! God, what a Kenyan pedophile thing to do, amirite?"
+
+"So you've already read through it?"
+
+"Oh... yeah no I'm a simple guy I just see a grey arrow and I make it orange." 
+
+ "Jesus Christ." The lawyer flips through the 3,076 pages of the NDAA to page 1,396 (or 1,438 in pdf format).
+
+&gt; **[SEC. 1287. GLOBAL ENGAGEMENT CENTER.](http://docs.house.gov/billsthisweek/20161128/CRPT-114HRPT-S2943.pdf#page=1438)**
+
+"This is so much more than just propaganda. Look at what they're going to be doing." 
+
+&gt; Identifying current and emerging trends in foreign propaganda and disinformation, including the use of print, broadcast, online and social media, support for third-party outlets such as think tanks, political parties, and nongovernmental organizations, **and the use of covert or clandestine special operators and agents to influence targeted populations** and governments in order to coordinate and shape the development of tactics, techniques, and procedures to expose and refute foreign misinformation and disinformation
+
+"Clandestine special operators?? That's like some Tom Clancey shit!"
+
+"Not even Tom Clancey would write something like this. Earlier you called this a 'Kenyan' thing to do. But even Kenyans have never sent secret agents to brainwash their people. Really let that sink in."
+
+"Yeah... Malik Obama would never do that."
+
+&gt; The legislation establishes a fund to help **train local journalists**...
+
+"But just when it couldn't get worse... it gets way fucking worse."
+
+&gt; Second, the legislation seeks to **leverage expertise from outside government**... provide grants and contracts to NGOs, civil society organizations, think tanks, private sector companies, media organizations, and other experts outside the U.S. government...
+
+"They call in their globalist friends from some "totally neutral third-party" and together they can call anyone a propagandist. They can go after literally anybody who's been flagged by a third-party "fact-checker" without having to take them to court. "
+
+"Oh fuck."
+
+"Those fact-checkers were there all along for a reason. They started by flooding the internet with disinformation and then branding the cute term "fake news" to generate a demand for fact-checkers. And then they satisfied the demand that they created. They trained the public to accept the idea of "neutral third-parties" policing online content. Facebook, Twitter, Reddit, Google, all the tech companies, and *the White House itself* were planning to use bots to auto-flag-and-censor any content that contradicts the fact-checkers... across the entire internet. "
+
+"Fuckin' Snopes."
+
+"It's brilliant, really. They control the fact-checkers, the enforcers, and with the passage of Title II, the infrastructure to utilize them. Once a propagandist has been targeted, the President can use absolutely anything in the government to stop them."
+
+&gt; The Center will develop, integrate, and synchronize **whole-of-government** initiatives to expose and counter foreign disinformation operations...
+
+And that's it ladies and gentlemen.
+
+That's why passing Net Neutrality is so important. 
+
+The President uses the "whole-of-government" to suppress information. Thanks to Net Neutrality's Title II, they can order all ISPs to take down hostile information and any websites that distribute it. If the ISP refuses, their Title II Broadcasting License is **legally revoked**, they can no longer do business, they go bankrupt, and the government buys out their infrastructure. The government can integrate into the ISPs to censor anything, anywhere, at anytime. The ISPs are forced to obey.
+
+STORY TIME IS OVER THIS IS ACTUALLY REAL
+
+Are you imagining how real this is? 
+
+They can physically shut down your access to the internet without a court order! Just because someone called you a propagandist! Just because you shitpost on The_Donald! They can take down Drudge Report, Breitbart, The_Donald, 4chan, Voat, and any other right-wing website that pops up to replace it! They would have done this slowly, over the course of years, like they always do, so that nobody would notice until it's too late! They could've taken us down one buy one, year by year, and quietly suppress any online reactions! 
+
+**And it was 100% legal! They passed every law they needed to do it!**
+
+
+YOU HAVE NO IDEA HOW LUCKY WE ARE TO HAVE WON THE ELECTION BECAUSE THERE WOULD HAVE NEVER BEEN ANOTHER ONE AGAIN. 
+
+AND NOW ONE FINAL QUOTE:
+
+&gt; p.1446 - "The Center shall terminate on the date that is 8 years after the date of the enactment of this Act." 
+
+They thought she would win.
+
+*[LAUGHS IN KENYAN]*
+
+
+
+89179
+I think becoming more aware of what religious texts say would help here. The Bible in particular addresses all of those issues to some degree. If this world was all there was, it would make sense to worry about bad events. But, the morality of this world is a mix of good and bad - the pure good comes later. The Gospel is that you can get away from the bad by having faith in Jesus, who cleanses out the bad that came with the fall. 
+
+It's really easy to get wrapped up in this world. In feels so concrete. Our brains like to think of ourselves as really important and wise. Some folks even get disorders and are straight up narcissists. It's really easy to lose sight and get off track when bad things happen if you put all your eggs in this basket of life. 
+
+But, even the healthiest of people only live to be a little over 100. That's nothing! Most "life" on earth is ended early or, especially for non humans, by predators. There's a lot of bad. It's easier to see the bad because there is also a lot of good that is in stark contrast to it. 
+
+You sound like you don't want to believe in a God because you don't like how something went in life. The truth is a lot of folks still believe even with much worse things happening because they can see the bigger picture. 
+
+Still, at the end of the day, even if you can't be interested in a particular religion, it makes a lot more sense to believe in a higher being of some sort. It really just makes no sense to believe that out of nothing... like literally out of nothing... that the universe just popped into existence from a random explosion in space. 
+
+351
+Hate crime is how they will force Sharia on us.
+
+Some guy put a picture of a cross on the fence of mosque property, and the cops are looking for info on the dude in relation to a hate crime, "bias incident". What is a bias incident and when did those laws get passed?
+
+youtu.be/W4njQnP6WCU
+
+I think we should start talking methods of safely and securely spamming them with images of Jesus. They don't have an issue with Jesus, they have an issue with him, or any holy figure being depicted.
+
+But these people get a little crazy and hate crimes, even fucking fake ones, are no laughing matter. No need for senseless casualties.
+
+Online, we can do it safely, unless you're in Europe, in which case maybe VPNs or TOR could help you.
+
+IRL, you don't want to mail using your real address, your handwriting, an envelope run through a laser printer at any point after you purchase it, or use any printed papers from a printer that can be tied back to you in any way, remember how they got Reality Winner.
+
+When dropping it off, be mindful of any cameras in the area if in the city. Better that they get images of you disguised up than your license plate. Park the car, and take a stroll. Lower population density, lower prevalence of digital security measures to trip you up.
+
+Also, no meat, urine, shit, bodily fluids etc. That's bio-hazard. Through the federal mail service, so it's a federal felony, which means you do minimum 80% before parole, with the inevitable hate crime which doubles the sentence, you'll be fucked for life for sending bio-hazard through the mail. Not the hill you want to die on.
+
+And it doesn't have to be too offensive, these people operate on a hair trigger. Probably piss them off just having the kafir sending them mail.
+
+You can also send edited versions of the koran. So they know what's acceptable and what's not, because no ones ever done that for them .
+
+Get creative.
+
+Think of it in terms of creating wildly offensive content tailored to what they find offensive, and less so westerns. Think of it as though you may have to defend this act of political, social and religious protest and free speech that some Orwellian useful dhimmwits will undoubtedly label hate speech and islamoxenabigophobicist. But fuck them and fuck that. 
+This is our right. And we will not see it torn from us.
+
+We need to draw attention to this insidious ass shit that we haven't really been paying attention to. We need to do so in ways so innocent yet subtly offensive so that when they inevitably come at us with their tired shtick, maybe, just maybe, they'll finally jump the shark.
+
+How To Be Haram
+
+1. Appropriate Islamic calls to prayer. Create fake, and very offensive prayers in Arabic, Farsi, Urdu, etc &amp; send them to non-muslum Regressive Leftist &amp; Normie outlets and encourage them to play them during Ramadan, EID, Jannah or Friday afternoon prayers, in order to increase diversity &amp; inclusion. These will trigger any native speakers and will likely result in a media kerfuffle that will force people to start analyzing translations of all prayers in order to prevent future trolling. This will open people's eyes to what is really being said in these prayers when we, as a society, must start translating them in order to prevent from offending the Mohamedites. You can even play a little Russian roulette, send them 6 prayers with only 1 being the triggerfest.
+
+2. Hojabis - Turn the hijab into a symbol of slutty sexiness, to coincide with World Hijab Day on Feb 1st. Across Mohamedan propaganda sites, you will see memes of women in make up and western clothes wearing the hijab. Only to be met with many comments from muslims males chastising the girl for not being or doing hijab correctly, promoting the niqab and burka, etc. The foundational claim for the hijab is modesty. So lets make a symbol of immodesty, a la Mia Kalifa.
+
+3. Establish a Kekistani Branch of Islam as a haven for Ex-Muslums to gather, organize and socialize safely without threat of doxxing @ KFRnet.org Dr. Bill Warner's Islam action forum.
+
+4. Make Viral a "Burkas for Feminists" campaign, to better foster cultural understanding of the women in Islam oppressed by Right-Wing Abrahamic Patriarchy, and to embrace the coming cultural enrichment.
+
+5. Attribute Islamist / Jihadist Violence, Sex Crimes, etc, to Christians to open the minds of the cognitively dissonant and allow them to generate the feelings of outrage at everything Christian, and then shock the base of their ideology by revealing everything they had been angry at Christians for doing the moment prior was, in actuality, done by the Mohamedites they champion.
+
+6. Create an Anonymous style support group for survivors of Islamic violence, from assault to rape to terrorism.
+
+7. Make viral Memes educating Normies of all the various types of institutional forms of Islamic deception: Taqiya, Tawriya, Kitman &amp; Muruna
+
+8. Create Memetics designed to encourage leftists in league with Islam to adopt for themselves the term of Dhimmi. I.E., "Fight the Toxic Masculinity, Patriarchy &amp; be a Muslim ally by becoming a Emasculated Dhimmi." Similar to how they initially embraced "cuck".
+
+9. Formulate a dedicated campaign to educate young kids, especially girls, about the dangers of the Cult of Mohamed. They have a penchant for targeting children, so we need to influence culture and society in ways that give youngsters the initial "First Impression" akin to that of "Stranger Danger" and the stereotypical guy in a van handing out candy if you help him find his dog. Educate the youth before the predators and their allies in the globalist school system can propagandize them.
+
+10. The Mohamedan Ideology teaches it's adherents to smile at our faces with hatred in their hearts. This fits well with their displayed tendencies towards isolation, supremacism and proclivity for cry-bullying tactics. I believe that this tactic should be appropriated to better circumvent persecution under Orwellian and pernicious hate speech/crimes legislation against those who speak the truth about the Cult of Mohamed. We must develop better subtext and nuance of speech to better walk the legal tightrope whilst fighting to educate people about the real purpose and effective use of "Hate" legislation in order to walk back their deleterious effects on liberty.
+
+11. Calling Islam by its proper term, Mohamedanism, Cult(ists), Mohamedans, Mohamedites, Islam means, "Peace through submission to the will of Allah". Muslim means, "One who walks in the path of the One True God". Now certainly we can understand why they would use such propagandizing term for themselves, but why do we, as non-'Muslims', use their preferred terminology that only re-enforces their narrative unbeknown to us?
+
+12. Community compilation of a comprehensive list of Islamist / Dhimmi Apologist Groups, Networks, Pundits, Activists, Arguments &amp; Communities across the West for categorized collection and dissemination of the reality narrative to counter Cultural Taqiya.
+
+13. Advocate for full cultural immersion by making the koran mandatory reading and studying in high school. It will force the Regressivists to oppose it on a freedom from religion and church/state seperation perspective, which strengthens those protections, or to back it in favor of the sheer diversity points. Little realizing that a solid reading of the koran is one of the quickest ways to red pill westerners on Islam. And we get to one-up them in virtue signaling.
+
+14. Pocket mister spray bottles filled with light oil diffused with bacon grease, for coating halal food sections with a slightly greasy film with a delicious bacon aroma. Be mindful of cameras and repetitive behavior. Carry in long sleeve shirt for best concealment and quick, inconspicuous use.
+
+15. Orchestrate coordinated 911 calls to cops in neighborhoods that have to deal with intrusive daily prayer calls blasted on loudspeakers. The squeaky wheel gets the grease.
+
+16. Placing Mohamedan books on the bottom shelf. For them, Islam must always dominate, which is why they generally make a point of putting their holy books on the highest most self, or at least above the books of other religions. So, put them on the bottom shelf and check back periodically to make sure they remain there.
+
+17. Islamic rugs that insult while being seemingly pro-Islamic, gifted to Islamophiles and apologists.
+
+18. Generate opposition to Halal meat preparation on the basis of animal rights and animal cruelty. We need graphic A/V footage or pictures documenting the process of bleeding them out.
+
+19. Dogs are Halal in Islam. Any religion that preaches hatred towards Man's Best Friend is certainly a false and inferior retrograde religious ideology.
+
+20. Passing off Haram items &amp; practices as Halal to fool new converts.
+
+21. Wine Vinegar is Haram as long as its not naturally aged and has turned to vinegar. Cooking with alcohol is also Haram.
+
+22. It's Haram for Mohamedan men to wear silk, and other fabrics seen as feminine. It's seen as imitating women. Metrosexuality is seen as a manifestation of homosexuality.
+
+23. It's Haram for Mohamedites to take employment in fields or companies that deal in supporting counter-Islamic initiatives, groups &amp; agendas. Companies who donate a percentage of profits to fund counter-Islamic movements would make themselves Haram to Mohamedans.
+
+24. Support Myanmar in their efforts to defend themselves from centuries of muslim agression.
+
+HATE CRIMES / HATE SPEECH / BIAS INCIDENTS / INCITEMENT TO HATRED
+
+The opening story was of a mosque that had a picture of Jesus on the cross placed on it's fence, a respectful one too. Cops got involved looking for info on the person who left it on outside of the property fence. No trespassing. No vandalism. No intimidation. No destruction of property. No theft. Just a picture of Jesus, not even Mohamed, left hanging on their fence. I can only imagine how low the crime rate is in that town that they can devote manpower to looking into a case that, at best, would result in nothing more than a trumped up, misdemeanor littering charge. Just like I can imagine Martin Luther being arrested by the Church for...littering.
+
+They claim it's offensive for any holy figure in their religion to be depicted, which includes the figureheads of Christianity &amp; Judaism. They don't get to appropriate the outrage reserved to the religions that their cult is plagiarized from.
+
+Trigger them with truth. Truth they can't refute. Write letters that inflame muslim emotions in such a way as to make them great for victimhood currency, but so damaging to the facade of perfection bestowed upon Prophet Mo that they dare not cash in their hate mail for victimhood currency. Put them in no-win situations.
+
+In many "free" western societies, we find ourselves increasingly beset by the polite tyranny of evermore nebulous "Hate Crime" legislation, along with it's derivatives, "Hate Speech", "Bias Incidents" &amp; "Incitement". In many jurisdictions, if a person purchases a koran and desecrates it, puts it in the mail and sends it to a mosque, this expression of protest against a religious and political ideology worthy of protest, is seen as a commission of a hate crime.
+
+Across Europe, we are seeing the deleterious effects on the ability to speak truth to power of these well-intentioned &amp; misguided laws. People being arrested for posting videos of koran burnings. Homes being raided over social media posts. A man sentenced to a year in prison for putting a ham sandwich on the stoop of a mosque. He died of unknown circumstances 6 months into his prison sentence over a ham sandwich and a perceived insult to Islam. Sharia, by any other name.
+
+Ask yourself, if you came across a koran, partially destroyed, laying on the ground in a park, how would respond? Go about your day and ignore this obvious and blatant attempt to incite hatred? If a muslim were to come across it because you just left it there and went about your day, it could get people killed. Do you pick it up and put it in the garbage bin, like you would any other half destroyed book? As if it were just some piece of trash you can throw in the garbage? How can you simply toss into the trash a book revered by 1.7 billion muslims without insult? Do you give it to a local mosque? What if they think you're the one who did it? Some of these folks are migrants with English being a second or third language. Factor in the high emotions of a destroyed koran and you could easily find yourself in a dangerous situation having only tried to do the right thing. Perhaps slipping it in the mail is the best option? With a note clearly stating you found said destroyed koran and were wanting to safely get it to those who will properly dispose of it with the respect it deserves?
+
+It should be noted, the 'code' for disposing of worn-out or destroyed korans is similar to that of disposing of a flag. One primary means being cremation. Ceremonial burning with a little mumbled mumbo jumbo and it's like a little koran funeral. Which makes throwing them in the garbage a sacrilege, which can easily cause offense and be interpreted as inciting hatred, which would be a violation of many these statutes.
+
+Editing the koran for correct usage in Western Societies. Let's be honest, no one has ever really done this for them. We haven't gone through their holy books with a sharpie &amp; razor blade and redacted the parts that stand antithetical to our values and social norms. Creative editing for the current year is one method of turning a potential charge for incitement to hatred through desecration of a religious text into a generally protected right to political and religious discourse and demonstration. Be sure to do it under the guise of social justice. Because hey, even the most ardent right winger looks like a social justice warrior compared to the Islamists and Jihadists.
+
+Some folks like to send in korans soaked in urine, blood, bacon grease, bacon, pork chops, lard, scat, and so on. The issue with much of these is that of sending known bio-hazards through the postal system. Meat and blood rot, carry, generate and transmit diseases, urine and scat also transmit diseases. Bacon grease and lard are about the only ones that don't rot, and don't generally grow pathogens. Given the hyper-partisan social climate, seeing trumped up charges of bio-terrorism with a hate crime enhancement is only a question of when, no longer if. Damaging enough of the book with a razor, marker, torn pages, paint, anything to render it useless will be sufficient substitute for desecration via pork.
+
+Addressing the issue of mixing pork products with anti-Islam demos, why is it used? Because one of the most commonly known muslim tropes is their aversion to everything pig &amp; pork. This is why mixing pork and Islam has become a recipe for hate charges. And these incidents run the gambit from benign bias incidents such as ham sandwiches left on the doorsteps of a mosque and pig greased korans being sent to mosques, to more serious issues of severed pigs heads and property crimes like B&amp;E, vandalism, arson, etc. It's meant to cause offense and outrage, and express disapproval and opposition to the Islamic ideology. It's a blunt political and religious statement. One that I think is protected, or should be. But it doesn't offer anything to the conversation, besides giving the Islamophiles an opportunity to grandstand and pontificate how horrible we are whilst the muslims get to cash in with freshly minted victimhood currency. Now don't get me wrong, there is a place for these types of blatant and offensive forms of directed protest. If for no other reason than to preserve the right to do so and stop the encroachment of hate legislation against free expression.
+
+But instead of triggering their Islamic sensibilities with flagrant outrage, trigger them with facts, arguments, and evidence that they can not dismiss so easily. In letters that accompany pictures of Mohamed, or a destroyed koran. Letters that when read, will get out the arguments and reasoning behind our opposition to Islam to the normies hearing it. Use the momentum of the predictable outrage to piggyback the message you really want to send.
+
+Don't let your digiprints betray you. Google has reverse search engine tools that can break down searches to specific geographic locations based on IP addresses and Meta-Data, not to mention whatever info they have on you. Your online history can be used against you in court, used to paint you in a certain light and get a conviction, guilty or not. It can also be the catalyst for an investigation instead of just a byproduct of one. One method of defensive disinformation is to maintain social media accounts openly linked to you expressing PC opinions. Things that can't be used against you, but that you can use as reasonable doubt in case of a criminal case. And maintain anonymous accounts for Memetic Warfare. Paid VPNs and Tor would be your best bet to secure those features. Public WIFI is an option to increase anonymity, but safeguard your device with a firewall. Using a laptop or desktop with a better secured operating system would also drastically increase security. Privatize your settings on all social media accounts. Anti Islamic posts made by members of the community may be the target pool for an initial fishing expedition by lazy investigators looking for flashy evidence for a show trial to secure re-election.
+
+Be weary of cameras. Cover yourself. Scout the area, though be mindful that digitalization of cameras makes storage space cheap, don't expose yourself or identifying features like license plates while scouting, or at least don't do so in any conceivable way that stands out of normal everyday traffic as well as putting time in between scouting and action. Traffic cams. ATM cams. Private security cams. Phone cameras. Game cameras. Satellite cameras. High-Altitude Metropolitan Reverse Time-line Snapshot Cameras (They take high-altitude photos every 30 seconds - all day, every day - in order to backtrack the course of events after an 'Incident' and identify the the origins and networks of the targets.)
+
+Sending in Polaroids of the abuse of the koran is another method of safe disrespect. But be weary of leaving a paper trail buying Polaroids as it is now a specialty tech than can be used to cross reference and narrow you down.
+
+452861
+I'm gonna have to disagree with you on that one =/  
+
+I was raised pretty conservative (though at the time it really didn't matter to me): polite to others, hold the door when someone is approaching, go to church, respect the parents, ect.  I was fine with it, and it worked for me.  
+
+Then college happened, and I swear to God, I cannot even begin to describe the sheer...I don't know, dread?...that I feel when thinking back on just how fast I went the other direction.  To be fair, the girl that I was dating at the time decided to go into Sociology as a major because she didn't want to have to actually work in college, and I was stupid enough to follow her because I thought it was going to be a nice easy ride through things, but holy HELL was the indoctrination real.  Even during the start of my sophomore year, I remember my parents essentially trying to get me to leave my then-fiance because they were so concerned at the change that she was bringing out, but I was totally hooked on the easy life and didn't want to change.  There was something absolutely hypnotic about having someone basically tell you that NOTHING is ever really your fault, that the deck of the government and white people is stacked against you in perpetuity, that the REAL way to live is to get things for free so that we can devote our time to art or some shit like that...it was surreal, looking back on it.  
+
+The point where I really started to question things was when I had to take a class on ethnic representations in film, and out of 5 groups that formed for our final presentation, the ONLY one in the class that just so happened to be all white (my group) was not only given a 30% on a presentation that I can see getting a B at the *worst*, we were also referred (all of us) to the dean of the department on plagiarism charges.  We got INCREDIBLY lucky in that both I and another group mate used Outlook in a time when saving message threads was a relatively new thing, and we were able to conclusively prove that we had exchanged about 100 emails between the four of us with information for the presentation, drafts, ect.  Even then, though the plagiarism accusation (leveled by the professor, nonetheless) was dropped, we STILL had to ride with that 30%.  Dropped me from a 100% in the incredibly easy class to a 70% even: if it had been .01% lower, I would have had to delay my graduation by a year.
+
+I ended up getting out of that when my loans ran out and my parents hit the big red button, so to speak, and though I hated them for it at the time, it changed my life for the better.  Broke up with the fiance, went back to school 4 years later as a Computer Sciences major, got married, the whole 9 yards...but I'm never going to forget those years.  They really, truly come at you as fast as you can, and whether it's intentional on the part of the individual professors or not, the "science" of a lot of the stuff that they're teaching is so hysterically slanted I can call it nothing short of institutionalized brainwashing.  It's real, it's here, and it has been here for a lot longer than most people realize.  
+
+Tl;dr  The brainwashing is absolutely real, but not always at the institutional level.  College lunacy is completely out of control at this point, and has been for a while now. 
+
+3961
+The GDP is at 4%. Prior to Trump taking office, the best economists CNN could find said this was a virtual impossibility. It's now a matter of historical record that they were wrong yet again. So much for 'experts.'
+
+They also said that manufacturing jobs were not coming back. Well, they came back and continue to come back. Unemployment is at a 17 year low and the economy is booming.
+
+They said the stock market would collapse when Trump took office. It has consistently broken its own records. Obama's stock market also rose, however that was from printing trillions of debt based dollars out of thin air to bail out Wall Street and "too big to fail" financial entities. Thus, Obama doubled the national debt in 8 years and the GDP stagnated at 1.5% in his final year.
+
+Cryptocurrencies like BitCoin, Ether and others are now taking off because they present alternatives to privately run central banks that produce a debt based fiat currency, backed by nothing, which is then loaned into existence, with interest, to the governments and people that utilize it.
+
+As such, these private central banks have become more powerful than the governments they finance. These banking interests have also funded both sides of every modern war. Without this funding, and some might say intentional planning and instigation, these wars never could have happened. The costs in human lives have been immense.
+
+It's therefore understandable, given the water under the bridge to date, that people would have a blanket distrust for all things government and lump Trump in with the rest of the clowns in the car.
+
+But to those paying attention, it should be understood that we are in the early phases of a massive Reformation in the world of politics, currency, intelligence organizations, and the media.
+
+What once could be kept in the dark, under a 'rule by secrecy,' is no longer possible. It's said that sunlight is the best disinfectant. Well, if you thought 2017 was interesting, regardless of what side of the political fence you were on, you ain't seen nothing yet. Invest in disinfectant.
+
+The white hats have always existed within intelligence, military and business circles, but they never had the tide of history backing and propelling them. Now we will see what happens when information can no longer be hidden. We will see the just rule of Law return to the land, along with an implementation of an economic system designed to thrive, instead of one intentionally hamstrung by elites to line their own pockets and maintain their control.
+
+Some may think that President Donald Trump is simply out to enrich himself and others in his club and that the moves his administration makes do not benefit the average citizen. This is a point of view that is pushed 24/7 by certain well entrenched factions of the mainstream media, a media which is owned by giant international corporations in bed with the central banks. They take direction from what you might call rogue elements within organizations such as the CIA.
+
+A previous President made noise about these exact things (secret societies, the CIA and the FED). His name was John F. Kennedy. We know what happened to him. Trump has a different destiny, however, as this is an entirely different era.
+
+It turns out the Swamp does not appreciate being drained. Because in the draining, the power and control said Swamp offers is thusly drained. The gig is up and many will have to answer to the music. And a sweet music it is not. Many 'important figures' will go to jail, for everything from money laundering, to treason, and in some cases, much worse than this, when the child trafficking crimes of the higher ups come into the glare of public light.
+There have been over 6,000 pedophile and child trafficking arrests since Trump and his team took office. This has been the dirty secret in Washington and Hollywood, and frankly all over the world, for far too long to fathom with an open heart.
+
+Does anyone seriously think the broad scale corruption that is being revealed would have taken place if Hillary Clinton, whose entire career is an epic poem to corruption, had moved back into the White House? Alongside, of course, the other half of the political hydra that is her 'husband' Bill Clinton. They of the beneficent Clinton Foundation, kindest of all money laundering charities. It takes a village. And they took many.
+
+A lot of career politicians have gotten filthy rich off government jobs whose salaries do not reflect the windfall they came into after taking office. Where did all of this loot come from? Did they get rich gambling in Vegas like our latest 'lone gunman'? Methinks not. It's called Pay to Play and the Clintons were masters of it. Unfortunately for them, money tends to leave a trail, no matter how much they'd like to wash it away. BleachBit, anyone?
+It doesn't take a genius to see that, under a Clinton admin, it would have been business as usual. The scandals would have been fastidiously swept under the rug by professional fixers like James Comey, formerly of the FBI. And the mega corporate lobbyists would have continued to run their pay for play game in tandem with the politicos. And, of course, terror factions like ISIS would have flourished. After all, the agents that funded them behind the scenes would still be in power.
+
+Nowadays, ISIS is in a total collapse. They've lost all of their Middle East strongholds, because now they are actually being fought in a manner designed to defeat them. All they have left are their sleeper cells, which wreak havoc in several of the poorly governed countries of Europe - countries which struggle to properly run their own systems, because they answer to the globalist bureaucrats of the EU and not their own citizens.
+But this, too, will change. There is a groundswell in many of these places for their own version of Donald Trump, a populist leader with the fortitude and wherewithal to return the power to the people, where it belongs.
+
+Fortunately, in the United States, we already have our Donald Trump. And we have this leadership now because, on a greater level than many realize, we actually willed this into being. The long Era of Secrecy and Control is being dismantled at its very cornerstones. In doing so, new cornerstones will be put into place, ones with a foundation built on integrity, freedom, and the best interests of all of the people at heart. No longer will the government be a front operation for those maneuvering in the shadows.
+
+Is Trump some perfectly realized being? Absolutely not. He is as fallible as any of us. But his word is his bond. He is as dedicated as any leader in the world to fulfilling the promises he campaigned on.
+You may hold onto the notion that Trump is out to take healthcare away from you or enrich some rich crony capitalists, but this is not the case. The MAGA movement is sincere at its heart, which is what provides its great strength, its momentum and eventually, its longevity. Remember, Trump is not owned by lobbyists, unlike his political opponents. He financed his own campaign and was beholden to no outside moneyed interests. He can't be bought, in other words. How many other politicians can say that?
+
+In fact, only someone with Donald J. Trump's precise set of skills and life circumstances could have pulled the sword from the stone and entered the dragon's lair to defeat such an immensely well organized and well funded beast that was the entrenched political system.
+
+Some very well-intentioned people thought Bernie Sanders could have been that man. And indeed, the populist candidate Bernie did collect money from the people of the village and ride off on his donkey to the dragon's fiery den. But he stopped just short of the cave, feeling the heat of what he was up against. He then returned with singed clothes to the village and endorsed the dragon! No refunds y'all. He ran on fighting a 'rigged system' and then he bowed to that very same rigging, even when it was against his own campaign.
+
+Socialism never works, by the way. Its chief aim is to centralize power in a vast bureaucratic government, where the citizens are 'equalized' but disempowered vis-a-vis the all-powerful State. It leads to a totalitarian regime in the end and a general poverty is its bellwether. See every time it has ever been implemented, and Venezuela for some recent results. It is effective in small doses only, under a system driven by free markets in which the best ideas compete for implementation and individuals are encouraged to innovate and grow within that system.
+
+So, we find ourselves here. At the first act of an entirely new play. There is great promise ahead, though times may appear dark. In actuality, it is the greatly increasing light that is revealing what has ever been there and thriving in the shadows.
+
+One of those things is 'dark money.' As the link below addresses, there have been untold trillions spent on unaccounted for programs that did nothing whatsoever to improve the lives of the people of the world. That money went to the plans and back-up plans of players whose interests ran counter to the interests of humanity. When this spending is cut off at the roots and returned in a productive way to the eco-system of American life, there will be a new renaissance that all of the people will participate in. The purge in Saudi Arabia is a bellwether of what will happen in the US, however, it will be done within the modus operandi of the US Justice System.
+
+http://msutoday.msu.edu/news/2017/msu-scholars-find-21-trillion-in-unauthorized-government-spending-defense-department-to-conduct/
+
+The plans are long and the plans are broad, and like all great plans they may take longer then expected to accomplish from our perspective. But from another perspective, they are happening at the speed of light.
+
+You can expect the Reformation to pick up speed in 2018. Hollywood and Washington, kissing cousins that they are, will continue to air out their dirty laundry so that it can be cleaned and replaced with something with far better thread counts.
+
+Trump will continue to represent what I have always underlined: Building &amp; Prosperity and Law &amp; Order. Neither of these dual concepts are racist, sexist or xenophobic. A great leader both protects and enriches the people of his land. When those those interests are in order, he or she can extend the horizons beyond their own borders to the world at large.
+
+Trump may indeed be one of the biggest fans of Trump, but he arrived at a time when he was truly essential. He answered the call at a remarkable crossroads of History, and now we are on a new timeline where all things are possible.
+
+We will see a reformation of our economic system.
+
+We will see a reformation of our intelligence organizations.
+
+We will see a reformation of our local and federal government, all the way from the election process to term limits and above all else, to personal accountability.
+
+We will see a massive reformation of Big Pharma, an industry whose pockets have been lined by keeping people sick, and in some cases, actually engineering illnesses, rather than healing them. This will have a significant carry over effect in the Medical community at large.
+
+And lastly, we will see a gigantic growth in new energy technologies, as the free market is unchained from the fetters of multinational conglomerates that buy out patents and stifle the emergence of the inventions that can compete with them. We will see a comeback of the original Tesla, and not a company that simply hijacked his name.
+
+Take, if you will, a step away from the media culture that has a vested interest in the old world order, and consider for a moment what a truly free humanity might be capable of. The World Wars of yesteryear required an insane amount of money and human resources. When the financial instigators of those wars are removed from power, we will see humanity emerge into a remarkably positive new dawn.
+
+Trump is part of it, but he is only one man. The movement is much bigger than him and it has only just begun. It cannot be stopped or derailed, it can only be momentarily slowed down. But make no mistake, it is going in the direction that Life itself has decreed. #MAGA
+
+
+211129
+&gt; basically it's one big globalist plot to establish government rule, to control, maintain and delete what is put on the internet?
+
+No, but that's what far right an-caps(of which there are a lot) would have you believe, as well as assorted conspiracy theorists and other varieties of ignorant wing-nuts with more faith and belief than actual functional knowledge of what they're talking about.
+
+Reality is, it NN was pushed to the foreground because ISP's were working up plans to compartmentalize internet access(Similar to cable TV packages, because that's how they raped consumers for decades) and groom captive customers to use their services(eg video streaming) and make it costly and/or difficult(throttling) to use outside services.
+
+There may have been other things included, there always are "small print" sections or compromises in many such bills/acts....but avoiding the above is what NN rode to success on.  Protecting consumer/citizen rights has always been the heart of the issue.  With ISP's as carriers they find more legal difficulty in manipulating the flow of information.  It was different for actual TV, where the companies are paying out to all the networks based on distribution/liscensing, but that doesn't happen anywhere near in the same realm, in result or in effect, with the internet.  Data is data is data and they don't have any reason to charge more for different packages based on content.  As a carrier they're pushed into only charging for quantity delivered, not the kind of data.....same as the post office or phone companies.....they can't charge more for birthday wishes or prioritize political messages they're allied with.  It should be the same on the internet.  They should be *neutral*, ideally, totally blind to the content they're ferrying, because that's all they are, *a communication service provider*.  As such, they should be faced with the same limitations from infringing on people's rights(freedom of speech, association, religion, press etc etc etc).
+
+The *concept* of net neutrality is that the ISP remain *neutral* to that data.  It costs them the same to send a 2mb picture as it does a 2mb text file, regardless of the content or specific information there-in, be it porn, cat pictures, diy instructions, love letters, billing information, video game instruction guides, user manuals, educational material, entertainment such as comedy, etc etc  etc.  Same as the mail system, they only charge by weight and distance traveled, only with electronic information, it is *incredibly cheap to transmit data over lines.*  Any 2 letters of equal size and weight cost the same amount to send.
+
+With some mega businesses such as Comcast, it's always been about corporations wanting to manipulate the market to their favor, stifling competition or if not, paying them or buying laws to keep out of their turf, keeping captive customers and then fleecing them for as much as possible in as many ways as possible.  
+
+When people started cutting their cable TV cord in droves in recent years, cable TV companies have felt the sting, or if not, felt threatened by the risk of their captive consumers cutting back.
+
+NN was put in place just as these companies wanted to start using organized crime type tactics to control their customer base, and it had only just started because these companies were finally investing in finding ways to track user activity.  Instead of embracing quality service and paying for the best infrastructure, they opted to attempt to control the consumer, to extort them, that was how they decided to adapt to the digital age.
+
+This is why Anarcho-capitalism is ultimately bad.  It may work in theory, the free market of having ample competition keeping them honest, but with cable providers, it's *never* been a free market.  Everyone's turned a blind eye to anti consumer practices, monopolies(real or virtual...via collusion), and other anti-trust means.  In a vast majority of the US, there is no comparable competition for ISP's.  It's "good" CableX, or shitty DSL, dialup, or sattelite.
+
+Being virtual monopolies, they're in positions of power where they can extort and regulate the flow of information.
+
+NN as a concept is not about the evil government getting control and virtual censorship.  It's about stopping the ISP from getting control and censoring(in effect) what people can access.
+
+Same reasons we have laws against murder and a vast amount of other civil rights violations.  It's the application of all those constitutional freedoms applied to the digital age.
+
+Disclaimer:  It would be unwise to write me off as some liberal mouth-piece.  This issue of NN and the way T_D has been treating people has ran off a lot of people who are otherwise against leftists on a vast array of topics.  It's all fun and games mocking loony liberals or whatever a regressive leftist is claiming to be this week, their ample fake news about Trump makes them easy targets.  Go far enough back in my posts and you will see I'm generally and consistently anti-"progressive" because they're actually regressive, having used 1984 as a guide instead of the warning it was meant to be....but this isn't a "progressive" topic, or at least it shouldn't be.  We should all be concerned when restrictions from rights infringement are lifted.  It's akin to lifting laws on theft or fraud, just because.  Individual rights should always be paramount, and this turns coat on that sentiment.
+
+However, much like an analogue clock that is right twice a day, this is their moment of being correct, first issue since the election.  The way our lives have an ever increasing activity on the internet, the more our rights need to be protected from those that could and would and very nearly have, attempted to infringe.  They just happen, by freak occurrence, to be correct in this, at least as it applies to the concept of what NN is for, if not the details of the actual order.
+
+In short.  If the application of the thing had bad parts, those parts should be fixed.  Not repeal the thing as a whole, throwing it all away, citizen protections included, is rash and ignorant.  This shouldn't be a partisan issue.  It's disturbing to me to see it become some vast issue.  All we had to do was not fuck-up, but this is going to sit badly with a lot of people.
+
+That's not a "concern troll", just a conversation of the social dynamics.  This isn't a case of liberal media making up some fabrication they way they have been about Trump for over a year, such as how he allegedly fucked up while feeding fish in Japan(When the fact is he did exactly what his Japanese equivalent(president?  prime minister?  no idea of the actual title) did.
+
+This is a basic question of constitutional rights, and as such, a lot of the right is in the wrong here.  Supported only by cockamame and contrived excuses born of ignorance(and not all of that honest naivete), getting all cocky and conspiratorial over this is playing right into their hands, one of the few things they have a superior argument for......as central as the internet is to a lot of people's lives, this is actually a very important key issue and the stance supported here is going to stick in the craw of a lot of open minded portion of the political center that dislikes not only the government trying to control them, but also corporations trying to control them.
+
+Much like the legalization of Pot, this is where the right could easily give ground and sway a lot of support without giving in on other issues that have real-world impact such as illegal immigration.
+
+This is the very epitome, the perfect example, of the corporate controlled side of the right.  This only solidifies people against them who already were, and drives even more people in that direction.
+
+
+
+581
+&amp;nbsp;
+
+If the internet is neuterized,	  
+stolen in the night 	  
+like so many rights before,	  
+labeled upside down	  
+like the politician whores,	  	  
+their profession is to 'sell you out'.	  
+
+&amp;nbsp;
+	  
+The First Amendment' is our last hope	  
+for saying what we really think,	  
+with viral ideas neutralized	  
+real news' will then become extinct.	  
+
+&amp;nbsp;
+	  
+Draining all facts from the Net	  
+to cover greedy crimes with lies,	  
+making truth as hard to find	  
+as congressmen not taking bribes.	  
+
+&amp;nbsp;
+
+Quietly killing the Constitution.	  
+Gouging out all public eyes.	  
+Hiding truth, and real solutions,	  
+filling minds with nazi lies.	  
+
+&amp;nbsp;
+	  
+Fluoride, mon$atan, common core,	  
+designed to dumb you down some more,	  
+the main scream fake news' bury-tales,	  
+designed by ghouls from hell to fail.	    
+
+&amp;nbsp;
+	  
+Frankenfood not fit to eat.	  
+Lethal medicide gone mad.	  
+Fake news a scream of nazi lies.	  
+Congress bought, blackmailed and had.	  
+
+&amp;nbsp;
+	  
+Rainbows snatched from sacred thighs,	  
+greatest gift demeaned and stolen,	  
+justice raped, freedom auctioned.	  
+Greed ghouls want one world of slaves.	  
+
+&amp;nbsp;
+	  
+Their miseries are systematic,	  
+starts with panic in the womb,	  
+paradise kept under ice,	  
+you cannot miss what is not known.	  
+
+&amp;nbsp;
+	  
+Hidden greedy obfuscation,	  
+shielded from the zombie nation,	  
+well designed sick agitations,	  
+planning lethal altercations.	  
+
+&amp;nbsp;
+	  
+Sandy Hook was staged.	  
+Climate change a scam.	  
+Vegas was a black op blunder.	  
+Hellywoods are damned.          	  
+
+&amp;nbsp;
+	  
+Global ghouls are monsters.	  
+Politics is slutty.	  
+The fourth estate's a cover up,	  
+keeps the water muddy.	  
+
+&amp;nbsp;
+	  
+Such evil ways end up in dust	  
+of ancient ills and current wills,	  
+a few sick men, cartels of cults	  
+with man extinct, but hell thrice filled.	  
+
+&amp;nbsp;
+	  
+The world will be the king's forest,	  
+satanic ghouls will be the kings,	  
+half billion well drugged slaves preserved,	  
+to do all the 'unpleasant' things.	  
+
+&amp;nbsp;
+	  
+Your government is not your friend	  
+their truth is 'You belong to them!'	  
+Many cures for cancer have been found,	  
+and steel buildings cannot burn down.	  
+
+&amp;nbsp;
+	  
+If they black out the net	  
+we'll all be flying blind.	  
+America Wake up and fight	  
+or prepare to sleep forever.	  
+
+&amp;nbsp;
+	  
+The truth slain by transparent lies,	  
+the blotted facts and blacked out lights,	  
+Look children buildings falling down,	  
+let's burn the Bill of Rights.'	  
+
+&amp;nbsp;
+	  
+The masses they are looting	  
+are the only force they fear;	  
+when human harvest is complete	  
+they plan for you to disappear.	  
+
+&amp;nbsp;
+	  
+You would not believe the truth,	  
+they've driven you too far into	  
+their MSMatrix world of lies,	  
+such distance leaves you paralyzed.	  
+
+&amp;nbsp;
+	  
+Now you ask when did they lie,	  
+and at what point, in time, and why?	  
+Answer comes in words of song,	  
+Everything you're told is wrong!	 
+
+&amp;nbsp;
+	  
+Just a handful of global ghouls	  
+are running the western world.	  
+The people are their greatest fear,	  
+the largest army anywhere.	  
+
+&amp;nbsp;
+	  
+Invaded by dead men of greed, 	  
+humanity kept in the caves.	  
+paradise eclipsed by hell,	  
+counterfeiting dollar chains.	  
+
+&amp;nbsp;
+	  
+The mercenary scum of Earth	  
+is now in their employ,	  
+they'd kill The Virgin giving birth	  
+and rape the choirboys.	  
+
+&amp;nbsp;
+	  
+Depicting grand realities,	  
+the matrix lie of nanny state, 	  
+while stacking coffins near the cities 	  
+to seal our stink and mortal fate.	  
+
+&amp;nbsp;
+	  
+Northwood, Paperclip, Nine Eleven,	  
+ten cancer cures and Building Seven,	  
+nazi clans, cults, and cartels,	  
+ushers to extinction hell.	  
+
+&amp;nbsp;
+	  
+Our children dumbed and poisoned.	  
+All markets rigged and raked.	  
+50 trillion stolen.	  
+Official numbers faked.	  
+
+&amp;nbsp;
+	  
+Politics is business.	  
+War 's a profit deal,	  
+harvesting both nations,	  
+wasting lives they steal.	  
+
+&amp;nbsp;
+	  
+They pulled the New York towers down, 	  
+looted 50 trillion;	  
+they murder with fake medicine, 	  
+targeting the billions. 	  
+
+&amp;nbsp;
+	  
+Operation Northwood,	  
+a plan to shoot down planes	  
+full of US passengers,	  
+then Cuba would be framed.	  
+
+&amp;nbsp;
+	  
+The joint chiefs all approved this shit,	  
+this false flag set to go,	  
+had passengers in cross-hair sights..	  
+said JFK, “Hell fucking no!”	  
+
+&amp;nbsp;
+	  
+Nine-one-one a show for fools,	  
+three thousand people trapped and ground.	  
+Explosives sent by global ghouls.	  
+Steel buildings don't burn down!	
+
+&amp;nbsp;
+	  
+They don't deny 'Building 7' was pulled;	  
+since it wasn't hit by a plane.	  
+But can't lay charges in just hours,	  
+would take them at least days.	
+
+&amp;nbsp;
+	  
+Which means the twins were wired as well	  
+to blow this broadway show;	  
+so swallow this New York red pill	  
+to understand, then know.	  
+
+&amp;nbsp;
+	  
+If crude fires could melt metal,	  
+no bellows could be found,	  
+granny's fire stove would be	  
+a puddle on the ground.	  
+
+&amp;nbsp;
+	  
+If kerosene burns steel frames,	  
+why pay demolition fees,	  
+been a hundred years of flames, 	  
+not one blew up like these.	  
+
+&amp;nbsp;
+	  
+One in Spain burned for two days,	  
+torch lit a hundred miles away;	  
+afterwards all steel remained,	  
+while on its roof a heavy crane.	
+
+&amp;nbsp;
+	  
+All the laws of physics say 	  
+three towers were demolished,	  
+exothermic nano thermite	  
+detonation sequence polished.	
+
+&amp;nbsp;
+	  
+They set out to destroy all three,	  
+the planes.. a decoy reason,	  
+so when the three came crashing down	  
+no one would suspect treason.	 
+
+&amp;nbsp;
+	  
+Building 7 set to blow,	  
+when wrapped in pyroclastic smoke,	  
+but building 6 got in the way,  	  
+detonating stooges choked.	  
+
+&amp;nbsp;
+	  
+Seven was a problem now,	  
+explosives laid and wired to go,	  
+video cameras everywhere	  
+and no reason to explode.	  
+
+&amp;nbsp;
+	  
+Bomb sniffing dogs circle	  
+a patient demolition team,	  
+but if they wait til dark	  
+explosive flashes will be seen.	  
+
+&amp;nbsp;
+	  
+Finally they just pulled it,	  
+with 50 cameras, broad daylight,	  
+more proof of government at work	  
+since they could not do it right.	  
+
+&amp;nbsp;
+	  
+cheney took em down with help,	  
+but he's just a flunky stooge,	  
+when Toto pulls the curtain back,	  
+you'll see sick global ghouls.	  
+
+&amp;nbsp;
+	  
+They killed three thousand people,	  
+and anyone can prove this,	  
+by looking at the evidence,	  
+but of course you've never seen it.	  
+
+&amp;nbsp;
+	  
+When truth of 911 gets round,	  
+deep state inside corrupt.	  
+Three towers were not falling down,	  
+but clearly blowing up.	  
+
+&amp;nbsp;
+	  
+Fingerprint trace element,	  
+nano thermite slag in pours,	  
+molten pools of melted steel,	  
+exothermic signatures.	  
+
+&amp;nbsp;
+	  
+Free fall collapse of structured steel,	  
+pancake impossible unreal,	  
+breaks all of Newton's basic laws,	  
+one lie with fifty thousand flaws.	  
+
+&amp;nbsp;
+	  
+Norad told to “Stand full down,	  
+ignore twin tower calls for help.	  
+We're running a live exercise	  
+with hijacked planes.. a routine drill.” 	 
+
+&amp;nbsp;
+	  
+cheney at the pentagon,	  
+protects the plane he sent,	  
+proof of trillion dollar crimes	  
+destroyed when missile hits.	  
+
+&amp;nbsp;
+	  
+Steel melts at three thousand degrees,	  
+left professor Jones to wonder,  	  
+since hottest crude fires can get 	  
+max out at just nine hundred.	  
+
+&amp;nbsp;
+	  
+Mindless in their ignorance	  
+when planning zero ground,	  
+forgot the laws of physics,	  
+steel buildings don't burn down.	  
+
+&amp;nbsp;
+	  
+These crimes got them another war	  
+with oil and golden treasure.	  
+They shredded Constitution more,	  
+rights lost beyond all measure.	  
+
+&amp;nbsp;
+	  
+Wars aren't fought for people,	  
+not for sisters, dads or mothers,	  
+they're planned in cold blood greed filled rooms	  
+by Cains who murder brothers.	  
+
+&amp;nbsp;
+	  
+Not for country, not for God,	  
+not for the girl next door,	  
+but for a few blood drinking sods,	  
+hellborn global overlords.	  
+
+&amp;nbsp;
+	  
+They set us up, don't care who wins,	  
+inside both sides they play,	  
+when streets run red with mingled blood 	  
+they clean up either way.	  
+
+&amp;nbsp;
+	  
+Nine eleven, JFK, area 51, 	  
+nanny state, reprobates,	  
+who really lost and won,	  
+the big world wars, 	  
+the great moon race, 	  
+famous Holly-whores	  
+how far we've been out in space, 	  
+cults, cartels, and more..	  
+
+&amp;nbsp;
+	  
+The truth far out of common reach,	  
+eclipsed by MSMatrix,	  
+blinding people everywhere	  
+with poisoned: food, meds, water, air.	  
+
+&amp;nbsp;
+	  
+While purchased 4th estate portrays	  
+Fairy poppins, happy days, 	  
+but when mary's face unzippers	  
+you find out she's jack the ripper.	  
+Who carves you up and boils your bones	  
+for recipe.. Georgia Guide Stones.	
+  
+&amp;nbsp;
+	  
+Lost in planned confusion,	  
+humans wait to thrive.	  
+Cures' are sick delusions,	  
+the patient don't survive.	  
+
+&amp;nbsp;
+	  
+“The Men Who 'Raped' America”    
+killed medicine for chemistry,	  
+could not patent cannabis,	  
+or any natural remedy.	  
+
+&amp;nbsp;
+	  
+All health and future sold to few,	  
+as Gallo gave them early graves,	  
+replacing help with hidden harm,	  
+to murder those they swear he saved.	  
+
+&amp;nbsp;
+	  
+Medicine was profitized	  
+ninety years ago,	  
+they kill and hide real cures from you,	  
+withholding what they know.	  
+
+&amp;nbsp;
+	  
+Their vaccines are all poison,	  
+laced with virus death,	  
+their only goal is money,	  
+their only god is wealth.	  
+
+&amp;nbsp;
+	  
+Docs are mostly innocent,	  
+but some of them must know,	  
+since more they touch, the more drop dead,	  
+as 'doctor strikes' all clearly show.	  
+
+&amp;nbsp;
+	  
+And the new tax.. oh bummer care,	  
+a pork pie of deception,	  
+not only poison practices,	  
+health's opposite direction.	  
+
+&amp;nbsp;
+	  
+If in a car wreck, get sewed up,	  
+the one thing they will do,	  
+they figure when you get the bill	  
+they've done enough to you.	  
+
+&amp;nbsp;
+	  
+Blue blood plan is carved in stone,	  
+slow starving poisons sterilize	  
+to grip and strip and rip young bones,	  
+control drugged minds with holy lies.	  
+
+&amp;nbsp;
+	  
+The harvest of the human race,	  
+their future wasted in blind greed,	  
+destruction of this garden place,	  
+rendering mankind extinct.	  
+
+&amp;nbsp;
+	  
+governments are all pure shit,	  
+consider you their hordes of sods,	  
+yet even Chumpsky stooge admits	  
+they fear you more than God.	  
+
+&amp;nbsp;
+	  
+March, swell, ask, tell,	  
+move tall mountains, ring loud bells.	  
+Picket, click it, Rebel yell.	  
+Send these nazis back to hell.	  
+
+&amp;nbsp;
+	  
+What you can do is wake up,	  
+then wake up ten more sheeple.	  
+Harry Plotter has a knife,	  
+this govern-cult kills people.	  
+
+&amp;nbsp;
+	  
+Insist, resist, contest, get pissed,	  
+use your wings and head.	  
+Make a fist, shift the gist, 	  
+wake the bloody dead.	  
+
+&amp;nbsp;
+	  
+Write a book, sing a song,	  
+weed out the second rate.	  
+Short stroke facts that prove what's wrong,	  
+no time to hesitate.	  
+
+&amp;nbsp;
+	  
+While you were slaving in the pits,	  
+faking your first million,	  
+according to Ms Catherine Fitts, 	  
+the ghouls stole fifty trillion.	  
+
+&amp;nbsp;
+	  
+Slave compression populations,	  
+cities are their trap,	  
+tumorous coagulation,	  
+the food is poisoned crap.	  
+
+&amp;nbsp;
+	  
+Propagated segregation,	  
+polarizing factions,	  
+such transparent instigations,	  
+terminal distractions.	  
+
+&amp;nbsp;
+	  
+Contemplated obfuscations,	  
+confusion is their goal,	  
+'Fay Wray waiting' zombie nations,	  
+bound between the poles.	  
+
+&amp;nbsp;
+	  
+Confistealing allocations,	  
+congress, one big slut for sale.	  
+Banker bailout assignation,	  
+ten times every mortgage failed.	  
+
+&amp;nbsp;
+	  
+Old Antarctic revelation,	  
+disruptive new technologies.	  
+Whistle blown incarcerations,	  
+blackmailed flying monkeys.	  
+
+&amp;nbsp;
+	  
+We sent Trump to arrest these ghouls,	  
+the mandate that he carries,	  
+they might control the banking world,	  
+but he commands our military.	  
+
+&amp;nbsp;
+	  
+Incarcerate these oligarghouls	  
+that waste so many lives,	  
+centuries of slavery, 	  
+yet slavery survives.	  
+
+&amp;nbsp;
+
+Imprisoned population,	  
+of apathy and lies,	  
+where innocence is tortured,	  
+and evil is disguised.	  
+
+&amp;nbsp;
+	  
+Arrest the oligarghoul-philes..	  
+the army's your command,	  
+they're tired of serving monsters,	  
+they are fathers, sons, and friends.	  
+
+&amp;nbsp;
+	  
+Restore the Magna Carta.	  
+Bring freedom back to life.	  
+Enforce the Constitution.	  
+Bring back the Bill of Rights.	  
+
+&amp;nbsp;
+	  
+We The People' of the world	  
+empower Donald Trump	  
+to drain the swap in washington 	  
+and every other dump.	  
+
+&amp;nbsp;
+	  
+Arrest these oligarghouls,	  
+you know now who they are,	  
+their crimes go on for decades,	  
+so put them behind bars.	  
+
+&amp;nbsp;
+	  
+Jail the evil at the top,	  
+and free the human race,	  
+this Earth can be a Paradise,	  
+once we have escaped.	  
+
+&amp;nbsp;
+	  
+Don't tell us it's not possible, 	  
+we know it can't be done 	  
+by ordinary human men..	  
+That's why we sent The Trump!	  
+
+&amp;nbsp;
+	  
+Army's fed up with sick brass.	  
+The navy knows their reasons.	  
+The Air force will fly up their ass.	  
+Marines object to treason!	  
+
+&amp;nbsp;
+	  
+Our sons know evil by its stink	  
+love their freedom, die to save it,	  
+will kill an order to harm us,	  
+and arrest whoever gave it.	  
+
+&amp;nbsp;
+	  
+And now scared owners fear their slaves,	  
+they've stolen everything and place;	  
+just want to make their getaways	  
+before the zombie nation wakes.	  
+
+&amp;nbsp;
+	  
+The greed of men has ruled this world	  
+their horror spanning centuries,	  
+descended minions drinking blood	  
+to worship gods of hell.	  
+
+&amp;nbsp;
+	  
+Six billion scheduled to die,	  
+chiseled plans in stone they do.	  
+Wake up and smell the coffins stacked	  
+outside a town near you.	  
+
+&amp;nbsp;
+	  
+The greed cults that killed JFK	  
+still run the not 'free world' today.	  
+Net neutrality's just their way	  
+to censor every word you say.	  
+
+&amp;nbsp;
+	  
+Named opposite of what it does,	  
+like the traitor's unPatriot act,	  
+that nine-one-oned the Bill of Rights.	  
+Now they want the internet.	  
+
+&amp;nbsp;
+	  
+Most of what you think you know	  
+is only what they want to show,	  
+you're just a market shopper top,	  
+another slave to tends their crops.	  
+
+&amp;nbsp;
+	  
+Kidnapped from birth and mind patrolled,	  
+the Pinkhats had no chance.	  
+MSMatrix lies they're sold	  
+to keep them in the trance.	  
+
+&amp;nbsp;
+	  
+Redpill the brainwished zombied pinks. 	  
+Ambush them with truth and facts.	  
+Free these 'enslaved souls in sync'.	  
+Rescue some misled Pink Hats. 	  
+
+&amp;nbsp;
+	  
+You zombie pups are far from home,	  
+your brains flash-stroked with nazi fuzz.	  
+Your heroes under blackmail thumbs,	  
+not real heroes, never was.	  
+
+&amp;nbsp;
+	  
+They lied about Kennedy.	  
+They lied about New York.	  
+They lie to get elected,	  
+then trade your lives for pork.	 
+
+ &amp;nbsp;
+	  
+Mass proxy doesn't even work,	  
+they've screwed you throughout time,	  
+all politicians selling lives,	  
+since crawling from the slime.	 
+
+ &amp;nbsp;
+	  
+Failed human proxies.	  
+Lincoln should be arrested.	  
+Money coronated God.	  
+Humanity molested.	  
+
+&amp;nbsp;
+	  
+Discovered xray vision, 	  
+ate two red pills raw,	  
+busted through the looking glass,	  
+enlightened, then I saw..	  
+
+&amp;nbsp;
+	  
+Steer clear of the cities.	  
+Gather for a long thin spell,	  
+just maybe some hard rain coming,	  
+scheduled detour into hell.	
+
+  &amp;nbsp;
+	  
+Wondering what you can do?	  
+Find the blind, and show them!	  
+Tell a friend to pack a lunch	  
+and read this fucking poem.	  
+
+&amp;nbsp;
+
+
+----------
+Cluster #1:
+Cluster importance: 0.0578673047857
+trump: 6.774372
+president: 1.641304
+obama: 0.538327
+donald: 0.459757
+mueller: 0.400850
+supporter: 0.387015
+anti: 0.304285
+support: 0.282844
+tweet: 0.275298
+flynn: 0.202510
+hillary: 0.202071
+fire: 0.202068
+campaign: 0.186076
+russia: 0.179638
+elect: 0.177681
+
+175470
+Ain't there also something about trumpets? And trumping in the raptures?..... just sayin'!
+
+
+
+52735
+OCR &amp; INDEX IT ASAP. I'M ON IT.
+
+TRUMP PUT ME IN COACH!
+
+86664
+I would up-Trump more then once, but I only have one up-Trump to give.
+
+363834
+Товарищ Путин предупредил вас об этом. Вы хотите, чтобы вас разобрали?
+
+Er, I mean, beep boop Trump 2020!
+
+165590
+My only disappointment with Trump.  This should be 137%, but I know he will get us there.
+
+71442
+I keep thinking ive peeked , Trump Is Like. A Phoenix.)rising up..
+
+90923
+Looks like the beginning of the end for Trump!... for the 5,264th time.
+
+100037
+The only thing I like better than myself being smug is Trump being smug. 
+
+111454
+I was nervous about her but it seems like she is doing what trump tells her.
+
+84270
+Was it because of Trump last year too? And the year before that? Etc?
+
+----------
+Cluster #2:
+Cluster importance: 0.0180832728686
+brick: 4.761790
+wall: 2.195526
+centipede: 1.904622
+build: 1.111374
+start: 1.019144
+hand: 0.964001
+foot: 0.910150
+brownsville: 0.900282
+mile: 0.900014
+imperial: 0.898965
+texas: 0.898472
+beach: 0.898094
+tomorrow: 0.897253
+patriot: 0.889687
+high: 0.889329
+
+401358
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 92482 BRICKS HANDED OUT!**
+
+We are at **14.338429345%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1073.11863439 MILES WIDE** and **353.672773136 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+401357
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 92475 BRICKS HANDED OUT!**
+
+We are at **14.3364565054%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1073.0066782 MILES WIDE** and **353.663347669 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+401356
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 92470 BRICKS HANDED OUT!**
+
+We are at **14.3351029964%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1072.9422603 MILES WIDE** and **353.658939316 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+401355
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 92459 BRICKS HANDED OUT!**
+
+We are at **14.3344863794%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1072.91088911 MILES WIDE** and **353.65812028 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+401354
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 92458 BRICKS HANDED OUT!**
+
+We are at **14.3340640706%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1072.8899565 MILES WIDE** and **353.656004378 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+401353
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 92412 BRICKS HANDED OUT!**
+
+We are at **14.332051934%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1072.58421138 MILES WIDE** and **353.641988642 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+401352
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 92397 BRICKS HANDED OUT!**
+
+We are at **14.330304703%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1072.47650606 MILES WIDE** and **353.632318122 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+401351
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 92396 BRICKS HANDED OUT!**
+
+We are at **14.3299789001%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1072.4540723 MILES WIDE** and **353.629674271 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+401361
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 92570 BRICKS HANDED OUT!**
+
+We are at **14.348688302%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1073.81682113 MILES WIDE** and **353.737279247 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+399748
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 92553 BRICKS HANDED OUT!**
+
+We are at **14.348272085%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1073.7494839 MILES WIDE** and **353.729915958 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+----------
+Cluster #3:
+Cluster importance: 0.0358193502246
+fuck: 6.895672
+bullshit: 0.171845
+retard: 0.157214
+stupid: 0.148437
+ass: 0.137200
+idiot: 0.130379
+bitch: 0.117800
+literally: 0.108257
+cuck: 0.106361
+holy: 0.103635
+seriously: 0.102140
+dude: 0.097300
+cunt: 0.090680
+sick: 0.087985
+-PRON-: 0.087523
+
+90027
+He's 80 years old. I think he is way past giving a fuck by this point. 
+
+63081
+Where did this come from? I need to fuck with these comments. 
+
+
+215194
+Go advertise your restaurant elsewhere, McDonalds/Chipotle/Caspers.
+
+This ain't the fucking sub for it.
+
+103383
+LOL you think they'd give you luxuries like a bun? get the fuck outta here
+
+146651
+They know they're gonna get "fucking thrashed". Couldn't have said it better myself.
+
+49239
+Proud to say I'm getting the fuck out of here very soon. 
+
+116114
+I’ll take the latter. I’d much rather go fuck hookers than fuck that hog.
+
+68947
+The fuck did I just look at. That page almost gave me a seizure. 
+
+106495
+Erdogan is so fucked over the next few years and he doesn't even see it yet
+
+114409
+
+Well, thats probably a good thing for her, because she is a fucking dumbass.
+
+----------
+Cluster #4:
+Cluster importance: 0.0283598442402
+vote: 6.371609
+democrat: 0.908345
+voter: 0.430066
+election: 0.387639
+senate: 0.289390
+moore: 0.289129
+bill: 0.283960
+alabama: 0.281465
+dems: 0.277562
+republican: 0.263412
+party: 0.258461
+republicans: 0.234274
+jones: 0.229923
+count: 0.208546
+black: 0.206740
+
+86882
+It is also one more confirmation vote for SCOTUS when that time comes.
+
+81681
+7-2. Even Kagan voted for it!! Only Ginsturd and Spitomayer said no. 
+
+43873
+Cant and never have been able to vote in the US, lad.
+
+79925
+They can just call to vote on things they have no controll over? Lol
+
+104149
+Thanks.  I don't know why anyone would down vote that either.  Bots maybe.
+
+96629
+about time lisa had some guts and voted on somethign. same with collins.
+
+88652
+maybe there were one or two. there are 1700 votes missing there alone.
+
+244315
+I wouldn't vote for someone if I knew that they couldn't tackle at least 500 pages in several days. Just saying.
+
+50468
+I didn't like him, but would have voted for him if I could
+
+433932
+If you live in Alabama:
+
+VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! 
+
+VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! 
+
+VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! 
+
+----------
+Cluster #5:
+Cluster importance: 0.0463474824167
+tax: 3.794183
+pay: 3.334177
+$: 1.959289
+cut: 1.732774
+taxis: 1.500135
+bill: 1.198679
+income: 0.544659
+plan: 0.457365
+high: 0.429417
+pass: 0.361403
+rate: 0.356533
+low: 0.343465
+dollar: 0.342625
+reform: 0.332627
+job: 0.327566
+
+465987
+Any tax cut with the slightest veneer of fairness will save millionaires and billionaires a lot of money. Why shouldn't the people who pay the majority of taxes receive tax cuts? Also, the tax bill will make almost everyone pay less taxes.
+
+204713
+Don’t cut taxes!  Don’t cut taxes!
+
+-Rush to pay property tax in 2017 to try and pay less tax.  
+
+110720
+Do they not pay taxes? That seems like something taxed should be paying for.
+
+86369
+How will we pay for the tax refunds of those who don't pay taxes!?!?!?
+
+198300
+IT'S NOT A TAX CUT! PEOPLE MAKING BETWEEN 400K - 416K WILL PAY MORE. REEEEEEEEEEEEEEEEEEEEEEEEEEEE
+
+132648
+I don’t think tax can go below zero.  So you just don’t need to pay anything.
+
+219647
+Quite a few think that people getting a tax refund each year are getting back all the amount they pay in
+
+95633
+Tax sensibly and everyone will pay. Take too much and you’ll get less.
+
+109862
+The bottom 40% have a negative income tax. That is, they get paid by the taxes on the top 60%, the people (or is it households?) making over $47k. To them, "tax cut" means "pay cut".
+
+http://www.aei.org/publication/as-tax-day-approaches-lets-thank-top-20-for-shouldering-84-of-the-income-tax-burden-with-only-50-of-us-income/?osm=1
+
+252380
+$355 here.  That's about how much I've been paying above and beyond my payroll tax witholding, so that's something.
+
+----------
+Cluster #6:
+Cluster importance: 0.0262350908634
+news: 4.741308
+fake: 3.722729
+cnn: 0.670816
+story: 0.619845
+medium: 0.447708
+report: 0.419114
+source: 0.370740
+fox: 0.350850
+real: 0.348706
+article: 0.288523
+abc: 0.212251
+msm: 0.206616
+lie: 0.186670
+headline: 0.149201
+spread: 0.144685
+
+62480
+Or Ross just made it up.  I wouldn't put it past the Fake News.
+
+71091
+GAH the fake news got me! How can i edit this and take that off?!
+
+
+351916
+OP fake news, or something else? Saying most likely an object now.
+
+https://nypost.com/2017/12/18/object-on-tracks-may-be-cause-of-deadly-amtrak-derailment/
+
+54581
+If by ammunition you mean FAKE NEWS, then yes. Yes they did.
+
+86961
+Its just the line between fake news and satire is blurring, thats all.
+
+245103
+That is indeed fake news. 
+
+Why do they think they can keep getting away with it? Because they obviously can't. 
+
+42985
+Almost as if all of the news about it is fake ��
+
+89989
+He is saying that Infowars, etc., are fake news, and very serious sins.
+
+84398
+What was the fake news he did against Veritas? I must have missed it.
+
+196232
+When fake news comments on fake news of being fake news, which fake news does the fake news news?
+
+----------
+Cluster #7:
+Cluster importance: 0.0302808541425
+shit: 6.225557
+piece: 0.611450
+holy: 0.513710
+eat: 0.132709
+stupid: 0.124848
+talk: 0.115626
+hole: 0.099552
+dumb: 0.092976
+dude: 0.091017
+ass: 0.077804
+crazy: 0.076501
+funny: 0.073364
+real: 0.069419
+pull: 0.066067
+literally: 0.065576
+
+129870
+That was probably the shit he was showing them, asking them if it arouses them. 
+
+145175
+I said they don't give a shit WHERE they shit. Coz they'll shit anywhere apparently.
+
+62293
+Lol. People actually think I tried. This be a shit post peopel!
+
+101034
+we knew this shit for nearly a year now, this is just more confirmation. 
+
+322427
+I know the judiciary is almost shit. But that's not the right thing to do IMHO.^It ^is ^different ^if ^they ^die ^in ^police ^custody ^though.
+
+235463
+Just more shit-flinging which both sides are doing more and more of. After all, your post is full of the same
+
+45200
+Shit he is at the gym all the time... Not looking good
+
+76862
+a turd is 100% shit, but it stinks and in the end its still a turd.
+
+52698
+No one gives a shit what you want.  I told you where to go.
+
+57608
+Well when I see a toilet, I want to take a new shit in it too
+
+----------
+Cluster #8:
+Cluster importance: 0.0260022411782
+guy: 6.139316
+bad: 0.313755
+mueller: 0.214644
+picture: 0.117754
+gay: 0.109847
+dude: 0.099299
+hey: 0.095297
+fbi: 0.095053
+shoot: 0.089585
+fall: 0.089577
+video: 0.076535
+strzok: 0.075294
+girl: 0.072057
+kind: 0.071093
+nice: 0.069019
+
+136807
+I don't think this means too much, the guy is probably going to croak soon anyway.
+
+136366
+Dont tell the rope guy but i just wanted to sneak in a goofy grampy saying or w.e.
+
+93213
+"But it's okay when we do it! We're the good guys!" - Soyboys, probably.
+
+136214
+Casey Neistat is the guy who looks like he was a meth addict at some point, right?
+
+118880
+4th Reich, things will be different this time guys, wir schaffen das! - Merkel
+
+136156
+But guys, what if the ID is a chip implant? Seems like something "they" would try.
+
+136009
+And they never did an assessment, they just said "we believe what those guys said"
+
+80552
+guys she has the right to be enslaved if she wants to. FREEEDOOMMMMM
+
+160343
+Come on you guys. She'll be embarassed of she sees this. Take this down. This is tacky. 
+
+60498
+what browser are u guys using?  I can't get away from chrome. 
+
+----------
+Cluster #9:
+Cluster importance: 0.0348858724691
+man: 4.987832
+woman: 3.665026
+gay: 0.373278
+rape: 0.355370
+sex: 0.256694
+child: 0.245394
+feminist: 0.227849
+young: 0.194457
+god: 0.194444
+black: 0.172384
+girl: 0.171364
+sexual: 0.171320
+life: 0.167025
+wear: 0.162032
+gender: 0.143270
+
+66101
+Where the men look like women ... and the women need to bathe...
+
+156295
+But yet he ran a misogynist show called The Man Show and made lewd comments about women
+
+208477
+How do they know none of those women secretly wished to be a man?
+
+\#don'tassumemygender #transphobia
+
+89354
+A misogynist is just a man who sees women the way they see each other. 
+
+187730
+It will take significant hardship for women to become women again and men to become men again. 
+
+60260
+Why Is There a woman of the year and not a man of the year lol
+
+50957
+So a woman was impregnated by a man. Happens all the time.
+
+239249
+The greatness of woman is up to the greatness of man and the greatness of man is up to the greatness of women.
+
+92368
+You can be a man or a woman, but those conventional norms will expire. 
+
+316260
+Old men tell us "back then men were men and women were women".
+
+When we'll be old, we'll say "back then men had penis and women had vagina"
+
+----------
+Cluster #10:
+Cluster importance: 0.0305927063994
+white: 5.476738
+black: 1.973428
+racist: 1.161484
+house: 0.569558
+male: 0.545526
+hate: 0.407095
+privilege: 0.405299
+race: 0.371602
+supremacist: 0.289061
+minority: 0.257931
+racism: 0.202027
+color: 0.191218
+nationalist: 0.174662
+culture: 0.148047
+genocide: 0.147678
+
+59562
+Mario is the white savior.  Ironic that we all want to be him!
+
+96362
+Why are white people even over there? Gtfo of that third world shithole.
+
+306401
+I wouldn't get too worked up about it. White is actually a pinky-beige. It's OK to be [Pinky-Beige](http://i.magaimg.net/img/23u4.png).
+
+128996
+It's still not ok to be white. Just posting on reddit that it is is not enough. 
+
+106311
+Can't tell ya, other than they'll be reclassified as "White" at some point.
+
+134745
+Why do most white jihadis seem to be ginger? Nothing against gingies, just saying
+
+130842
+especially that White Widow.  And that White Skywalker.  and the White Buddha.  
+
+77918
+CA says, Reading is a symbol of White Supremacy. Reading is rayists!
+
+233250
+Welcome to Maine.  Sure you can have that one mountain that spilled over from the Whites of NH.  
+
+Now gtfo.
+
+251721
+You would think a racist page would do "black people vs white people"   just saying .. they put white people first
+
+----------
+Cluster #11:
+Cluster importance: 0.0183597818697
+christmas: 4.945871
+merry: 2.783820
+happy: 0.731752
+maga: 0.534054
+family: 0.476709
+god: 0.460950
+hope: 0.451431
+holiday: 0.437929
+pede: 0.335412
+bless: 0.310659
+pes: 0.267165
+celebrate: 0.245632
+tree: 0.206663
+gift: 0.152401
+nice: 0.141175
+
+194499
+I have a few but I won't say no to another! 5.56x45 Multi for 300 Blackout. ;-). Merry Christmas.
+
+5368
+Merry Christmas! Merry Christmas! Merry Christmas! Merry Christmas! Merry Christmas! Merry Christmas! Merry Christmas! Merry Christmas! Merry Christmas! Merry Christmas! Merry Christmas! Merry Christmas! Merry Christmas! Merry Christmas! Merry Christmas!  
+
+62337
+Merry Christmas to you as well and to the everyone else on here
+
+99489
+Oh, you can say it! Say it loudly and proudly! 
+
+#MERRY CHRISTMAS TO ALL!
+
+95915
+They could at least have still said Merry Christmas. But nope. Oh well. 
+
+198671
+Merry Christmas, 1977
+
+Again, that date is Christmas, 1977
+
+Ye Olde Hickory House
+
+1977
+
+Christmas
+
+136576
+He could just be saying Merry Christmas because it was Christmas.  Just a thought.
+
+329272
+It has everything to do with this Sub...We are going to say Merry Christmas again. If you dont like it move on to something else.Merry Christmas.
+
+96009
+This is the best Christmas ever, thank you so much.  Merry Christmas!!!!
+
+169096
+It just gets better, this is the best Christmas ever.
+
+We're saying MERRY CHRISTMAS AGAIN!
+
+----------
+Cluster #12:
+Cluster importance: 0.0277091125308
+leave: 5.972651
+wing: 0.297702
+hate: 0.230488
+meme: 0.163767
+alt: 0.158552
+leftist: 0.136324
+lean: 0.126872
+lose: 0.100544
+conservative: 0.098983
+office: 0.092297
+politic: 0.087935
+racist: 0.087614
+party: 0.085360
+medium: 0.083604
+islam: 0.068276
+
+164760
+I dont get that either.  They could have just...you know.. left to try again another day.
+
+53991
+And JJ Abrams is back at the helm.  I have no optimism left.
+
+85789
+Bimbos can be left or right. Although they may skew towards the left. 
+
+46437
+That first part was what the left on Reddit did to us. 
+
+149289
+I'm not your research assistant. I'm just telling you how it is. Take it or leave it.
+
+172849
+If we're moving over, I don't want to be left behind. How will I know when the move begins?
+
+176195
+I already have. There's nothing left for me to say, only for you to get over your ignorance.
+
+56488
+How are you not 4000 pounds? You feast on the left every day!
+
+115541
+I don't think it's possible for anyone on the left to think anything through.
+
+66992
+ Did you get any dms from the tolerant left about this post yet? 
+
+----------
+Cluster #13:
+Cluster importance: 0.0306924991216
+state: 5.563050
+deep: 1.473487
+unite: 0.679527
+law: 0.462539
+california: 0.461296
+federal: 0.439080
+government: 0.414272
+president: 0.322916
+red: 0.320727
+blue: 0.298891
+live: 0.263818
+city: 0.260936
+taxis: 0.253110
+illegal: 0.207004
+local: 0.182931
+
+138556
+This is really well stated. Thanks for the insight. This should be the top comment
+
+132033
+Cannot be stated any better or any more succinctly. There is a reckoning coming. 
+
+40519
+I am so ashamed of my state, I wish I could move.
+
+64646
+I don't say this often, but for this I'm proud of my home state.
+
+214793
+And, more importantly, in *their own* way. Because, ya know, state sovereignty and the right to do so. 
+
+98193
+Has he done anything with regards to states that have it legalized? Nope.
+
+132944
+I've said it before, and I'll say it again, annex us and make us some new states!
+
+190125
+All her presents will now be distributed to everybody. The state thanks you for your compliance.
+
+57855
+puerto rico still not a state that's why, they like US colony
+
+61441
+Does it state their names?  If not, why do you think it's them?
+
+----------
+Cluster #14:
+Cluster importance: 0.0261685623819
+automatically: 2.639615
+question: 2.387142
+action: 1.629651
+concern: 1.610415
+contact: 1.530677
+perform: 1.495576
+link: 1.495545
+screenshot: 0.887016
+ban: 0.817164
+domain: 0.786755
+submit: 0.780804
+submission: 0.732049
+black: 0.687675
+rule: 0.687674
+brigading: 0.570038
+
+31403
+Your submission was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+31404
+Your submission was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+31405
+Your submission was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+31406
+Your submission was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+31407
+Your submission was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+31408
+Your submission was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+31319
+Your submission was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+31318
+Your submission was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+31316
+Your submission was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+31363
+Your submission was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+----------
+Cluster #15:
+Cluster importance: 0.0347403414159
+win: 5.137420
+moore: 1.620457
+election: 1.558818
+lose: 1.197830
+hillary: 0.577837
+roy: 0.525413
+alabama: 0.448038
+candidate: 0.409420
+democrat: 0.399246
+tire: 0.332614
+jones: 0.313800
+seat: 0.304995
+voter: 0.288136
+dems: 0.282003
+maga: 0.220984
+
+113618
+You get a win! And you get a win! EVERYBODY GETS A MUTHERFUCKIN WINNNNNNNNN!
+
+99884
+That comes after winning midterms and can actually do something about it.
+
+91911
+This is why you don't pander to these people. You can't win either way.
+
+157181
+I'm so sorry you have to put up with all that winning!
+
+(No I'm not. Congratulations!)
+
+
+120198
+I'm sorry I just can't take it anymore...I'm exhausted from all this winning. 
+
+92555
+no.  That was a latino PAC on Ralph Northam's behalf.  And then he won.
+
+57666
+Why don't they all just give in and come to the winning side?
+
+248088
+Thank you, thank you, thank you, for all the work you do!!! Keep it up! We're winning, and we're behind you 100%!
+
+229356
+Oh yeah he should be SecDef for 7 more years, and then in 2024, think about it. He would win in a landslide
+
+63018
+We've had alot of winning. But we still got 7 more years to go.
+
+----------
+Cluster #16:
+Cluster importance: 0.0214886995137
+love: 5.882712
+god: 0.512021
+hate: 0.446190
+president: 0.291077
+watch: 0.265883
+maga: 0.188210
+family: 0.161291
+bless: 0.116862
+america: 0.112250
+coat: 0.104804
+pede: 0.101220
+movie: 0.090686
+geotus: 0.081718
+meme: 0.080812
+life: 0.071600
+
+180029
+I love these so I upvoted before I looked.
+I'll never do that again. We're better than this.
+
+
+76132
+That's ASL for "I love you" devil horns should be without the thumb
+
+120504
+I’ve always liked her.  �� I love that she is givin’em heck at the UN.
+
+120544
+Just tell her over and over I LOVE YOU.  That alone will get her through this.
+
+43967
+I love how you used a zero instead of an "O" there.  
+
+74769
+He'd tell you to get off his lawn, and you'd love him more for it;)
+
+219559
+Oh, Roseanne...I am proud to say that I have always loved you. Now just a little more than before!��
+
+44892
+Did you just use Biggie lyrics on TD? I love this sub.
+
+46187
+I love that they are not letting them get away with it!
+
+64584
+I always loved Roseanne. Now I know why. She’s the best ��
+
+----------
+Cluster #17:
+Cluster importance: 0.0247714642711
+liberal: 5.689727
+conservative: 0.603210
+hate: 0.574874
+racist: 0.171344
+medium: 0.171254
+friend: 0.167830
+democrat: 0.127580
+leftist: 0.120053
+support: 0.100879
+tear: 0.099113
+care: 0.092936
+fact: 0.092183
+stupid: 0.092096
+city: 0.091877
+logic: 0.091292
+
+71520
+I think it was mostly liberals who upvoted him rather than botting
+
+64495
+He still is, which is what you really want liberals to be like. 
+
+107321
+If a liberal ever became logically consistent they'd stop being a liberal. 
+
+215433
+I can't say where I work/what I do - but it has to do with infosec; 90% of my colleagues are liberals. 
+
+108208
+Say something enough and people will believe it, all liberals are the same.
+
+92392
+You know it, I know it, everyone knows it. Well, everyone but liberals.
+
+144262
+Are you a liberal?  I'm not here to cater to laziness.  
+
+&gt;  Do Your Own Research
+
+82360
+He's like a pied piper for liberals. They're attracted to his outfit.
+
+113797
+make sure the dicks whirl around too to smack any liberal who gets too near.
+
+144032
+&gt; Sand lovers
+
+"B-but it's coarse and rough and irritating!" - Liberals, probably
+
+----------
+Cluster #18:
+Cluster importance: 0.0265323900149
+money: 5.652396
+government: 0.874054
+spend: 0.768673
+buy: 0.356561
+save: 0.351989
+waste: 0.252757
+lot: 0.242567
+fund: 0.237772
+earn: 0.205934
+lose: 0.178518
+free: 0.172672
+donate: 0.168961
+business: 0.166898
+steal: 0.166707
+company: 0.159816
+
+124920
+Like Bernanke said when he was asked where all the money went: "I don't know". 
+
+74937
+I don't know. That Maddow fella sure gives him a run for his money.
+
+162031
+So wanting to keep what you worked for is greed, but wanting the money of others is not?
+
+176600
+If you like your money, you can keep your money
+
+Maybe they will believe it when they see it
+
+161352
+It's ironic, in the end he couldn’t redistribute the money to others, only to himself.
+
+190448
+Does she/he really think their s.o. will willingly just give that money away?  I don't think so.
+
+67140
+And I'm over here just stoked I'm gonna get money back this year!
+
+91017
+My point is what does this have to do with me keeping more of my money?
+
+58595
+As the saying goes  
+
+No Money No Honey  
+  
+No Honey No Money
+
+43973
+I really like POE, but I am with you.  No more money.
+
+----------
+Cluster #19:
+Cluster importance: 0.038966979004
+country: 4.378552
+great: 3.503751
+america: 1.211431
+president: 0.797092
+american: 0.441231
+muslim: 0.240611
+nation: 0.224660
+citizen: 0.219497
+israel: 0.207210
+war: 0.203918
+live: 0.199611
+fight: 0.181071
+help: 0.175305
+europe: 0.174011
+job: 0.165819
+
+91216
+Palestine is not a country, and never will be. but other than that yes.
+
+95202
+Not the only one,  
+To want to move, or country going down the pan mate.
+
+57481
+This is what happens when you let a cuban run your country.  
+
+169656
+Plus if we need anyone to Tel Aviv hello for us, we will have 86 other countries to do it.
+
+267240
+From the very beginning I've always asked; why wouldn't you want your country be great? 
+
+ Liberals just don't 'get it.'
+
+145290
+I would’ve thought a lot more to become part of the greatest country in the world 
+
+305941
+Can you win with all the shitposts of your dankest memes? Can you make your country great again? Can you make your country great again?
+
+94219
+I can be president. Anyone can. That's what makes this country so great.
+
+169059
+Indeed. It is just great to see what people were willing to do for the country back then. 
+
+61162
+2020 will look like 1984.  We Will Make Our Country Great Again
+
+----------

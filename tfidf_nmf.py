@@ -47,7 +47,7 @@ if __name__ == '__main__':
         lexeme = nlp.vocab[unicode(word)]
         lexeme.is_stop = True
 
-    DATA_FILE = './data/bigquery/2017/12/' + sys.argv[1] + '.csv'
+    DATA_FILE = './data/bigquery/2017/12/' + sys.argv[1] + '.csv.gz'
 
     print('Loading Reddit comments...')
 
