@@ -47,19 +47,23 @@ if __name__ == '__main__':
         lexeme = nlp.vocab[unicode(word)]
         lexeme.is_stop = True
 
-    DATA_FILE = './data/bigquery/2017/entire/' + sys.argv[1] + '.csv.gz'
+    DATA_FILE = './data/bigquery/2017/12/' + sys.argv[1] + '.csv'
 
     print('Loading Reddit comments...')
 
     data = pd.read_csv(DATA_FILE)
-    data = data.loc[:, 'body'].fillna('').astype(str).squeeze()
+    data = data.iloc[:, 0].fillna('').astype(str).squeeze()
+
+    print('Loaded Reddit comments.')
 
     # Cut off the bottom 20% of all comments, by simple count.
     counts = data.apply(lambda s: len(s.split()))
-    threshold = counts.quantile(0.2)
+    threshold = counts.quantile(0.5)
     data = data[counts > threshold]
+    np.save('data_{}.npy'.format(sys.argv[1]), data)
 
-    print('Loaded Reddit comments.')
+    print('High-pass filtering comments.')
+    print('Saved high-pass filtered data.')
     print('Vectorizing comments...')
 
     vectorizer = TfidfVectorizer(strip_accents='unicode',
@@ -107,7 +111,10 @@ if __name__ == '__main__':
     print('Reconstruction error: {}'.format(err))
     print('')
 
-    for topic_idx, topic in enumerate(H):
+    # FIXME why is this necessary???
+    data = np.load('data_{}.npy'.format(sys.argv[1]))
+
+    for topic_idx, [scores, topic] in enumerate(zip(np.transpose(W), H)):
         print('Cluster #{}:'.format(topic_idx))
         print('Cluster importance: {}'.format(
             float((np.argmax(W, axis=1) == topic_idx).sum()) / W.shape[0]))
@@ -116,3 +123,8 @@ if __name__ == '__main__':
                 np.sort(topic)[:-15 - 1:-1]):
             print('{}: {:2f}'.format(token, importance))
         print('')
+        for exemplar in np.argsort(scores)[-10:]:
+            print(exemplar)
+            print(data[exemplar])
+            print('')
+        print('----------')

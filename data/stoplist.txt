@@ -2,6 +2,7 @@
 [removed]
 reddit
 subreddit
+read
 post
 comment
 op
@@ -12,6 +13,16 @@ gold
 bot
 delete
 remove
+lol
+people
+person
+good
+work
+point
+time
+year
+week
+day
 a
 able
 about
