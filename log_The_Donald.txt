@@ -1,0 +1,73 @@
+Loading Reddit comments...
+Loaded Reddit comments.
+High-pass filtering comments.
+Saved high-pass filtered data.
+Vectorizing comments...
+Vectorized comments.
+Saved features names (vocabulary) and tfidf matrix (X).
+Factorizing tfidf matrix...
+violation: 1.0
+violation: 0.444543789632
+violation: 0.192524135631
+violation: 0.0920882903572
+violation: 0.0596768998097
+violation: 0.0437030035637
+violation: 0.0332322680701
+violation: 0.0258607326275
+violation: 0.0213412636935
+violation: 0.0182725767221
+violation: 0.0161478917762
+violation: 0.0146908557038
+violation: 0.01359008964
+violation: 0.0127841023613
+violation: 0.0121420612485
+violation: 0.0116094815075
+violation: 0.0111559687353
+violation: 0.0107269602955
+violation: 0.0102829896822
+violation: 0.00982517208642
+violation: 0.00934856902285
+violation: 0.00885935231528
+violation: 0.008383891429
+violation: 0.00791577450442
+violation: 0.00748339421599
+violation: 0.00703060807118
+violation: 0.00643418247008
+violation: 0.00595127230666
+violation: 0.00569020023563
+violation: 0.00548467567968
+violation: 0.00529805127018
+violation: 0.00512123196592
+violation: 0.00493091653851
+violation: 0.00468929891796
+violation: 0.00440282758583
+violation: 0.00418641475505
+violation: 0.00401529040964
+violation: 0.00388450265898
+violation: 0.00376733419233
+violation: 0.00366050584049
+violation: 0.00356192837806
+violation: 0.00347068123126
+violation: 0.00338588992679
+violation: 0.00330583007176
+violation: 0.00323020612213
+violation: 0.00315854669864
+violation: 0.00309044796374
+violation: 0.00302518353219
+violation: 0.00296237871452
+violation: 0.00290293878156
+violation: 0.00284597527346
+violation: 0.00279147056662
+violation: 0.00273906724758
+violation: 0.00268890543824
+violation: 0.00264072784655
+violation: 0.00259441276166
+violation: 0.00254995091461
+violation: 0.00250730918901
+violation: 0.00246642814749
+violation: 0.00242723374835
+violation: 0.00238972224309
+violation: 0.00235394565071
+violation: 0.00231979652438
+violation: 0.00228839849128
+violation: 0.00225917397105

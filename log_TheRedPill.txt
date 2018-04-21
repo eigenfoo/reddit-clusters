@@ -1,0 +1,1257 @@
+Loading Reddit comments...
+Loaded Reddit comments.
+High-pass filtering comments.
+Saved high-pass filtered data.
+Vectorizing comments...
+Vectorized comments.
+Saved features names (vocabulary) and tfidf matrix (X).
+Factorizing tfidf matrix...
+violation: 1.0
+violation: 0.504502374592
+violation: 0.341491829989
+violation: 0.200010587185
+violation: 0.118273021895
+violation: 0.078671154992
+violation: 0.056943176418
+violation: 0.043014491035
+violation: 0.0336616889942
+violation: 0.0275356430307
+violation: 0.0231660771657
+violation: 0.0197338781118
+violation: 0.0175197790553
+violation: 0.0158133755688
+violation: 0.0143569815143
+violation: 0.0131741622493
+violation: 0.0122329024589
+violation: 0.0115356781587
+violation: 0.0111323641368
+violation: 0.0111681851993
+violation: 0.0117760410987
+violation: 0.0127818456027
+violation: 0.0137762021174
+violation: 0.0145220099381
+violation: 0.0146170039536
+violation: 0.0146426807171
+violation: 0.0145668312636
+violation: 0.0145434565751
+violation: 0.0143221861691
+violation: 0.0139874236259
+violation: 0.0134808484166
+violation: 0.0127941551837
+violation: 0.0119363253906
+violation: 0.0109120598654
+violation: 0.00977655826291
+violation: 0.00859382191247
+violation: 0.00748778827023
+violation: 0.00649057857546
+violation: 0.00561337565929
+violation: 0.00484917506197
+violation: 0.00420770347166
+violation: 0.00367081156336
+violation: 0.00321873528717
+violation: 0.00283184452328
+violation: 0.00249921523052
+violation: 0.00221841428575
+violation: 0.00197837900695
+violation: 0.00177434022701
+violation: 0.00160141591478
+violation: 0.00145263980516
+violation: 0.00132164276699
+violation: 0.00120565686819
+violation: 0.00110109441394
+violation: 0.00100655566475
+violation: 0.000921436554691
+violation: 0.000844458066373
+violation: 0.000774671148854
+violation: 0.000711406560813
+violation: 0.000653806830237
+violation: 0.000601158043397
+violation: 0.00055277695418
+violation: 0.000508700976259
+violation: 0.000468434935906
+violation: 0.000431428273634
+violation: 0.00039758846101
+violation: 0.00036660184786
+violation: 0.000338237100321
+violation: 0.000312245514458
+violation: 0.000288329790356
+violation: 0.000266334064378
+violation: 0.000246069119012
+violation: 0.000227397376273
+violation: 0.000210210126194
+violation: 0.000194368568264
+violation: 0.00017975506859
+violation: 0.000166280032352
+violation: 0.00015384371679
+violation: 0.000142371912128
+violation: 0.000131778356738
+violation: 0.000121990953647
+violation: 0.000112949714794
+violation: 0.000104596160832
+violation: 9.68698772063e-05
+Converged at iteration 83
+Factorized tfidf matrix.
+Saved factorization matrices (W and H).
+
+------------------------------
+
+Reconstruction error: 129.28253802
+
+Cluster #0:
+Cluster importance: 0.170012131907
+trp: 0.754648
+start: 0.666373
+help: 0.568118
+talk: 0.531122
+learn: 0.530724
+find: 0.501231
+wrong: 0.458247
+understand: 0.453975
+lot: 0.440077
+change: 0.382643
+problem: 0.375051
+advice: 0.355969
+great: 0.349985
+frame: 0.340004
+idea: 0.333512
+
+3144
+Because we enjoy learning from people's real experiences too. This whole thing only works if there's enough people actually going out and learning from the real world. Otherwise the entire community generates TRP ideas from their own imagination and their own hamster, and then as a result, all the stories and ideas traded around are pointless. 
+
+I don't really care what people do. But if you're going to want to be a contributor on TRP and if you're going to claim to be some level of knowledgable or alpha or successful, my belief is that you need to actually have results in your life to back that up. 
+
+I am not upset or aggressive, you're reading into it what you want to see. You ask why not hand out information and let people decide? That's fine, that is what most of us do. The problem is when the people handing out the information don't know wtf they are talking about, and they are just disseminating information that is almost right because they've memorized what to say. This leads to wrong ideas - or at least ideas not reflected by the reality of sexual strategy - entering TRP's current consensus. 
+
+Does that make sense? We don't care what people do with TRP. But we do care if they are blatantly out of touch with reality / haven't learned anything themselves, and they come on here spouting off BS. 
+
+
+177
+First off, thank you guys. This is not only a great community for the men's benefit, but even more so for the women's benefit.
+
+Around two years ago, i finished reading all the side bar and handbook 2nd ed. It was a great eye opener and everything made sense immediately. I must say that i wasn't a beta, but i didn't have much experience with women.
+
+I started implementing everything i learned from the handbook in real life. I immediately had results, i had multiple dates, i was much more comfortable around women. I think people are afraid of the things they don't understand. But i knew women now and i knew the things they want, the things even they don't know they want.
+
+After some dates, kisses and a few one night stands, i found a promising girl for a relationship. I must say after you read the handbook you get the feeling that women are evil. But it's a misconception. Women are evolved that way and you must understand them that way, then you get over that feeling.
+
+In the beginning, there were some problems, especially because she was a kind of alpha in her circle. But i was very strict about the rules of TRP. Soon she accepted my authority. I made it clear that i was the dominant one and i would find another girl very easily if i wanted. 
+
+I now realize the most important thing i did right, was being emotionally unresponsive. Women are already very emotional and you have to be -at least look like- emotionally stable. 
+Whenever she cried about something stupid, or had some problem about her family, i was rock solid, i didn't cry with her, i told her that those were not that important problems, she shouldn't worry too much at max.
+
+Whenever she had some stupid problem with me that i am not aware of, and she didn't talk with me, i just ignored her. Soon she realized -now she confesses- that we were to start talking again anyway and it was stupid for her to do this for two days. She started to talk with me directly anytime she had a problem with me.
+
+Also very important, you should never, ever step back while she starts crying. It doesn't change anything. It's not only trp, it's my character, when she pulls a face and didn't talk with me, i asked myself these questions.
+
+- did i get caught fucking other women? no.
+- do we have a place for living? yes.
+- do we have enough food and water for living? yes.
+- do we have jobs and enough money? yes.
+
+then she has some stupid problem and she will get over it. and sure she did. i never asked her, please my love tell me what's your problem. please ...
+
+Now she says she cannot live one day without me, she tells all the time how much she loves me, how much she's lucky to have me etc. I can give her any order and she will happily do it. She prepares dinner, i have sex whenever i want, she serves well when i have a guest, she never bitches about anything.
+
+Btw, i don't tell the same things, like you are my life bla bla. Mostly i just smile or kiss her when she says it. She knows i am not emotional and she doesn't expect the same words from me.
+
+Again thank you TRP for everything..
+
+UPDATE:
+When i started this thread, i thought it would be deleted (there is a warning) but i wrote it anyway because i sincerely wanted to thank TRP. I didn't expect such good comments, thanks for that.
+
+There are people who are more fanatic than the founders of TRP and take everything literally. I believe you should embrace TRP not decide everything in your life according to a book like bigots.
+
+3437
+But the problem with TRP is that if you try to recommend it to someone, it will likely backfire and they'll hate you for it.
+
+All we can do is hope he follows the cycle of finding TRP:
+
+- gets mad
+- starts searching on Reddit for similar stories of men being cheated on
+- reads through comments on various threads in r DeadBedrooms, r relationships, r sex etc.
+- invevitably sees some comments talking about how evil TRP is
+- decides to come here just to see the "misogyny" and "woman hating" for himself
+- sees a couple of comments that seem outrageous but make sense at the same time
+- experiences cognitive dissonance
+- keeps reading TRP to find out more about what they mean
+- starts noticing more comments here and there that make sense
+- reads the sidebar
+- some truthes start sinking in
+- starts posting here
+
+251
+**A little Note**:*About 3 years ago* i Found TRP and cant even remember how i stumbled upon here but well is the best thing that could happen to a young men however it could also be the WORST THING FOR A WEAK MINDED INDIVIDUAL.like someone here once said &gt;"you don't find TRP,It finds you". With that been said once i discover this sub i been applying what i read and continue to improve myself here and there even tho to be honest i still get a bit angry at Female Nature but Im getting to a point where  from the bottom of my heart im Accepting it for what it is ,God made women and he decided what nature to give them,God made snakes and also decided what nature to give them.I'm Finally making peace with this Reality.
+
+**NOW THE REAL STORY**:*INTRODUCING TRP TO ONE OF MY BEST FRIENDS*:
+
+during the time i found TRP i went to a bar in a small town with one of my best friends whom i had not seen for a long time.we had awesome conversations,talked about life,remembered the good old times ,girls we fucked etc.once we got into deeper stuff about life and how things get harder once you reach adulthood we got into the topic of how hard dating becomes,and i had no hesitation to talk about redpill experiences with him and drop some knowledge,i also asked him if he heard about TRP and  he had no idea about it so i told him what it was 
+and how its the only HARSH TRUTH about Female Nature.once i told him about it i saw how his physical well being changed as if he seen a ghost,he started  to tell me experiences with women and how "things make sense now" he said *all the women i have dated were all the same not one was different than the other* and i told him about AW-ALT and that he is not alone, neither i had dated a different women even if they acted sweet at first their true nature will be revealed inevitably.
+
+**THE MISTAKE I MADE**:
+
+Something I Forgot About Was That This Guy Suffered From Depression In The Past to the point of cutting himself!. Unfortunately he was WEAK MINDED!About 1.5 years later i received a text from a mutual friend of us giving me the devastating news that he had committed suicide!!that really HURT ME  This guy was just a great person and one of the best friends i ever had.i felt like TRP discovery got him into depression  
+
+**LESSONS LEARNED**:
+
+*Be careful who you show TRP to
+
+*This is an individual JOURNEY
+
+*Only advice others But dont Show them TRP if Necessary
+
+
+
+**TO SUMMARIZE** :*I introduced TRP to one of my best friends and  he is Now DEAD*
+
+17633
+&gt; If you're explaining to Billy the concepts of sexual strategy, text game, and frame, but he knows you haven't been laid in 6 months, then he's going to nod his head politely and write off any advice you give.
+
+..it really depends WHO this person is and how well you know them, and how much you care about them and their future.
+
+Case in point - it took me about 3/4 months to convince my brother that his BP bullshit was drying up all his opportunities. I gave him The Rational Male when I left the country and he actually read it! Told me he wished he'd read it years ago and how eye-opening it was, and he'd not read a book in years. I'll likely check on him from time to time in case of regression, but I think he's now on the right track.
+
+I would also persist like this with very very close friends if I thought they were receptive to change. My brother was quite stubborn, but he'd not been laid in a long time and I was clearly having a lot of fun plating women. I think that probably helped to convince him of the legitimacy of my advice and TRP mindset.
+
+If you don't really care about this person or their mentality or their future.. sure.. don't persist in helping them in face of their stubbornness. But if you DO care about this person, then at least put up a good fight against their doomed BP ways before you throw in the towel.
+
+I've also had lots of casual conversations about TRP with plenty of people who have been receptive (read: know the person you're talking to) by steering the conversation if they started talking about women. I didn't necessarily have those conversations to impart advice.. I just explored some of the concepts, and suggested some reading material or whatever if they seemed interested. A couple of guys got back to me (one a co-worker at the time) who had gone off and spent the night reading Rational Male blog. I understand some people are unwilling to change and not interested in anything that might affect the security of their beliefs, but there is a serious problem if you're surrounded by people like that.
+
+I'm starting to think people suggest you don't talk about TRP because they don't want any competition haha my experience of speaking about TRP with mature, intelligent men (whether BP or not) is nothing like what is described here.
+
+----------
+Cluster #1:
+Cluster importance: 0.0656777324363
+man: 3.079391
+society: 0.240742
+real: 0.181043
+strong: 0.143222
+weak: 0.121848
+male: 0.117426
+feminism: 0.115926
+female: 0.115053
+white: 0.094986
+feminist: 0.093038
+power: 0.092903
+boy: 0.088391
+young: 0.082509
+wife: 0.081008
+true: 0.076878
+
+14192
+&gt; competition, giving, and protecting
+
+Da fuq? You're defining what is it to be a 'good man', as Jack Donovan puts it. There is a difference between a 'good man' and a man 'good at being a man'. Do you feel the difference? 
+
+The guy who is a 'good man' is cucked, and values feminine traits. The man who is 'good at being a man' is amoral and is precisely what the OP suggests.
+
+&gt;misogyny, slut shaming
+
+Fuck off with your white knight, cucked bullshit. 
+
+5594
+Women aren't  raised like men, they have no sense of honour. Npo sense of higher life or death virtue that we as men have drilled into us from when we were toddlers.
+
+
+Men are taught we should lay down our lives for our loved ones or our belief in what is right. We have films and media idolising that and always showing the hero sacrificing for his greater good or his family or a woman (I think dying for a woman is bluepilled now).
+
+
+Women aren't taught any of that from the ground up like small stuff "respect a mans handshake", **"don't kick a man while he's down"** none of this stuff they write off as "toxic masculinity" and scoff at is absorbed by them. It actually makes them severely lacking in character. 
+
+There's so much as lads we are taught. What are they taught? Find a man to die for you, you can convince a man to fight your battles for you. Don't worry you don't have to take responsibility for anything. 
+Women don't have any honour like we do.
+
+
+That's why you are right. You cannot make a deal with a woman like you can with a man.. 
+
+I mean one of the Matt Lauer accusers just came out and said "It was totally consensual" but still said she was "traumatised".
+
+Women are so emotional and hysterical and just having a current trend can make a woman destroy your life or join in a flock of women harming men or a specific man because of "feels".
+
+It's actually incredible. And I bolded **"don't kick a man while he is down"** and this should instantly click with any man reading this. Think of the absolute psychopathic levels of pain a woman will inflict on a man without thinking twice and even convincing herself that the man is at fault and was "always abusive" and "I never loved you" and think of the common sense of honour most men have and the feeling of "not kicking a man while he's down" women just don't operate like that.
+
+It explains so much.
+
+13092
+&gt; All this is easy to understand if you realise that men are active and women are passive/reactive. (Yin and yang, really.) Men are givers, women are takers. (This is not "good" or "bad", it's just a fact based in evolution and biology.)
+
+Women give too. 
+
+&gt; Men build civilizations, and I mean literally. It's men who go out there and build roads and houses. It's men who actually do the real work. 
+
+Women have done those things and more and most men do not/have not built civilizations. 
+
+&gt; Feminists love that women now outnumber men in the US workforce
+
+Shouldn't you love that too? Don't you want women to do *real* work like men?
+
+&gt; but 90% of women's jobs are either beurocratic or some kind of customer service, so in reality women in these jobs do not CREATE anything, they just leech off of the jobs that produce wealth. 
+
+OK? Most men don't create jobs either and leech off of other men. Think of minority men in different countries that leech off of "whitey's"? Welfare, affirmative action, section 8 housing, etc, are used by men too. 
+
+&gt; So, what I'm getting at is men need motivation to channel their energies into building things. And there exists only one thing in the whole wide world which can motivate enough men to work together: having their own families. 
+
+So no families means men don't work? Interesting. I've heard that when men divorce their wives, they stop seeing their children because men want to be family men. I think that's stupid but whatev's. 
+
+&gt; No amount of shaming or monetary rewards can motivate enough men to voluntarily slave their lives away in soul-crushing jobs.
+
+Is that why there are more homeless men than women?
+
+&gt; We are at a stage where the government is actually forcing men to work (child support, alimony, etc), but all those with eyes open know that this is SLAVERY and will not work in the long term.
+
+Not slavery. You're getting paid. And taking responsibility for the children you father. 
+
+&gt; Feminism strips men of their families, thus strips them of their motivation to build civilization.
+
+Again, you accuse women of not taking responsibility while not taking responsibility yourself. 
+
+&gt; And rest assured, if men begin to "slack" in vast numbers, women will NOT grab the shovel and do the dirty work. This is why matriarchal civilizations collapse. If men are not interested in it, they will disengage and let it rot away. 
+
+Women work. Women are garbage collectors, technicians, engineers, lawyers, police officers, architects and are in other valuable positions. 
+
+The problem is that those areas are predominantly male and women are constantly harassed by them. 
+
+https://www.cnbc.com/amp/2017/11/20/3-psychologists-explain-why-men-harass-women-in-the-workplace.html
+
+"Shawn Burn, Ph.D., is a psychology professor at California Polytechnic State University in San Luis. She says "sometimes, sexual harassment is used to intimidate, disempower, and discourage women in traditionally male-dominated occupations."
+
+
+
+
+12322
+&gt; Men were always told to man up and not act like a little bitch. Only recently men started to act like women, and no wonder suicides went up.
+
+Actually, that is a very good point.
+
+1451
+When were all those men born? Not in the early 90's or 2000's that's for sure. It's a whole different world between the men of then and the men of now. The men of then were just starting to be subjected to an increase of feminism. The men now are receiving it full force.
+
+----------
+Cluster #2:
+Cluster importance: 0.054428146024
+girl: 3.011970
+meet: 0.223777
+hot: 0.219167
+talk: 0.189827
+tinder: 0.160839
+drink: 0.148928
+interest: 0.147186
+ltr: 0.108705
+night: 0.103707
+happen: 0.096963
+ignore: 0.095555
+text: 0.092056
+bar: 0.089696
+find: 0.088409
+bang: 0.083981
+
+2463
+its not what the koran says. i was raised orthodox sunni hanafi. its what people do with the religion. 
+
+girls dont not have sex just because koran.
+girls dont just obey their husband just because koran
+girls dont just tolerate second wives just because koran
+
+it all depends on the girl
+
+13904
+to have a girl is ALWAYS hard work..
+
+
+1) you work hard on yourself and get a girl
+
+
+2) you work hard for a girl and get a girl
+
+
+both ways require energy, but 1st way is way better than the second way
+
+10278
+Nope. Pretty much all are 6/10 or above these days. The last 5.5 girl I fucked was part of a threesome with a hotter girl, and I wasn't going to turn that down. 
+
+4845
+All of my spontaneous threesomes have started with me being out with a girl I've hooked up with or am about to, and meeting up with an acquaintance or girl that's shown some signals, NOT a romantic interest. It needs to be a girl in town for the weekend, a friend of a friend, etc. 
+
+Get the two girls talking by way of a gentlemanly introduction, and play up the first girl's hotness. "This is my friend Ashley, she's a former model" or whatever.
+
+Then take first girl home and text second girl saying you're going back for a night cap and to swing by. Nothing else. 
+
+Second girl shows up. She'll immediately talk to first girl because women are social pros. Let it go from there. If you need to encourage a bit, tell both girls they're hot and ask if they've ever dated other girls. Don't start making out with one and isolate the other. 
+
+12074
+I've called a girl a dork before (I like when girls are dorky) and she fucking blew up. 
+
+Honestly, it depends on the girl. If a girl has a brother(s) you can say almost anything. 
+
+----------
+Cluster #3:
+Cluster importance: 0.0508988640124
+fuck: 2.961852
+dude: 0.223226
+bitch: 0.194478
+pussy: 0.163168
+chick: 0.144482
+dick: 0.112074
+ass: 0.105629
+care: 0.076586
+hot: 0.075565
+head: 0.073887
+bullshit: 0.073261
+leave: 0.071547
+opinion: 0.070554
+break: 0.067262
+retard: 0.066849
+
+7728
+in no way did i say dont fuck a 10 :)
+
+just there is no reason not to fuck something new most nights, even when in a "relationship"
+
+15106
+Fuck her , leave right after you fuck her, never text her back. Your chapter between you and her will be over. Dont worry about her feelings, she doesnt care about yours since she told you she is fucking someone else
+
+9223
+What has worked for me is "I would have to give a fuck about you to give a fuck about your opinions - I don't. Flush yourself, turd." and walk away...
+
+7725
+What if they leave for a break and get fucked and tell you, and you get back together. Even if you were fucking other girls as well
+
+17607
+I would never, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, EVER fucking work under &amp; for a woman. EVER..........
+
+----------
+Cluster #4:
+Cluster importance: 0.0104775559722
+/r: 1.169161
+submission: 1.126153
+question: 1.120260
+asktrp: 0.597314
+theredpill: 0.580478
+lurk: 0.554620
+perform: 0.547486
+contribute: 0.545554
+visit: 0.544901
+account: 0.544307
+automatically: 0.542665
+discussion: 0.540035
+contact: 0.530487
+concern: 0.527697
+action: 0.516948
+
+14092
+Your above submission to /r/TheRedPill has been removed, because you have a new account with little karma. Please lurk and contribute more in discussion before posting a new submission. You may also visit /r/askTRP if you have questions related to being new to the red pill.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/TheRedPill) if you have any questions or concerns.*
+
+14093
+Your above submission to /r/TheRedPill has been removed, because you have a new account with little karma. Please lurk and contribute more in discussion before posting a new submission. You may also visit /r/askTRP if you have questions related to being new to the red pill.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/TheRedPill) if you have any questions or concerns.*
+
+14094
+Your above submission to /r/TheRedPill has been removed, because you have a new account with little karma. Please lurk and contribute more in discussion before posting a new submission. You may also visit /r/askTRP if you have questions related to being new to the red pill.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/TheRedPill) if you have any questions or concerns.*
+
+14068
+Your above submission to /r/TheRedPill has been removed, because you have a new account with little karma. Please lurk and contribute more in discussion before posting a new submission. You may also visit /r/askTRP if you have questions related to being new to the red pill.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/TheRedPill) if you have any questions or concerns.*
+
+14071
+Your above submission to /r/TheRedPill has been removed, because you have a new account with little karma. Please lurk and contribute more in discussion before posting a new submission. You may also visit /r/askTRP if you have questions related to being new to the red pill.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/TheRedPill) if you have any questions or concerns.*
+
+----------
+Cluster #5:
+Cluster importance: 0.0732326017426
+woman: 3.308864
+attractive: 0.174670
+cheat: 0.127107
+attract: 0.111150
+relationship: 0.110635
+age: 0.110225
+marry: 0.101128
+rape: 0.086957
+sexual: 0.084735
+awalt: 0.076530
+lie: 0.075982
+sleep: 0.075455
+marriage: 0.074908
+wall: 0.071633
+simply: 0.066192
+
+7493
+I was saying to this woman I know that few women in the US wear perfume or makeup or or go out of their way to be attractive. She was like "we don't need to." She's right, and I think we'll know that the dynamic is changing when more women try to be attractive. I didn't make a play for this woman. Just told her about the smokeshow European women I date. The ones that wear perfume.
+
+8781
+Why are they leaving out "with a woman"? We all know this shit doesn't apply to women not getting consent. It's to be used by women against men. 
+
+5742
+&gt;Women care about women, men care about women.
+
+What? The only ones that despise women more than anything are other women. Women generally do things that benefits them , not for the sake of benefiting all women, people are selfish overall.
+
+Also how easily women break of BFF statuses, talk shit behind their "besties" back, spill the secrets. 
+
+17607
+I would never, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, EVER fucking work under &amp; for a woman. EVER..........
+
+9337
+you forget this is about replacing men.
+
+the law states you must have 50% women in a company, women hire women, women mentor women, women lunch women.
+
+
+----------
+Cluster #6:
+Cluster importance: 0.0619278702989
+fat: 1.081730
+lift: 0.998229
+eat: 0.842995
+body: 0.812872
+weight: 0.752474
+muscle: 0.678607
+gym: 0.494004
+cut: 0.475066
+diet: 0.427359
+gain: 0.417400
+lose: 0.393879
+bulk: 0.321514
+calory: 0.311235
+big: 0.291853
+food: 0.278641
+
+124
+*Read the edits before commenting / PMing me*
+
+You will NEVER be able to outlift a bad diet. This is a simple reality that everyone who seeks a greater physique should know and understand. I know for a fact you guys know this but you need to APPLY it. Don't just tell yourself that you're going to eat healthy and then drink a beer with a pizza the same evening.
+
+Quit making excuses like 'I deserve to eat that one cheat meal, I worked out 4 times this week!'. This is the kind of mentality that will set you so far back in the long run.
+
+When you first start lifting you will make gains no matter what you eat. If you take it seriously. You will lift heavier weights and your muscles will get bigger. This will go on for a few months, perhaps up to 1-2 years.
+
+You will get used to eating bad and working out, but that is NOT the way you should be doing it. The fact that it works when you start out is maybe the reason why a lot of guys hit a plateau after a certain time. Once you hit that plateau it's hard. Your muscles are big but theres a lot of fat covering it, no definition and it's not as good as it could be. 
+
+If you just started lifting, do not fall into that trap. Start improving your diet right away. Start counting your calories and cut everything unhealthy from your life.
+
+Don't drink soda, drink water.
+Don't eat dessert, eat a fruit.
+Don't eat fries, eat rice.
+Eat home-cooked meals.
+Get these vegetables in.
+
+I lifted for a long time without eating right, I built strenght, but I was not lean. I successfully dropped 40 pounds in 8 months by just changing my eating habits. The workouts remained the same, but everything else changed. I feel a lot better than I used to and I wish I had started eating right from the get-go.
+
+If you need help with your diet, feel free to PM me.
+
+EDIT: You cannot go cold turkey and completely change your diet overnight, but you should be trying to improve overtime and set goals. Do not fall into a comfort zone. Cheat meals are obviously a thing, but do not have 3 of them a week. Keep it to a minimum if you're struggling.
+
+Edit 2 : This post is obviously not gonna apply to everybody, we're all different. Some guys can eat whatever they want and stay small, while some have a hard time cutting. That's life. 
+
+Edit 3 : I am NOT a nutritionist nor am I a professional bodybuilder. I successfully achieved a decent cut and I just wanted to share the mentality I had with you guys. This post was for new guys who just got into lifting. I believed they should be aware that a dirty bulk is not the way to go and that if they decided to get into lifting, they should also get into a better diet.
+
+15988
+I agree with the last statement. I'm about there except I have less fat more height. My best physique was 188 6 percent or so. But keeping your body fat low only facilitates long term muscle growth, when you're gaining weight.
+
+I'll set you in on a secret that nobody will believe, but I'll mention anyways. You can cardio bulk. It has to be something like cross country running, rowing or swimming that uses a lot of muscle fibers, but since cardio has less of an after burn than lifting, you can gain more mass by reversing the deficit faster. What's more now you're building an endurance base so that when you cut, by lifting weights in the gym, you will recover better and have more energy for intense sets. This is healthier for your body than traditional bodybuilding, but nearly nobody does it because they want to see instant results. Not subtle slow twitch growth under a layer of fat while they're bulking,mand then they won't believe it's possible to train power while cutting. It is is if you have enough body fat and aerobic fitness to use it as fuel for more intense workouts. You don't intentionally cut weight it comes off because you're aerobically strong enough to burn more calories in a workout than naysayers would ever predict. 
+
+14765
+I hated being fat (for me that was 205 at 6’2) and I cut down too aggressively without maintaining much muscle to 175. I was too skinny. I think it was still good because it helped put on a lot of lean mass without much fat. This is because cutting made me get good at counting macros and calories and made me fight hard not to gain too much fat. I put on 25 lbs and started cutting again, this time I’m much bigger and my cut won’t be very long.
+
+If you’re above 15% I’d recommend cutting down to 10-12 and immediately start bulking (give yourself a week or two at maintenance, then lean bulk 300-500 cal surplus). Do it until your chest starts getting saggy or your abs are invisible in the best of lighting.
+
+It depends on your body type of course, but I’d rather have low body fat and less muscle than high body fat. High muscle low body fat is of course the best option.
+
+Super low body fat is not a good look on anyone. Keep it above 8%, and maybe 10% is ideal.
+
+12670
+Growing up, I was a fat kid that got no attention from the ladies.  Eventually I manned up and took responsibility and lost the weight.  Life got way better, way more confidence, more attention, etc.  However, I went from fat to skinny fat as a result of just dieting with no exercise.  I was petrified of becoming fat again after experiencing how much better being normal was.  Later on, people started mentioning off-hand that I was skinny.  Sometimes I would get light headed and easily tired.  As a man in his 20's in his supposed physical prime years, I knew it would only get worse.  I looked in the mirror and saw myself as I was: out of shape, low muscle, unhealthy.  So, I manned up and took responsibility and went to the gym.  Not wanting to get fat, I counted calories and macros to do just enough to get stronger and by proxy gain muscle.  I did that for about a year, and stopped making progress after a few months.  I would get injured, drop the weight to recover, get back to previous level, and get sick/injured/miss workouts.  I was dedicated, didn't give up, pushed myself, studied proper form, etc.  Being stuck with a sub 250lb squat and other subpar lifts after a year of gym work, I knew something more than bad luck was wrong here.  I'm not a special snowflake.  So, I manned up and recently took responsibility and started eating more.
+
+In the last few months, I've blown through PR's almost every workout.  Life is better, and now I'm reaching my goals at a resonable rate.  My point is that fat is easily lost and gained.  Unless you're in your teens and early twenties, building muscle is going to be a battle.  Don't fuck around, like I did, with "slow bulking" or "lean gains" for fear of fat.  I'll be clear here, as idiots with poor reading comprehension like to make straw men:  I'm saying don't eat like a pig and dirty bulk.  However, the vast majority of the people on this sub need to realize that once you have a decent foundation of strength and muscle, cutting is much much easier.  Past the first bit of training, you will have to make a choice between losing fat and gaining muscle.  Trying to do both at the same time is going to take orders of magnitude longer than standard bulk/cut cycles.
+
+I have been fat, I have been skinny, and now more muscled.  At the end of the day, if you have the discipline to change your body composition and know you can do it, then being 6-8% more fat for a while to optimize muscle growth won't even bother you.  
+
+6994
+Im the kind of person that likes to eat healthy as well. I dirty gained when I first started because at 55kg your body doesn't give a fuck what you're putting in to gain weight, but, over time I made my diet more and more lean and I haven't lost any weight, I've only gotten more muscular. 
+
+When I bulk I eat between 3000 and 4000 calories a day. I eat 1lb of chicken breast every day, one protein shake as soon as I wake up on a rest day or after a work out on work out days, then a second shake right before sleep. I eat 3 eggs and one chicken or turkey sausage every day. The rest of my diet is IIFYM (If It Fits Your Macros). For the most part when bulking I ignore my Fat macro. I just make sure to hit my Carb and Protein goals. If I eat too much fat during bulk, i'll just burn it off during cut. The body can only gain something like 2lbs of muscle max a month anyway. At our size it's easier to take on weight however you can and burn the excess fat later, that part comes easy to us. 
+
+As for workouts during bulk, I work out only 3 days a week but focus on heavy heavy lifts. Then when I cut I keep the same strength training program but do HIIT exercises 5 days a week and add some target muscle work on my two non-lift days. ex: biceps, abs, calves, traps.
+
+I'm not very active outside of my training programs, so, for someone like you, you may need a lot more calories in your life. Chicken, protein shakes, greek yogurt, and whole grain pastas are dense protein/carbohydrate foods that are all good things to eat on a daily basis. The number one thing is consistency. Get a calorie tracking app like MyFitnessPal, set goals, break them.
+
+----------
+Cluster #7:
+Cluster importance: 0.0490239329436
+guy: 2.814505
+nice: 0.223990
+average: 0.140312
+white: 0.139981
+tall: 0.134149
+dude: 0.106000
+face: 0.104224
+big: 0.102682
+short: 0.095014
+funny: 0.088547
+lot: 0.082965
+height: 0.082715
+dick: 0.078475
+bad: 0.077215
+hot: 0.075993
+
+12544
+The other times I posted, everyone thought I was a guy and talked to me like I was a guy. I wanted to clear things up. Also, you should be intimidated that a girl knows better than you.
+
+9390
+&gt; The first time I even think there's interest in another guy, it's over.
+
+Unthinkable, I know, but she is attracted to and interested in other guys.
+
+7506
+Wow that's pretty interesting. I'd imagine they don't have many guys in their life seeing if they'd be a fit for the guy - i.e. I'm sure every guy is just hoping she thinks the guy is a good fit. I've tried to implement that style in my relationships now -&gt; seeing myself as the prize and testing her to see if she is a good fit for me.
+
+Very attractive quality for a guy to have.
+
+11423
+I never thought about this but you may be right. I know 35 year old guys who look 25. On the other hand, I know overweight 30 year old balding guys who look like they're 45.
+
+4017
+These women prey on lonely guys they can use.  The guys who promote the single moms have no other options, so when she pushes him, it's either go back to a life of no sex, or give in.
+
+Which is why she goes for such desperate guys in the first place.  She knows that guy will never find anyone else, and that's exactly who she was looking for.  If she wants a good looking guy, the complete opposite of the guy she "dates", she can do him on the side.  She won't push for a relationship with him because he, in contrast to the guy she's "dating", can find someone else.
+
+----------
+Cluster #8:
+Cluster importance: 0.0440608801147
+kid: 1.917541
+child: 0.905841
+marry: 0.699836
+single: 0.516538
+marriage: 0.466270
+family: 0.382849
+mother: 0.373885
+divorce: 0.359124
+mom: 0.352092
+wife: 0.349233
+parent: 0.301547
+raise: 0.300445
+father: 0.279901
+dad: 0.235032
+young: 0.201996
+
+13939
+For all the older guys here, how does this work with having kids? Idk if there’s a way you can do this with the mother of your kids? Just thinking ahead, no kids yet :) but I’m approaching that age.
+
+5981
+I am 13 years older than my youngest sibling, there are six of us total. By the time I had my own kids at 25, I was an old hand at taking care of kids. If I have four kids with me all day, they're all going to be reading, doing math, and knowing everything they're going to need in life before they turn 8. I had my oldest daughter reading at 3, she was also running Windows 3.1 at the same age. By 5 she was able to do all kinds of things other kids her she never dreamed of.  Her cousins can't do what she has done. I wad just starting with the younger one when their mom went stupid and ran off. Only had taught her the alphabet and how to count.
+
+That's while I was working 70 hours a week in a factory running cnc lathes, and I was also teaching them about cars and tools in my garage as I built and repaired things to make extra cash.
+
+Taking care of kids is painfully fucking easy, unless you're an incompetent loser. Establish who is the boss, and they're very easy to handle. Scream at them like my sister does, and they'll walk all over you, like her kids do to get. They know when I'm there bullshit doesn't fly.. The reason we have girls stay home and take care of kids is because there's not much more most of them can handle. If they went about tracing the kids and making it fun like I did, rather than putting them in front of a tv, you know engage the kids and get them excited to learn, then they'd have time to do all the inane bullshit they want, like Facebook.
+
+Might be that I had already been through a war that made everything in life after it seem eat before I had kids. Might be that a rough life with younger siblings made me a far better dad than my own. Could be that I'm smarter than most people and so are my kids. Whatever it is, I rarely have trouble with other people's kids. Adults on the other hand, holy fuck what a bunch of idiots I deal with daily.
+
+5269
+Im 49, recently divorced with no kids. I dated a really wonderful woman with two kids, she was rich even. I just didn't want to put the time investment into someone else's kids. Im older so I don't have unlimited time like you younger kids ��  Im not cynical and jaded like a lot of these kids but I caution you to be careful �� 
+
+1362
+I can't imagine how someone would rather raise a kid shitty way than not have a kid, just because he wants a kid. That's egoistic as fuck. Myself I' won't  have a kid if I can't give him the absolute best - my time, custom home schooling, good environment. I've already 
+
+6757
+Haha so true. She actually suckered a guy into marrying her and adopting the first kid. Few months later she divorced him and now has the dumbass paying her child support for a kid that’s not even biologically his. That’s what the white knight life will get you. Meanwhile the first kids Dad has no clue the kid exists. And we’re talking about a kid that’s 11.
+
+----------
+Cluster #9:
+Cluster importance: 0.0350170949597
+pill: 2.002111
+red: 1.562205
+blue: 0.793862
+pilled: 0.233522
+swallow: 0.225473
+truth: 0.125559
+accept: 0.097800
+flag: 0.095450
+trp: 0.084219
+ltr: 0.080742
+understand: 0.077068
+suck: 0.071830
+awalt: 0.064025
+strategy: 0.054394
+god: 0.054259
+
+8428
+Everytime some shit goes down with women, i fuck up or chad comes along. I think to myself - this is the red pill, gotta swallow the red pill
+
+7749
+Not sure why it’s being downvotes either. Some guys on here will act like they’ve been red pilled since they were born, but almost all American boys are force fed blue pills from an early age. It’s not easy swallowing the red pill in its entirety, and many of us have probably experienced a situation in which we opened up too much and let ourselves deviate from the red pill path.
+
+16081
+I think one of the biggest parts of the red pill is learning self control and always staying present. But I see the red pill as the actual red pill for life, not just female nature and sexual strategy as normally discussed here.
+
+5803
+#What is upstream red pill? 
+
+So are these guys people who advocate for spirutally uplifting sluts and saving them from whoring themselves out?
+
+They claim to be better than the red pill - how so?
+
+Why do Red Pill super stars support some upstream people?
+
+For example - Gay Lube oil and IllimitableMan both support some guy named AJA Cortez on twitter, but AJA Cortez actively bashes, criticizes, and hates the red pill - he calls rollo a bitch. So why do GLO and IllimitableMan support that guy if he hates the red pill?
+
+Are GLO and ILLM just shills for upstream red pill?
+
+What is upstream red pill? 
+
+17235
+Well thats why men are either blue pilled or enraged red pills and then later somewhat calmer red pills. 
+
+Blue pill is a male projection of what he needs onto reality. enraged red pill is when you are smart enough to realize its a mirage and you feel like youve been lied to about the mirage. Calm red pill is when you are getting your dick sucked.
+
+Im not sure I could tolerate getting my dick sucked with my current understanding of women. Its the uncanny valley for me. Do you know what that is?
+
+----------
+Cluster #10:
+Cluster importance: 0.0411381934488
+feel: 2.583345
+bad: 0.253154
+situation: 0.109948
+feeling: 0.101840
+hard: 0.093696
+bite: 0.080762
+hurt: 0.080346
+moment: 0.079653
+happy: 0.077501
+emotion: 0.076074
+break: 0.071336
+realize: 0.069855
+imagine: 0.067168
+sad: 0.063770
+anger: 0.062150
+
+14941
+When I broke up with my girl I said that I felt too insecure being in a relationship (which was half true, the real reason was because she was an untrustworthy hoe, and that'll make any man's cuck-prevention instincts kick in).
+
+This worked perfectly because she can't change how I feel, she can't feel like there's anything wrong with her (as i made the "feels" about myself), and she feels like she has some superiority over me if I appear vulnerable (which decreases the chances of petty revenge, etc.)
+
+There was some post about how if you act beta, she'll be disgusted and want to break up with you, so use that to your advantage, just say you're an insecure bitch and it'll make the breakup go along much smoother.
+
+If you act like some cool motherfucker who doesn't need her anymore and makes her feel worthless (which exactly how I felt but I chose not to act that way), she'll feel the need to get her revenge so she won't feel so small, and that'll come back to bite you.
+
+13649
+Very well said! Saying No for me was/Is one of the hardest i had to learn,  I still sometimes feel bad for saying no, But with time No will be normal to use when i don’t feel like doing something.
+
+17579
+More Jim Jonesing.  Don't even pretend that you "don't feel."  Even psychopaths, feel.  You have *come to terms* with reality, but that doesn't mean you never felt or could not imagine what many or most men feel here.
+
+Enough of your bullshittery. 
+
+17082
+*Sigh*.
+
+I am not straight but I know how you feel.
+
+I found someone once, ages ago, that I thought I loved. More than anything. He was beautiful, he was sweet. I wanted him so badly. It felt like I was on fire wanting him. Pure Hell, 24/7. I got it in. And I got to know him. And I realized I felt *nothing* for him.
+
+And that was worse. When I felt pain and anger, at least I felt something. After that I just felt nothing and empty. How do you even know you're alive if you don't feel anything?
+
+11209
+I see what you mean. I do want to "look the bit" for a little part. I feel like everyone should, at least once in their lives, to see how you feel and how your body feels.
+
+----------
+Cluster #11:
+Cluster importance: 0.0467629866549
+shit: 2.533823
+test: 0.765818
+pass: 0.146683
+bitch: 0.137761
+frame: 0.120797
+dude: 0.108402
+eat: 0.106050
+holy: 0.098494
+flip: 0.084037
+laugh: 0.082441
+ass: 0.068217
+respect: 0.067976
+care: 0.066656
+lose: 0.066346
+agree: 0.063797
+
+1500
+Horse shit - always see this shit on here thinking that a Women over the age of 23 has fuck all value - I'm surprised you didn't sign off with "just lift to be in the top 1% bruh".
+
+You're probably a broke ass 21 year old living at home or in some shit run down apartment.
+
+12686
+Can someone explain to me whats so hot about shitting on a woman ? Like it stinks and shit. I guess the domination part is cool but shit. I dont want my feces anywhere besides the toilet.
+
+11836
+And "Dear Zachary" will rip out your soul, throw it into a big pile of dogshit, take a fresh shit on top of that shit, pick all that shit sandwich up, stick it in a blender so both shits permeate every microcosm of your soul, then put that mess in the freezer, then take another shit on your barely frozen shit infested soul before lighting the whole house on fire by leaving another flaming bag of shit on the porch.
+
+Amazing movie.
+
+9800
+Exactly. Women only do this shit because men go along with it. The same thing for paying for them on dates. Stop that shit and they will stop expecting it. 
+
+11626
+Its almost as if you are responding to a shit test by giving them a shit test back  if that makes sense. They give you shit and you flip the shit they gave you back onto them.
+
+----------
+Cluster #12:
+Cluster importance: 0.034410499614
+beta: 1.827922
+alpha: 1.562044
+male: 0.820064
+female: 0.305987
+trait: 0.154724
+strategy: 0.152279
+chad: 0.149584
+buck: 0.139915
+society: 0.112310
+nice: 0.099043
+mate: 0.098885
+provider: 0.086617
+sexual: 0.085562
+term: 0.082999
+orbiter: 0.082493
+
+14922
+That's a similar strategy to primates too.  The Beta male chimps will sneak in and have sex with the females while the alpha male is away or distracted.  They will rush in finish the act quickly and get out, so they would never confront the alpha male.  These non-alphas would then get their genes raised by the alphas. Back during the caveman days this was likely still the strategy.  However, over time it has segued into the beta bux strategy for passing on genes.  
+
+5343
+I have an issue with this but it is mainly resolved through use of terminology. Money is not beta, and AB (Alpha Bucks) is the ideal goal for any man. Is Vladimir Putin, Mike Tyson or Donald Trump a mix of alpha and beta? HEEELLLLLL NO!! They are alpha as fuck and loaded. Do you think Rameses II or Ghengis Khan were in any way beta? They had unlimited power and resources (and therefore bitches). Resources/ money is not inherently beta, it is just the only strategy available to the beta. Do not conflate money, power and resources with beta, this is one of the ongoing mistakes made by many in the manosphere. I don’t give a fuck that some of the retarded books in the MRP sidebar use the terminology of mixing beta with your alpha. Those book were written by beta, non red pilled men, do an image search of Athol Kay if you don’t believe me.
+
+13187
+Alpha and beta are terms you can throw around these days and most people will get it. If he's with his sister and points to some beta shit and says "that's some beta shit" she'll pick up on it.
+
+9971
+Alpha fucks beta bucks doesn’t mean that alphas get all the sex and betas get none. 
+
+Alpha fucks get sex for fun. 
+Beta bucks get sex for their resources. 
+
+5051
+&gt; That's what most alphas do in the animal kingdom
+
+Wrong, mammal alphas don't lock down anything, they just have it because they are biggest and strongest, betas challenge them for mating rights. They don't signal to the betas that they have to challenge them, if they want some of his harem, the females signal that by fervently resisting their advances.
+
+https://www.youtube.com/watch?v=WCcLMNcWZOc
+
+This is more like whats going on, the alpha walks around doing alpha sh*t, and the least beta of the betas walk up and challenge him (and obviously loses, because he's a small beta).
+
+
+----------
+Cluster #13:
+Cluster importance: 0.0481967574722
+life: 2.400151
+live: 0.956357
+real: 0.326316
+goal: 0.182927
+happy: 0.179986
+experience: 0.107008
+enjoy: 0.106837
+age: 0.100114
+pussy: 0.099596
+plan: 0.094327
+care: 0.092130
+mission: 0.092016
+hard: 0.088356
+fun: 0.087570
+change: 0.084177
+
+16827
+You're still wanting the Disney fairytale. I know how it ends, the same way it always does. Get used to it. 
+
+Get yours, enjoy the time you get with people because they aren't going to be in your life forever. There will come a day when it's the last time you see them, that's how life works.
+
+You're not going through the motions, you're getting what you want from life. Fucking hot girls is fun,, enjoy it for what it is and forget the idea that you want to keep her. Every girl I wanted to fuck 20 years ago has zero chance at even seeing my dick, I'll fuck her daughter though. I have more important shit to do in my life, more fun things too, and girls soak up the time and resources i need to do those things.
+
+Get used to it, that's life man.
+
+17840
+The issue is that newbies take many posts  (especially the angry ones that they relate to) at face value. People need to understand that this is TRP *Theory* not *law*. Nothing is an absolute. TRP is not to be read as a manual to life, it is moreso a guidebook. It is a good source of information to set you in the right direction but not to dictate exactly how you live your life. 
+
+Why is it not good to expect to have TRP tell you exactly how you should live? Simply because life is so complex that no generic tips or advice will apply to every person reading it. Everyone is different. Life is precious and limited just try to enjoy it while it lasts. Redpill can increase your quality of life, but like all other things in life it is used best in moderation.
+
+8214
+&gt; Life's for living, not preparing for death.
+
+The time I write about is definitely a part of life and it is necessary to plan for it. 
+
+16031
+What is this handbook you are talking about? Living life via some mythical "handbook" is not a way to live. 
+
+&gt;do we have a place for living? yes.
+
+2 years of this "handbook" and you missed the part about not cohabitating...
+
+8573
+I’m new to the red pill and I’m using the way in normal life like with woman at Work and girls I know 
+It works 
+You just have to read and make sure you apply what you learned in real life experience 
+A woman is not the goal it’s something along the way with what comes with your new out look on life 
+Don’t try and think you have frame then when a woman talks to you, you break and lose it 
+Try hard to be with what you have in your mind and stay with it 
+I am and it’s making my life better 
+Go with your life and do what you want and don’t be a pussy and go with the flow when you don’t want to 
+Follow your own path and stick with it 
+
+
+
+----------
+Cluster #14:
+Cluster importance: 0.0325907135767
+friend: 2.453903
+talk: 0.292309
+social: 0.258404
+close: 0.163840
+meet: 0.163102
+group: 0.142205
+night: 0.134728
+hang: 0.121979
+circle: 0.120710
+family: 0.120206
+friendship: 0.109784
+chick: 0.109465
+drink: 0.109452
+male: 0.107977
+party: 0.107475
+
+14015
+  // , With you on this, and our culture has more need of the "suffer in silence" mentality. But I'm saying that a balance of complaining and action CAN BE FRIENDS.
+
+&gt; There are exceptions like needing advice about a specific field a friend knows a lot about and asking their opinion but that is not what this post is about.
+
+This post completely ignores the exceptions you mentioned. Plus, you might never know that a friend knows a lot about something.
+
+There are even cases where your friends knowing about your problems can lead to better outcomes, as long as you are willing to seriously consider your friends' actions or advice on your behalf. Complaining and action CAN BE FRIENDS:
+
+&gt; Fat? Go exercise. Your friends don't need to hear about how you are upset you are fat.  
+
+I did this (complained about how I never seemed to gain muscle). My friends referred me to their lifting friends, and gave me invitations to the gym. Which I accepted. 
+
+&gt; Don't like your job? How will telling people you hate your job fix anything? Get a different job.
+
+"Hey, I remember from last week you were saying you hated your job. I assume you've been looking, so I shared your contact info with a friend who's a hiring manager."
+
+My mild, very occasional sarcasm to friends about annoying parts of my job actually lead to some Bitcoin work, since a friend piped in about a startup of his.
+
+&gt; Dog died? What will telling people you are sad about your dead dog do? Nothing productive. You probably just want sympathy and are being weak.
+
+Hm. Yeah, this is a case where "suffer in silence" is the best way to go. Unless your friends have some puppies for you, I guess.
+
+Honest complaining among people who take action upon complaints results in better solutions than if there was no complaining at all.
+
+EDIT: No one is saying that women will find complaining or ANY sympathy attractive. This is strictly for men where you have a history of helping each other and whom you trust, in moderation.
+
+17408
+i have too. on both sides. i've had friends fuck girls who i played the long game with. pissed me off and of course i got mad at my friend and caused drama. 
+now after discovering TRP principles on my own and then finding this site (reaffirming things i've learned the hard way), this shit never happens to me anymore. mainly because i don't play the long game. if i can't even get a kiss while on the first date then i'm out.  and if my friends get her first then good job, happy for you, oh look there's another girl over there who might look different on the surface but feels the same in the dark. 
+
+and yes i've "stolen" girls from my friends the past few years a few times too and I don't feel bad about it. I know the old me would have hated the new me when it comes to that, but it's up to the new me to recognize these traits in my friends and show them how shit needs to be handled.  Yes it's possible to fuck your friend's oneitis and teach them a positive lesson at the same time and remain friends.  
+
+9672
+&gt;I don't know how to feel about this. I talked with my best friend about it and both of us are just confused.
+
+I wonder if the friend is male or female.
+
+9846
+&gt; Make friends and make friends of your friend
+
+I've never been able to randomly make friends in my entire life. I understand that this is important, but at 27 with a fulltime job taking three courses and school. It isn't easy. Its not easy at all, close to impossible to start friends from scratch. I dunno man, I agree with you, it's just probably the hardest thing on TRP. Cold approaching is much easier. 
+
+7242
+I was surpised too,  since she has seemed very nice. But i think she is just show off too her friend when she is with her.
+
+----------
+Cluster #15:
+Cluster importance: 0.0378294915628
+game: 1.963005
+approach: 1.209569
+play: 0.785557
+cold: 0.373917
+video: 0.303522
+chick: 0.187546
+meet: 0.139617
+attractive: 0.135587
+night: 0.135507
+learn: 0.123267
+tinder: 0.115462
+win: 0.109288
+confidence: 0.106432
+easy: 0.102245
+social: 0.100984
+
+4667
+I cold approach all the time and it works very well for me. That being said I only approach if:
+
+1. She is attractive enough that I would regret not approaching
+2. She gives me a IOI.
+
+This goes for day and night game. I DO NOT spam approaches and I DO NOT just run up to random women on the street and step in front of them.
+
+
+15579
+Good post. 
+
+Social circle game is nothing but network marketing pussy. It is a lot more efficient than running direct sniper approach game. 
+
+People have no idea how truly easy it is to get set up with comp tables and bottles at nightclubs and how much easier the game gets from having your own or sitting at somebody else's. 
+
+Photographer and promoter game is almost cheating in terms of fucking hot pussy with the amount of game you actually employ on them. ROI is insane. 
+
+16324
+Women don't approach my friend. But if you asked which guy would have the more successful approach, I'd say the one who had his game down to a T. Naturally Mr. Stallone will have more confidence and that will drive his game further
+
+2068
+I cannot agree enough. I've had a very successful relationship so far doing the same thing OP and what this comment suggests. 
+
+
+Once you figure out that's how the game works, you play by it. 
+
+
+"Whether or not you want to play the game, the game will be played" -someone, probably
+
+4571
+Best advice I've seen on here about game. 
+
+Running direct spam approach "natural game" is the fucking worst form of game and in my opinion for peasants. I don't even consider it game. 
+
+Sad this type of game is still getting taught and used. If you need to approach 30 women in a day just to fuck one, you don't have game. 
+
+----------
+Cluster #16:
+Cluster importance: 0.0322598433881
+sex: 2.416888
+porn: 0.408319
+sexual: 0.371369
+relationship: 0.280528
+dick: 0.170252
+drive: 0.146453
+turn: 0.144229
+rape: 0.132891
+bad: 0.115962
+ltr: 0.110918
+plate: 0.105890
+experience: 0.103989
+pussy: 0.090826
+great: 0.081073
+partner: 0.077309
+
+9538
+If I were you, I’d promote a high sex drive plate to LTR and fuck constantly.  Don’t get too attached, just use it for sex.  Tell her you will not look at porn and keep your word gold.  This way you have an outlet, sex, and a mission, which is reinforced one and the same.
+
+The above works for me, I haven’t looked at porn in a year, although her sex drive started above mine, so your mileage may very. 
+
+7179
+I never ever heard of any male using sex as validation.
+
+Sex is sex to males. OP is an idiot and reading too much into it
+
+8536
+Whatever helps you sleep at night. Women like good sex. Good sex is better than bad sex. Regardless of how bad you want to hamster that away. 
+
+4643
+Several LTR's I've had were with women who never turned me down for sex once. One of them told me when we first started dating, "Just so you know I will NEVER say no to you for sex."
+
+
+
+Her and a few others actually had sex drives even stronger than my own! Imagine 15-year old me, with one notch, and my 15-year old gf is talking dirty to me and wanting sex in public!
+
+
+
+Sex drive mismatches can kill a relationship. Having similar libidos is a non-negotiable for me at this point in my life.
+
+
+
+Being with a girl who doesn't want sex as much as you can really be soul-crushing. 
+
+1151
+Having sex actually pumped me up for having even more sex in the future, so I forgot about porn&amp;fap.  
+I’m gonna abstain from porn&amp;fap for few weeks, with main goal to break addiction and have sex instead of using porn, so if sex happens, it’s success.  
+
+
+----------
+Cluster #17:
+Cluster importance: 0.0395389875372
+high: 1.645539
+smv: 1.249302
+low: 0.815147
+social: 0.625149
+medium: 0.330065
+school: 0.300891
+quality: 0.232457
+level: 0.224712
+status: 0.197546
+count: 0.172515
+standard: 0.154427
+tinder: 0.148235
+esteem: 0.141811
+increase: 0.133330
+true: 0.114435
+
+5490
+who cares, she's a 5.
+
+lots of less attractive girls do this type of stuff. it really has more to do with them having ridiculously high standards so they can pre-emptively reject lower SMV men before the lower SMV men have a chance to reject them.
+
+there's nothing more painful for a woman than knowing she's unattractive. getting turned down by a low SMV guy is like a kick right in the balls because it reminds the girl that she's not attractive.
+
+women would rather be single and tell themselves and everyone else that it's because they have such high standards and will only date high SMV men.
+
+5799
+Same thing applies to online dating and apps.  High SMV women don't use them, they already have high SMV men engaging them.  On top of that, high SMV men rarely use apps/online much, because it's much easier to get high SMV women in person where low SMV guys filter themselves out, instead of trying to make it through the noise online and on apps.
+
+5065
+&gt;your own self-esteem must be higher than hers to give her a reality check.
+
+I definitely want to pull self esteem out from under the umbrella shared by SMV.  Self esteem is more of the fundamental way you feel about yourself and your effectiveness.  Higher or lower SMV is a ranking which depends on everyone else.
+
+For instance, you could have a dude with massively high self esteem, but very low SMV.  Someone like Stephen Hawking for instance.  The dude *probably* has very high self esteem because of his intellect and accomplishments, but low SMV relative to everyone else.
+
+Similarly, someone could have very low self esteem and very high SMV.  Take Tom Cruise around the time he jumped on Oprah's couch making a scene.  The dude had to make spectacles because he lacked the inner contentment typical of someone with a reasonable amount of self esteem.  But on the SMV side of things, he's a 10.
+
+It could be said 'having higher self esteem increases the likelihood you'll have higher SMV, but having high SMV doesn't necessarily increase the likelihood you'll have high self esteem.' 
+
+
+
+
+
+
+
+15902
+&gt; I speculate that the lower SMV the woman the more they prefer aesthetics whereas the higher SMV woman prefer confidence.
+
+That's an interesting point. To add to that, I'm thinking that women with lower self-esteem (regardless of SMV) prefer men with higher confidence (regardless of SMV) to boost them up. I see this both my experience (I'm able to pick up someone absolutely beautiful - high SMV - but not 100% confident of herself) and others (I know a female friend - she's nice, and she's dating a guy that's so insecure he's a bit of a know-it-all, but possibly to her it screams self-assurance, which she doesn't have).
+
+Now I'm looking to date only women with high genuine self-worth, self-esteem, and yes, SMV. The trifecta!
+
+16867
+there needs to be a caution at the beginning of this only be this level of selfish if your smv is high enough for her to accept your selfishness because of your so high smv. if you have low smv she will just laugh and find someone better.
+
+----------
+Cluster #18:
+Cluster importance: 0.0457152310577
+money: 1.896728
+pay: 0.919111
+job: 0.453508
+buy: 0.409824
+spend: 0.374210
+drink: 0.372275
+$: 0.360375
+live: 0.228285
+rich: 0.214475
+free: 0.207508
+business: 0.197358
+tax: 0.196530
+divorce: 0.174072
+earn: 0.169712
+power: 0.146889
+
+9174
+"In this country, you gotta make the money first. Then when you get the money, you get the power. Then when you get the power, then you get the women"
+
+6881
+Fair enough; I see your point. I still slightly disagree though. To me, money can be important to people and they can STILL make dumb decisions with it. Does that make sense? Valuing money doesn't automatically equal intelligence with money or getting Money.also don't forget rich people who got rich by valuing something other than money that ended up making them money...many paths to wealth and many paths to poverty. However, I do understand  your point. 
+                  I'm interested to learn about  statistics on this topic. (Spending habits of lower incomes, amount of money saved in different class brackets, etc) 
+
+16297
+How did you make your money? What do you do?
+
+Not a dox attempt, but making money is the one pillar of my life that is lagging behind. I found out too late that there's no money to be made as an engineer, it's not the 80's anymore.
+
+2687
+Yeah lol, it's not like his talent and aspiration made him all those millions...
+
+You know how they say for women, her money is her money, husbands money is their money. It's really funny how with a simple phrasing like that you can deduce what the person is actually thinking/talking about.
+
+7658
+I like how she says he "came into" a lot of money. Like whoops, he got rich. It was his work with his friend that made the money. 
+
+----------
+Cluster #19:
+Cluster importance: 0.0268004852763
+love: 2.437541
+fall: 0.163063
+true: 0.161170
+leave: 0.113835
+bitch: 0.105181
+feeling: 0.097421
+relationship: 0.093215
+child: 0.091214
+long: 0.089594
+respect: 0.084960
+emotional: 0.082595
+happy: 0.081206
+mother: 0.080504
+care: 0.075692
+capable: 0.075128
+
+4222
+The ancient poet, Ovid, warned against this:  
+  
+**And then, how often it has happened that the man who begins by feigning love ends by falling in love in real earnest. Alas, my fair ones, look with indulgent eye on those that give themselves a lover's airs; the love, now feigned, will soon be love indeed.**  
+   
+
+
+5011
+This list is a bit silly. Have you ever been in a relationship?
+
+&gt;Never ever tell her that you love her deeply, never write too romantic letters , messages etc.
+
+&gt; Want to express love? Say 'I like you' and stop don't glorify love too much. Women are romantic but internally in their imagination not outside.
+
+These will make a women leave you for emotional unavailability. Read Sex God Method.
+
+EDIT: The answer here is to say 1/3 less than her. She says "I love you". Ok, cuddle her. She says "I love you" again. Say her name like "Allice!" with a smile. She says "I love you" a third time or "I love you so much", say I love you back.
+
+But it's definitely not never.
+
+EDIT2: Ok, this list is the hardcore list of "The do's and don'ts if you want her to be in a relationship with you". If you tone down each point, it's somewhat useful.
+
+3605
+I'm not saying she loves me the way I do I love her because I like loving her, she is not the only one I love though. I'm not committing away from love just because bitches do not know how to do it themselves. 
+
+She gives me what I want when I'm with her and at those times I know she loves me when I'm away that's her own business I just do not worry about it. I take what I like from her and so does she, is she an unicorn? Hell no I know that I'm not delusional, and because I'm not delusional I can enjoy what I like while I have it. No need to be angry pal.
+
+4522
+The problem is contingent on not only the way in which man craves to be loved, but likewise the way in which woman is capable of loving. Man desires a sacrificial love, sacrifice implies loyalty and connection. What men want from love, and what woman’s love amounts to is fundamentally irreconcilable.
+
+In matters of love (and not simply lust,) man is an optimistic egalitarian. He loves as he wishes to be loved. In matters of love, when man is young and oblivious to the ways of women, he is a true adherent of the golden rule.
+
+The folly of man’s nature lies in the belief that the loyalty quintessential to woman’s maternal instinct will be available within a romantic context. He believes rather foolishly, that as his mother loved him, the idealised girlfriend could. He sees how women love their children, and upon making such an observation concludes that women are capable of great love. This is true, they are. Only sadly, this great love is a love reserved solely for children, it extends not to man. As such, man has an idealisation of woman’s love, not a realisation.
+
+Man desires that which is unattainable to him, unaware the love he desires is maternal in nature, unable to be felt for him. Nature plays a cruel trick on the psychology of man. It gives him a very pure, high quality love in his childhood. It gives him a template for woman’s love that he comes to expect as standard of all women. He is taught by his mother’s love that unconditional loyalty, noble character, gentleness, sacrifice and trust are intrinsic of the feminine essence. And so as he grows from a boy into a man he comes to the rather logical conclusion that if he is “a good man,” he can expect to be loved by his lover in much the same way. His mother, well-meant but quite incorrectly likewise affirms this notion to him. This is a wicked lie, but a man whose heart is yet to be broken does not realise this. He thinks woman’s love is immutable. He knows not that her love for child is different from that of her love for him.
+
+And so man longs to be loved like a child, not realising such a love is reserved for children. Believing that the love he covets is romantic love, when truly it is maternal love. Such a man of course lacks the experience or nuance of mind to make this distinction. And so the tragedy for this man is learning that women do not love men like they love children. The unconditional loyalty inherent to the maternal bond is all but absent from the mating bond. Most men do not realise this. They love wholesomely right up until they are emotionally blind-sided by a woman in the most violable of ways, forced to re-evaluate their opinion of female nature. This is not a hypothetical so much as it is an eventuality. If lucky, post-breakup they end up on this site or elsewhere similar.
+
+From there on, man can learn to re-evaluate his notion of woman’s capacity to love. He will come to learn woman’s love for her mate is of vastly reduced moral and psychological quality than that of her love for her child. How he responds to such powerful knowledge will ultimately shape what kind of man he decides to become. Be it a man going his own way, a disillusioned bachelor looking to use women for nothing but sex, or a patriarch who runs his house like a business, aware of the risk, but acting in all his power to mitigate it.
+
+However cruel as it may seem, women are incapable of reciprocating man’s love. They love differently. There is a hierarchy of love that trickles down. Man sacrifices for woman, and woman, for child. Rarely does the river flow upward. As such, if man is to believe that women can love to the same extent as he, then he is doomed to disappointment and misery when she invariably acts within accordance of her nature rather than his idealisation.
+
+Woman’s Love Defined: The epitome of a woman’s love is infatuation. To define it, this is a lust for your power and an obsession with how your character makes her feel, secondary to your power. It is put crudely: opportunism and emotional self-appeasement alchemised with lust.
+
+Man oft forgets that love does not flow upward in the sacrificial sense. He makes the mistake of thinking that because he can love a woman without lusting for her, that a woman can do the same. She cannot, because her love is not based on sacrifice, it is based on the appreciation of man’s sacrifice met with lust. The more man sacrifices for a woman, the more likely he is to fall in love with his investment. The more a woman sacrifices for man absent of animal lust, the more repulsion she feels for him, interpreting her need for investment as a shortcoming on his part. And so there it is, unspoken in word but detected in sentiment; woman expects man to love her more than she loves him, reinforcing the hierarchy of love. Female sacrifice is predicated on lust and mental entrapment. Male sacrifice is expected, and freely given.
+
+Love &amp; Female Self-Deception: A woman who does not lust for you cannot love you as you wish to be loved. Lust is the basis for her love, absent of lust you have “like” rather than “love.” Such a woman can do naught but use you and lie to you both that she is in love when she isn’t. If it is convenient for a woman to be in love, she will convince herself she is in love so that she may convince you of it. Women are masters of self-deception, so one must be extremely cautious in assigning any substance to their convictions. Treat such earnest emotional conviction as sophistry. Women are generally speaking, emotionally neurotic. Women who become too self-aware can end up hating themselves because they cannot overcome their animal elements.
+
+
+3477
+&gt; You can never be sure, she actually loves you and is not settling for you.
+
+No woman will love you the way you want them to love you.  This should never be a consideration.
+
+&gt; https://i.imgur.com/FhC2Qsd.png
+
+Behold.  See what she says?  She wants a guy that loves her.  She doesn't say she wants a guy she loves.
+
+&gt; https://i.imgur.com/up7Xrlb.png
+
+But wait, it gets better.  *Her parents love him*  Does she?  Nary a word.
+
+&gt; https://i.imgur.com/5znzquS.png
+
+... and then the 10 Megaton Nuclear Hamster:  she outright says she doesn't love him.
+
+----------
