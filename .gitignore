@@ -1,3 +1,7 @@
+# Data files #
+##############
+*.csv
+
 # Compiled source #
 ###################
 *.com
