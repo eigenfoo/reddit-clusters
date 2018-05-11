@@ -10,6 +10,7 @@ from spacy.lang.en.stop_words import STOP_WORDS
 
 
 def mask(token):
+    # Helper function to mask out non-tokens
     if (not token.is_ascii
             or token.is_stop
             or token.is_space
@@ -23,6 +24,7 @@ def mask(token):
 
 
 def preprocess(document):
+    # Strip HTML tags, strip links from markdown, and lowercase, respectively.
     document = re.sub(r'&[a-z]+;', r'', document)
     document = re.sub(r'\[(.+)\][(].+[)]', r'\1', document)
     document = document.lower()
@@ -30,42 +32,47 @@ def preprocess(document):
 
 
 def tokenize(document):
+    # Tokenize by lemmatizing
     doc = nlp(document)
     return [token.lemma_ for token in doc if mask(token)]
 
 
 if __name__ == '__main__':
+    if len(sys.argv) != 3:
+        print('Usage: ')
+        print('\tpython tfidf_nmf.py SUBREDDIT_NAME NUM_TOPICS')
+        sys.exit(1)
+
+    # Disable tagger, parser and named-entity recognition
     nlp = spacy.load('en', disable=['tagger', 'parser', 'ner'])
 
-    with open('data/stoplist.txt', 'r') as f:
+    # Load custom stoplist
+    with open('../data/stoplist.txt', 'r') as f:
         stops = f.read().split()
 
     for stop in stops:
         STOP_WORDS.add(stop)
 
     for word in STOP_WORDS:
-        lexeme = nlp.vocab[unicode(word)]
+        lexeme = nlp.vocab[word]
         lexeme.is_stop = True
 
-    DATA_FILE = './data/bigquery/2017/12/' + sys.argv[1] + '.csv.gz'
-
-    print('Loading Reddit comments...')
-
+    # Read data.
+    DATA_FILE = '../data/bigquery/2017/11-12/' + sys.argv[1] + '.csv'
     data = pd.read_csv(DATA_FILE)
     data = data.iloc[:, 0].fillna('').astype(str).squeeze()
-
     print('Loaded Reddit comments.')
 
-    # Cut off the bottom 20% of all comments, by simple count.
+    # Cut off the bottom 50% of all comments, by simple count of split tokens.
     counts = data.apply(lambda s: len(s.split()))
     threshold = counts.quantile(0.5)
     data = data[counts > threshold]
+    print('High-pass filtered comments.')
+
     np.save('data_{}.npy'.format(sys.argv[1]), data)
-
-    print('High-pass filtering comments.')
     print('Saved high-pass filtered data.')
-    print('Vectorizing comments...')
 
+    # Vectorize data using tf-idfs.
     vectorizer = TfidfVectorizer(strip_accents='unicode',
                                  preprocessor=preprocess,
                                  tokenizer=tokenize,
@@ -75,16 +82,16 @@ if __name__ == '__main__':
                                  norm='l2')
 
     tfidf = vectorizer.fit_transform(data)
-
     print('Vectorized comments.')
 
     feature_names = vectorizer.get_feature_names()
     np.save('feature_names_{}.npy'.format(sys.argv[1]), feature_names)
     np.save('X_{}.npy'.format(sys.argv[1]), tfidf)
 
-    print('Saved features names (vocabulary) and tfidf matrix (X).')
+    print('Saved features names (vocabulary) and document-term matrix.')
     print('Factorizing tfidf matrix...')
 
+    # Factorize with NMF.
     nmf = NMF(n_components=int(sys.argv[2]),
               init='nndsvd',
               max_iter=200,
@@ -96,13 +103,11 @@ if __name__ == '__main__':
     W = nmf.fit_transform(tfidf)
     H = nmf.components_
     err = nmf.reconstruction_err_
-
     print('Factorized tfidf matrix.')
 
     np.save('H_{}.npy'.format(sys.argv[1]), H)
     np.save('W_{}.npy'.format(sys.argv[1]), W)
-
-    print('Saved factorization matrices (W and H).')
+    print('Saved factorization matrices.')
 
     print('')
     print('------------------------------')
@@ -111,20 +116,25 @@ if __name__ == '__main__':
     print('Reconstruction error: {}'.format(err))
     print('')
 
-    # FIXME why is this necessary???
+    # FIXME this shouldn't be necessary...? And yet it doesn't work without it.
     data = np.load('data_{}.npy'.format(sys.argv[1]))
 
+    # Print clusters and exemplars.
     for topic_idx, [scores, topic] in enumerate(zip(np.transpose(W), H)):
         print('Cluster #{}:'.format(topic_idx))
         print('Cluster importance: {}'.format(
             float((np.argmax(W, axis=1) == topic_idx).sum()) / W.shape[0]))
+
         for token, importance in zip(
                 [feature_names[i] for i in np.argsort(topic)[:-15 - 1:-1]],
                 np.sort(topic)[:-15 - 1:-1]):
             print('{}: {:2f}'.format(token, importance))
+
         print('')
+
         for exemplar in np.argsort(scores)[-10:]:
             print(exemplar)
             print(data[exemplar])
             print('')
+
         print('----------')
