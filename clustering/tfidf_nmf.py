@@ -60,7 +60,7 @@ if __name__ == '__main__':
     # Read data.
     DATA_FILE = '../data/bigquery/2017/11-12/' + sys.argv[1] + '.csv'
     data = pd.read_csv(DATA_FILE)
-    data = data.iloc[:, 0].fillna('').astype(str).squeeze()
+    data = data.iloc[:, 1].fillna('').astype(str).squeeze()
     print('Loaded Reddit comments.')
 
     # Cut off the bottom 50% of all comments, by simple count of split tokens.
@@ -86,7 +86,7 @@ if __name__ == '__main__':
 
     feature_names = vectorizer.get_feature_names()
     np.save('feature_names_{}.npy'.format(sys.argv[1]), feature_names)
-    np.save('X_{}.npy'.format(sys.argv[1]), tfidf)
+    np.save('V_{}.npy'.format(sys.argv[1]), tfidf)
 
     print('Saved features names (vocabulary) and document-term matrix.')
     print('Factorizing tfidf matrix...')
