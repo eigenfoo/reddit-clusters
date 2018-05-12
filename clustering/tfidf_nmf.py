@@ -69,7 +69,7 @@ if __name__ == '__main__':
     data = data[counts > threshold]
     print('High-pass filtered comments.')
 
-    np.save('data_{}.npy'.format(sys.argv[1]), data)
+    np.save('results/data_{}.npy'.format(sys.argv[1]), data)
     print('Saved high-pass filtered data.')
 
     # Vectorize data using tf-idfs.
@@ -85,8 +85,8 @@ if __name__ == '__main__':
     print('Vectorized comments.')
 
     feature_names = vectorizer.get_feature_names()
-    np.save('feature_names_{}.npy'.format(sys.argv[1]), feature_names)
-    np.save('V_{}.npy'.format(sys.argv[1]), tfidf)
+    np.save('results/feature_names_{}.npy'.format(sys.argv[1]), feature_names)
+    np.save('results/V_{}.npy'.format(sys.argv[1]), tfidf)
 
     print('Saved features names (vocabulary) and document-term matrix.')
     print('Factorizing tfidf matrix...')
@@ -105,8 +105,8 @@ if __name__ == '__main__':
     err = nmf.reconstruction_err_
     print('Factorized tfidf matrix.')
 
-    np.save('H_{}.npy'.format(sys.argv[1]), H)
-    np.save('W_{}.npy'.format(sys.argv[1]), W)
+    np.save('results/H_{}.npy'.format(sys.argv[1]), H)
+    np.save('results/W_{}.npy'.format(sys.argv[1]), W)
     print('Saved factorization matrices.')
 
     print('')
