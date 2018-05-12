@@ -116,7 +116,7 @@ if __name__ == '__main__':
     print('Reconstruction error: {}'.format(err))
     print('')
 
-    # FIXME this shouldn't be necessary...? And yet it doesn't work without it.
+    # FIXME This shouldn't be necessary? And yet it doesn't work without it :(
     data = np.load('data_{}.npy'.format(sys.argv[1]))
 
     # Print clusters and exemplars.
@@ -132,9 +132,9 @@ if __name__ == '__main__':
 
         print('')
 
-        for exemplar in np.argsort(scores)[-10:]:
-            print(exemplar)
-            print(data[exemplar])
+        for exemplar_idx in np.argsort(scores)[-5:]:
+            print(exemplar_idx)
+            print(data[exemplar_idx])
             print('')
 
         print('----------')
