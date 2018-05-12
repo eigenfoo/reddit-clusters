@@ -63,9 +63,9 @@ if __name__ == '__main__':
     data = data.iloc[:, 1].fillna('').astype(str).squeeze()
     print('Loaded Reddit comments.')
 
-    # Cut off the bottom 50% of all comments, by simple count of split tokens.
+    # Disregard the bottom 70% of all comments, by simple count of split tokens.
     counts = data.apply(lambda s: len(s.split()))
-    threshold = counts.quantile(0.5)
+    threshold = counts.quantile(0.7)
     data = data[counts > threshold]
     print('High-pass filtered comments.')
 
