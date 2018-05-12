@@ -1,0 +1,2301 @@
+Loaded Reddit comments.
+High-pass filtered comments.
+Saved high-pass filtered data.
+Vectorized comments.
+Saved features names (vocabulary) and document-term matrix.
+Factorizing tfidf matrix...
+violation: 1.0
+violation: 0.467872402263
+violation: 0.259241881642
+violation: 0.155635303332
+violation: 0.103046687198
+violation: 0.0713008042519
+violation: 0.0512887993796
+violation: 0.0395178423647
+violation: 0.0325100587237
+violation: 0.0282651955894
+violation: 0.0251496950719
+violation: 0.0226272237614
+violation: 0.0209907984092
+violation: 0.0196511532341
+violation: 0.0187443147846
+violation: 0.018516193874
+violation: 0.0186653691472
+violation: 0.0190373830995
+violation: 0.021154539175
+violation: 0.0246750141581
+violation: 0.0270588194308
+violation: 0.0282160148765
+violation: 0.0295001373778
+violation: 0.0293928727172
+violation: 0.0275667044304
+violation: 0.0244120515772
+violation: 0.021048994327
+violation: 0.0182646623134
+violation: 0.0158432006558
+violation: 0.0137552800018
+violation: 0.011907209709
+violation: 0.0103285241463
+violation: 0.00907614370533
+violation: 0.00809545573132
+violation: 0.00731816293292
+violation: 0.00665771438909
+violation: 0.00614825947765
+violation: 0.00573658923035
+violation: 0.0053996016771
+violation: 0.00512270453549
+violation: 0.00489001017012
+violation: 0.00469311218505
+violation: 0.00452251577495
+violation: 0.00437310043926
+violation: 0.00424035474095
+violation: 0.00412050990593
+violation: 0.00400864581703
+violation: 0.00390875709652
+violation: 0.00381679333881
+violation: 0.00373227076424
+violation: 0.00365428125656
+violation: 0.00358241448458
+violation: 0.00351455098682
+violation: 0.00345071940165
+violation: 0.00339280155553
+violation: 0.00333865854773
+violation: 0.00328773629954
+violation: 0.0032398375179
+violation: 0.00319512984779
+violation: 0.00315348094874
+violation: 0.00310848220843
+violation: 0.00306536955609
+violation: 0.003026810498
+violation: 0.00299178221574
+violation: 0.00295923194253
+violation: 0.00293061107495
+violation: 0.00290512830218
+violation: 0.00288300756538
+violation: 0.00286406946024
+violation: 0.00284795354938
+violation: 0.00283518450461
+violation: 0.002823424256
+violation: 0.00281528766119
+violation: 0.00280946291869
+violation: 0.00280713735325
+violation: 0.00280957002062
+violation: 0.00281627561646
+violation: 0.0028261938557
+violation: 0.00284050184176
+violation: 0.0028555206849
+violation: 0.00287104789274
+violation: 0.00288581197527
+violation: 0.00290545149545
+violation: 0.00293102394613
+violation: 0.00296203807628
+violation: 0.00299843438386
+violation: 0.00303890415358
+violation: 0.00308463408484
+violation: 0.00313603830176
+violation: 0.0031936720181
+violation: 0.0032575541343
+violation: 0.00332760022424
+violation: 0.00340447937826
+violation: 0.00348822305536
+violation: 0.00357958666744
+violation: 0.00367757651234
+violation: 0.00378394771796
+violation: 0.0038968630641
+violation: 0.00401702140457
+violation: 0.00414624847619
+violation: 0.00428671424847
+violation: 0.00443807287744
+violation: 0.00460239066126
+violation: 0.00477982989547
+violation: 0.00497145381177
+violation: 0.00518864432553
+violation: 0.00542291545605
+violation: 0.0056765037161
+violation: 0.00595009963062
+violation: 0.00624599775602
+violation: 0.00656191999007
+violation: 0.00688392186606
+violation: 0.0072122318969
+violation: 0.00757606699814
+violation: 0.00794544883867
+violation: 0.008311249136
+violation: 0.00868089711054
+violation: 0.00901855786522
+violation: 0.00940490510649
+violation: 0.00977925388101
+violation: 0.0101713125738
+violation: 0.0105990365802
+violation: 0.011043680977
+violation: 0.0115039113846
+violation: 0.0119633233538
+violation: 0.0123866356497
+violation: 0.0128036743084
+violation: 0.0131873173933
+violation: 0.0134710804708
+violation: 0.0136309913953
+violation: 0.0136398533072
+violation: 0.0134890572915
+violation: 0.0131773847284
+violation: 0.0127385322528
+violation: 0.0122252534331
+violation: 0.0117116780002
+violation: 0.0112131612137
+violation: 0.0107183063374
+violation: 0.0102295755147
+violation: 0.0097752676778
+violation: 0.00936699170459
+violation: 0.00902636337064
+violation: 0.00871439009634
+violation: 0.00842965919947
+violation: 0.00818228173645
+violation: 0.00796330852937
+violation: 0.00777629052896
+violation: 0.00760660366287
+violation: 0.00747648473111
+violation: 0.00734906151498
+violation: 0.00722698960904
+violation: 0.00705170297863
+violation: 0.0066117398533
+violation: 0.00632307280407
+violation: 0.00602336706645
+violation: 0.00571811537054
+violation: 0.00541924773125
+violation: 0.00511756295756
+violation: 0.00483839405877
+violation: 0.00457399166969
+violation: 0.00430398516697
+violation: 0.00404373159188
+violation: 0.00379583114385
+violation: 0.00355678847114
+violation: 0.00333124983207
+violation: 0.0031177979802
+violation: 0.00292056352272
+violation: 0.0027376533007
+violation: 0.00256912244094
+violation: 0.00241280688835
+violation: 0.00226757543876
+violation: 0.00213553080916
+violation: 0.0020177192876
+violation: 0.0019079700248
+violation: 0.00180657931696
+violation: 0.00171270172819
+violation: 0.00162765773913
+violation: 0.00155218159049
+violation: 0.00148538299191
+violation: 0.00142387976694
+violation: 0.0013676124511
+violation: 0.00131618852852
+violation: 0.00126869718512
+violation: 0.00122488183577
+violation: 0.00118629655671
+violation: 0.00115157221631
+violation: 0.00111980195198
+violation: 0.00109049788781
+violation: 0.00106396772378
+violation: 0.00103973747936
+violation: 0.00101705319869
+violation: 0.000996028133145
+violation: 0.000976619261292
+violation: 0.000958565795131
+violation: 0.000941828641179
+violation: 0.000926148726764
+violation: 0.000911400626336
+violation: 0.000897408252297
+violation: 0.000884132807564
+violation: 0.000871535165724
+Factorized tfidf matrix.
+Saved factorization matrices.
+
+------------------------------
+
+Reconstruction error: 752.154219427
+
+Cluster #0:
+Cluster importance: 0.0518705913376
+internet: 2.455685
+government: 2.355207
+net: 2.186778
+neutrality: 2.126816
+company: 1.303620
+free: 1.237651
+nn: 1.160530
+isps: 1.022089
+market: 0.871132
+control: 0.867306
+isp: 0.858608
+regulation: 0.857290
+service: 0.690407
+law: 0.688408
+power: 0.647982
+
+2994
+But seriously, there are some good arguments to repeal NN, many written by fellow pedes. here are a few:
+
+McDrMuffinMan:
+
+Here's a comment someone else made as a good start:
+
+Note: Before I make an attempt to explain my position, I must say that I am very much against net neutrality, but I'm also very jaded about having discussions on it, so if you want to understand my point, you're welcome, if you want to change my mind without making full effort to understand my point, then I can't engage with you.
+
+Moral Arguments:
+Two companies/private entities/individuals can draw up any valid contract between them about how they want to treat their property (this includes, prioritizing one piece of data over the other). This does not include deprioritizing another person's data. So censoring data of an entity they had an agreement with, cannot be accepted, but that's just plain out fraud. Sue the ISPs.
+People demanding net neutrality as a law of the land have no say on how different individuals must create contracts between them. Lets say I, as a private individual am ok with my netflix data to be prioritized over my youtube data, then net neutrality proponents want this to prevent this from happening.
+Facebook wanted to make Internet free for poor people in India by subsidizing it, but pro-NN supporters fearmongered the crowd to be against it so the govt blocked it. All these things demonstrate that pro-NN supporters know that private individuals would LOVE to get free internet, even if it is just one section of it.
+T-mobile made Netflix free for its users, and again NN supporters criticized it as a violation of NN. People on the other hand LOVE the fact that watching movies on Netflix does not eat up their data plan. Of course, in exchange T-mobile serves your video on a deprioritized line and choosing their own encoding rate, but nobody's complaining.
+
+Technical Arguments:
+Net Neutrality is bad for the Internet. All data is not equal and it should not be treated equally. If a Doctor in New York is performing a remote surgery on some poor kid in Africa, then those data packets should not be treated the same way as your netflix video content. Stock exchange trade orders are of more economic value than your reddit comments.
+Internet has stopped evolving into the direction of real time communication because the ISPs voluntarily follow net neutrality. Working From Home sucks because video streaming sucks. Having remote coworkers is absolutely not the same as having in-office coworkers, this means companies don't hire remote workers. If Net Neutrality is gotten rid of, we can have more high definition real time video communication. Your company will pay for that priority data for the video feed (so it would be that your video chats with your fiance won't be of that high quality, unless you pay for it, but your company would consider the priority data costs as a business cost of hiring a remote worker, after all, because of that, you're now able to work from Kansas City for your NYC employer). Keep in mind, I am trying to paint a realistic picture here, not some rosy stuff to counter all the dystopian vision pro-NN supporters keep painting.
+In other words, instead of urban areas becoming overcrowded, people will spread out more, as promised by the early years of the Internet (something which didn't happen).
+DDOS attacks, other internet threats can be mitigated more easily. We can put more of our infrastructure on the Internet without worrying about Russian hackers bringing down our electricity grid by attacking the critical pieces of our grid. Keep in mind, they can still hack the security exploits, but they can't hack through a denial of service attack that easily.
+Practical Arguments:
+I don't want to let govt have the power to control the Internet. Today they're doing it in the name of making internet 'uncensored', tomorrow they will censor in the name of keeping it uncensored. They can clearly kill the Internet tomorrow by asking the ISPs (sure, they'd do it only when they know the public will let them do it), the same way they can kill the Internet when NN is gotten rid of.
+
+BUT, censoring is a different issue. Govt can't censor the data like that. They can't even censor the data by asking ISPs to randomly block a certain service any more in a NN world, than in a non-NN world.
+This argument may come out as quite sinister, but as someone who has attempted to look into making censorship free platforms, I realized one thing, no matter what you do, today if you create a censorship free platform, you're going to get the Alt-right refugees to it. I don't have any moral qualms with it, but it is more of a scalability issue. A lefty has no reason today to NOT use google, facebook or twitter and use a censorship free platform, because the former is censoring exactly the kind of speech they want to be censored.
+You create decentralized youtube, and it will be full of alt-right stuff, you create censorship free reddit, and it would be full of neo-nazi stuff. I don't mind having this stuff on a free speech platform, but until everybody uses it, this isn't a sustainable solution. A non-NN world would actively try to build censorship free platforms. Majority of the leftists/mainstreamists will not agree with this argument (because it is a net cost on them), and that's fine with me.
+
+DrCowboyPresident:
+
+REMEMBER:
+The left cheered censoring a 'hate speech' website from the net only a couple months ago. They also gave away ICANN which enabled this to happen.
+The left is in favor of anti free speech 'hate speech' law, and enforcing it on the net. Watch them cheer censorship on twitter and facebook.
+They are NOT in favor of freedom, or free speech. If they are pushing hard for regulation, it's so they can regulate. And we all know what they want to regulate.
+This is simple as dirt to figure out. 'Net neutrality' has as much truth to it as 'Affordable Care Act'.
+Why are you against Affordable Care, shitlord???!?!?!!?
+Same strategy here.
+
+metro-jets:
+
+The FCC wants control over the internet. This is because as people have looked for alternative sources of news on the internet, the establishments ability to control the narrative has been seriously hurt. The establishment therefore wants to be able to have strong control over the internet and regulate ISPs under title II, like the cable companies.
+The so called fairness doctrine was when JFK abused powers shut up conservative radio in the 60's. The FCC gets similar powers with the so called "net neutrality".
+
+http://www.nationalreview.com/article/436807/net-neutrality-government-control
+
+Many rules and regulations kick in, including a selective ban on blocking Internet content and oversight of the competitive Internet interconnection market, but the so-called general-conduct standard swallows them all. This amorphous rule allows the FCC to prevent any practice by an Internet access provider that the FCC believes will “unreasonably disadvantage” an Internet user, application, or content provider. The FCC and net-neutrality advocates correctly recognize that if the agency can monitor and control the distributors of speech, they can shape culture and politics.
+The most prominent example of abuse of regulations came in the 1960s, when the Democratic National Committee and its affiliates used the FCC’s Fairness Doctrine to drive conservatives out of TV and radio for a generation. But in recent years, broadcast media and print newspapers are losing influence to the Internet, television, and streaming video, and the new media had the potential to escape regulators’ scrutiny.
+The globalist establishment is because of the free internet losing control over the narrative. "Net neutrality" as proposed will give them back the control. The liberals of course eat it all up.
+
+TLDR:
+
+ Trump himself: https://i.redd.it/9el0mt4vkizz.jpg
+
+Personally, I didn't have datacaps before NN. The internet was actually just plain better before NN for me. 
+
+And yes. Doctors performing real time surgery, stock market orders, first person shooters and other things requiring very low latency should have higher priority over DDOS attacks, Torrents of sometimes illegal things, and massive bulk downloads of games from steam. 
+
+47282
+removing net neutrality will take the internet to back what it was before net neutrality existed, to a place where no censorship happened.
+
+it's really that simple.  
+
+name a government regulation this large that was actually good for america. it's rhetorical because you can't name one. 
+
+free market is what it is. 
+
+scary thing about net neutrality, espeically on this sub, was that i thought the people in this sub cared about freedom, to the point where we'd be the first ones to fight in a civil war if that was the case. but now i see most of us here would prefer government overreach into our internet instead of letting the free market work out even if that means there would be a few hiccups here and there where people are overcharged for services and have to find a different way to get in the internet.  very disappointed
+
+124739
+Net Neutrality allows the government to control the internet, and has nothing to do with neutrality, same as ACA has nothing to do with afordable. 
+
+4088
+1) "The Democrats said that if we don't pass Net Neutrality, my internet price will go up! I don't want my internets to be more expensive, so I love Net Neutrality and love Democrat laws!"
+
+2) "The overtaking of the internet as a utility managed by the government limits capitalism and the free market. Removing Net Neutrality Title II classifications for ISP's may mean prices will go up, but it also means prices may go down - that is the beauty of free enterprise. Returning to a time where ISPs were not classified under Title II will be the same internet we've always had, minus government regulation as to how you can accomplish communications. The telephone service is under Title II, and we see how innovative the telephone companies have been (hint, they have not) and so we don't want the internet to stagnate under government regulation. People and corporations are allowed to make mistakes, and we should not over-regulate or allow the government to control sectors of business."
+
+
+
+250158
+Yeah its not. Funny though, 4chan was pushing for Net Neutrality with some ads a few months ago. Now pol seems to be against it? The issue with Net Neutrality is the dangers of FCC control and why its only being applied to ISPs instead of all the tech companies. The FCC isn't known to be altruistic either. Its fishy to say the least.
+
+You're right in saying its an obama proposal. It was part of Obama's campaign. The FCC chair at the time was appointed by Obama. 
+https://youtu.be/5Z_nBhfpmk4?t=3389
+
+While Net Neutrality has been discussed for years, it blew up after Netflix and Comcast had that "fast lane", "Slow lane" deal. Where Comcast wanted Netflix to pay for infrastructure to create "faster lanes" for Netflix so that it wouldn't clog up everyone's internet. In theory, people who actually have Netflix can have their movies without delay. People who use the internet for other services use the normal or "slow lane". That way people who don't have Netflix won't have to deal with congestion. Netflix doesn't want pay fees of course. 
+https://youtu.be/5Z_nBhfpmk4?t=2621 
+
+I'm not denying that ISPs might censor, slow, or block traffic, as they have done in the past. ATT censors a singer in 2007, Comcast was blocking bittorrent traffic in 2007. 
+https://youtu.be/5Z_nBhfpmk4?t=3206
+
+What the Title II reclassification does is give the FCC more control over the internet, They claim it gives them the ability to enforce net neutrality. The question then becomes, what rules will be added to Net Neutrality over time? Will the FCC start censoring websites they deem dangerous? Can they really ensure a fair and equal internet? What Tech companies benefit from this?
+https://youtu.be/5Z_nBhfpmk4?t=3407
+
+The people on the FCC typically have connections to the industries they're supposed to look over. Conflicts of interest.
+https://youtu.be/5Z_nBhfpmk4?t=3729
+
+Stefan points out that the reclassification could create a huge crash. Something to consider.
+https://youtu.be/5Z_nBhfpmk4?t=3573
+
+The thing happening in December is reversing the Title II classification. Its not "gutting" Net Neutrality, only reversing the reclassification. Comcast even says they support Net Neutrality and will be looking to enforce it legally. http://corporate.comcast.com/comcast-voices/how-to-keep-a-free-and-open-internet-comcasts-fcc-comments
+
+So its way more than the posts on Reddit make it out to be. It would be nice to have internet that doesn't throttle. Its hard to prove if they do. Its more than just "Big Evil ISPs" censoring the internet. Its companies fighting each other by lobbying the government. As of now, the implications of this change are unclear. But all this outrage for Net Neutrality is blown out of proportion. And now you have Maxine, Pelosi, Feinstien, Kamala Harris getting involved too? Its way too fishy.
+
+Google, Facebook, Reddit, and Netflix are involved as well. Why? Its because each company has something to gain from Net Neutrality rules. Streaming is the biggest thing coming in the next couple years. Why would they want to pay ISPs to build infrastructure to support it when they can force ISPs to indiscriminately deliver traffic for them? ISPs don't want to have to invest in new infrastructure if they get nothing in return. They may even raise the prices for users to pay for the investment. 
+
+What I'm more concerned about are the tech companies on the internet, not the ISPs themselves, as they are only the gatekeeper. Alphabet/Google makes up a huge portion of the internet. They're almost a monopoly and they have many industries. Google fiber is also something that could benefit from title II reclassification, if you can get the government to allow you to use existing telephone lines, it would save a lot of investment on Google's part. How do you know if Google censors/alters your search results? What if Android decides to report potential "hate speech" to the police by looking at your texts? Facebook, Twitter, and Reddit as well. Make the principle of Net Neutrality apply to these companies as well. 
+
+The FCC being in control of the internet creates so much uncertainty. While Trump is in office, I doubt they'll try anything funny. But what happens after? It would be easy for them to create new internet rules and then enforce them.
+
+This was originally a NFL thread lol. But I got carried away. To put it simply, Net Neutrality asks "Do you want the ISPs to screw you, or do you want the Government to screw you?"
+
+Spez: I didn't see you edited your post lol. That Anon is right. Its not a free speech matter. Its business trying to get each other to pay
+
+546127
+Net neutrality isn't the government taking control, it's just making it illegal for the corporations to take control!  
+
+In fact, net neutrality will probably lessen the government's control over the internet, because without net neutrality, it would be much easier for them to pressure ISPs to block or censor certain parts of the internet.  
+
+Net neutrality doesn't give the government any additional control over the internet, if anything it lessens their control, because it also makes it illegal for them to discriminate between different kinds of internet data.  
+
+Of course, we already know that the government doesn't always follow those kinds of rules, but that's already the case so nothing will change in that respect.  
+Things *would* change if net neutrality is abolished, because once corporations start censoring certain parts of the internet, or locking it behind paywalls, the government will be able to start influencing their behavior.  
+
+73344
+So, a bit of background on this. We, as a nation, dropped the ball pretty damn badly. We haven't been trust-busting as we should, and we've ended up with some consolidated megacorporations that simply own too much. Put simply, the internet isn't really a 'free market' anymore. Net neutrality was an attempt to regulate ISP's. 
+
+So what kind of problems was it looking to regulate? Well, without net neutrality, it was legal for Comcast to throttle Netflix. Why is this a huge problem? Because Comcast owns it's own streaming service. Again, we failed to reign in our corporations, and so government regulation of companies large enough to break the free market is the price we have to pay. 
+
+The government should have been breaking these huge mega corporations long ago. But we didn't. They learned from Microsoft's anti-trust battles, and generously donate money to pretty much everyone to make sure they never face the scrutiny they should. 
+
+Something like net neutrality? There's no real downside to it. It won't affect investment in internet infrastructure. That already ground to a halt, our ISP's are vigorously defending their little geographic monopolies. Stifle competition? What competition? There was none in most areas, that's why we got NN in the first place. Remember when Google was rolling out internet? Yea, they said "Fuck this, the barriers to entry are too high, even for us". Like them, love them, or hate them, you can't deny that there's something rotten going on when even Google has to give up. 
+
+Net Neutrality is a band-aid fix for huge problems. It keeps the patient alive, so to speak. If we repeal it, well, we're gonna have problems unless the government steps up in other ways. We'll need vigorous pursuits of anti-trust cases, we'll have to break these media giants that own everything and refuse to compete in most places, we'll have to change regulations all the way down to the local level to make competition something *possible* again. But you know what? We should perhaps do this *before* we repeal NN. 
+
+"but Jonas, why weren't there all these anti-competitive practices you're so worried about before Net Neutrality?"
+
+In 2005, the FCC put down rules. At the time, competition was still a 'thing', so there weren't serious issues, but we were on the road to consolidation and the FCC knew it. In 2010, the rules were updated. In 2014, Verizon murdered the FCC in court and absolutely gutted every consumer protection the FCC put up. So we get net neutrality. This put the internet under Title II common carrier regulations, or basically, the rules your phone company deals with. Summed up, it's not the phone companies business who you're calling, or what you're talking about, and *they can not discriminate*. 
+
+"So, what are the cons?"
+
+The cons are...hard to describe. I can't think of any cons, if I were honest. Our ISP's are mostly consolidated and not competing, so their own monopoly status does so much more to inhibit further investment than NN ever could. In a fictitious "free market with several broadband competitors and barriers to entry low enough that someone could undercut cartels", it would be a bit of a drag. Net Neutrality in 1995 would have probably left us lagging behind, but 1995 had a free market. 2017 doesn't. 
+
+And that's the most important part. We *don't* have a free market. The invisible hand of the free market fixes everything (except food/water, people die before the market corrects), *but only if there is a free market*. No free market? Government regulation is the lesser evil. At least the government has to pretend we have rights. 
+
+106477
+&gt; removing net neutrality will take the internet to back what it was before net neutrality existed, to a place where no censorship happened.
+
+Please explain why in the world repealing net neutrality will cause twitter or facebook or google to stop censoring conservative ideas? How is NN allowing them to censor?? It isn't and they wont stop.  
+
+  
+&gt;but now i see most of us here would prefer government overreach into our internet instead of letting the free market work   
+  
+THERE IS NO FREE MARKET IN ISPS. There is only monopoly and power in the hands of monopolies. I believe in small decentralized government. I do not believe in replacing a large government of congress with a large government of corporations. If you are so concerned about losing your freedom then why aren't you concerned about giving up your freedoms to comcast and time warner and Verizon??? When they are the entire market then how will the free market stop their overreach?
+
+204705
+So much misinformation perpetuated by the Swamp... Abolishing Net Neutrality would benefit swamp creatures with corporate payouts but would be most damaging to conservatives long term.  
+
+
+Net Neutrality was NOT created by Obama, it was actually in effect from the very beginning as internet at the time (modems via dial up and later DSL) used phone lines which fell under telecommunications rules.  This was changed in 2002, with the growth of broadband, when the FCC reclassified the internet to be "information services."  However FCC Chairman Republican Michael Powell declared 4 freedoms that must be protected and this philosophy became dubbed "net neutrality."  Republicans specifically wanted these Net Neutrality rules to protect the free market provided by the internet and to prevent additional government regulation.  
+
+
+You can read Powell's statement here to see the value of the internet freedoms of NN: http://hraunfoss.fcc.gov/edocs_public/attachmatch/DOC-243556A1.pdf
+
+
+However, some companies (most notably Comcast) began throttling traffic and services and when the FCC ordered them to stop restricting their services it was pointed out by Comcast that the Net Neutrality was a policy statement and not a concrete rule. 
+
+
+As more companies (such as AT&amp;T and Verizon) realized Net Neutrality lacked teeth and enforcement, they too began to throttle services and restrict user access.  This led to the FCC under Obama deciding to codify Net Neutrality and Powell's internet freedoms by restoring the original classification of the internet as a telecommunication or "common carrier" service. 
+
+
+It is absolutely true that Google, Twitter and the like are trying to censor conservative voices, but to hold this against net neutrality is spurious because those are not ISPs.  But instead these examples should prove the importance of protecting Net Neutrality... imagine if companies like Google or  had the power to censor your actual internet traffic. 
+
+
+Right now if you enter breitbart.com or Infowars.com or 4chan.org into your address bar you will be taken to those sites because the ISP (be it AT&amp;T, Time Warner, whichever) are prohibited by Net Neutrality from censoring your access to any website.  With NN gone, companies can directly censor your traffic and prevent you from going to those sites. 
+
+
+What do you think will happen when Time Warner, AT&amp;T, Verizon, etc. become infested with SJWs (if they aren't already) and decide to censor all conservative websites and content?  What if Verizon (which owns Tumblr) decides it won't allow its users to visit websites with "hate speech" and "protect" users from unpopular viewpoints?  Whether or not that will or won't happen, do you think the company should be able to make that choice for you?  
+
+
+Right now the internet is under the same framework as telephones - phone providers can offer different plans and charge for use, but they cannot prevent you from calling whoever you want or talking for as long as you want.  Eliminating net neutrality would set the internet under the same framework as cable television - the provider (usually one per area) decides what channels you get to see and offers packages for certain channels.  You want Dailycaller?  Sorry that requires a premium package.  You want Gab, breitbart, duckduckgo, or 4chan?  Sorry those aren't available with us or anyone else, you're SOL. 
+
+
+The user, you, might need to pay extra for an internet package that allows video streaming meanwhile the ISP can require websites to pay for the privilege of being streamed.  Companies like YouTube or Facebook could afford to have their content streamed, but smaller sites like louderwithcrowder might not be able to afford the fees to be made available by service providers.  This would only give YouTube and Google MORE control over content. 
+
+Spez: spacing to make wall o' text less of a wall.
+
+469385
+I linked this before but I'll link it here:
+
+Basically I do believe we need some kind of Net Neutrality right now because the government has made a problem and now they are the only solution. They pretty much let ISP's monopolize, this is not even a federal problem that much, but a regional/local level problem.
+
+I am going to link mostly from the EFF(Electronic Frontier Foundation) when they were still for actual internet freedom. Before Google, Soros, and the Ford Foundation started funding them heavily, you can actually see the switch in 2012ish. Here are some of their 2010 posts about it.
+
+https://www.eff.org/deeplinks/2010/12/2010-trend-watch-update-net-neutrality
+
+https://www.eff.org/deeplinks/2010/05/net-neutrality-fcc-trojan-horse-redux
+
+I can't find the post from the EFF talking about his, they have one but the bill also had parts in it to monitor and deal with hate speech and bad information on the internet.
+
+https://arstechnica.com/information-technology/2010/05/should-the-government-keep-tabs-on-hate-speech/
+
+Here's an interesting post from 2014 talking about how horrible this bill really was. It doesn't even protect against Net Neutrality really, and gives greater control of the internet over to the FCC.
+
+https://www.techdirt.com/articles/20140701/06584527742/eff-changes-position-net-neutrality-recognizes-fcc-must-act-narrowly.shtml
+
+Here are some statistics of when EFF started getting funding.
+
+https://www.infowars.com/soros-google-funding-net-neutrality-groups-to-control-internet-censor-infowars-com/
+
+If you don't trust infowars, you can google most of that.
+
+I've heard a lot of people try and make an excuse that FCC regulating phone and TV is the same as the internet but even their FCC ruling was shot down per that techdirt article because the FCC doesn't treat internet the same way as phone or TV, You can read about it here:
+
+http://money.cnn.com/2014/01/14/technology/fcc-net-neutrality/index.html
+
+I am linking mostly as left leaning sites and places I can find for the normies on this thread.
+
+As an aside Net Neutrality gives most of these companies an out to never have to innovate again.  It also prevents people like me from buying more dedicated lines, I work from home and constantly have internet issues with skype or other forms of internet connectivity and would happily pay to have a more dedicated line, under Net Neutrality that is illegal.  
+
+Here is also a good reminder of what Net Neutrality has lead to in Brazil:  I can't link because of "brigading" but there is a great comment in bitcoin by user /u/celtiberian666 in bitcoin.  I'll copy it here:
+
+&gt; Don't let governments interfere with the internet. The FCC shouldn't even exist.
+
+&gt; Any "net neutrality" law is a door wide open to governments to do anything they want in the future, and also to have wide open acess to all ISP data. Whatsapp was blocked a few times here in Brazil by judges using the same law that included net neutrality (the "internet civil regulation", "marco civil da internet" in portuguese).
+
+&gt; It is hard to believe that a community once full of libertarians is supporting something so naive like that. Nothing good can come from the government. Seriously, every law or regulation that may look good have backdoors in it to give more power for the government. Just get the politicians dirty hands away from the internet, don't try to steer the government to something you think is good. Governments have the midas' touch in reverse: anything they touch turns into shit, and no amount of pressure can change that.
+
+&gt; The Net Neutrality Scam
+
+&gt; https://mises.org/library/net-neutrality-scam
+
+My last point that I want to drive home is the biggest fear people constantly repeat other than prices going up is as an example, Verizon blocked Google Wallet on their service because they wanted everyone using their wallet.  That's anti-trust, the problem isn't net neutrality it's that our government does not go after anyone for anti-trust.  This also probably wouldn't be much of a problem either if the government stopped picking winners and losers and let industry duke it out.  I understand the need for some regulation, I even understand the need for a net neutral bill in the current climate.  But this bill is neither net neutral or anything other than a power grab by the powers that be.
+
+Also many economists are against net neutrality:
+
+http://www.igmchicago.org/surveys/net-neutrality-ii
+
+----------
+Cluster #1:
+Cluster importance: 0.0203853253346
+automatically: 3.622553
+perform: 1.920273
+contact: 1.907348
+question: 1.899374
+concern: 1.868269
+action: 1.836923
+screenshot: 1.537552
+link: 1.509024
+trumpire: 1.398638
+usernames***.: 1.398138
+sidebar: 1.397330
+brigading: 1.395142
+showcase: 1.393679
+subreddits: 1.391949
+domreddit: 1.391080
+
+331225
+Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+44185
+Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+347878
+Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+603243
+Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+98402
+Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+269449
+Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+531670
+Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+531668
+Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+63162
+Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+398463
+Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
+
+This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
+
+----------
+Cluster #2:
+Cluster importance: 0.01262113521
+brick: 5.586723
+centipede: 2.337671
+wall: 2.214005
+brownsville: 1.109380
+imperial: 1.105802
+beach: 1.099004
+build: 1.094949
+mile: 1.084989
+tomorrow: 1.084622
+foot: 1.077695
+wide: 1.074161
+texas: 1.072996
+goal: 1.052732
+hand: 1.044802
+rate: 1.035826
+
+243430
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 88839 BRICKS HANDED OUT!**
+
+We are at **13.8699901913%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1032.61870333 MILES WIDE** and **350.378738494 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+311535
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 85375 BRICKS HANDED OUT!**
+
+We are at **13.4508467606%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **996.028942242 MILES WIDE** and **347.371833331 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+90876
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 90343 BRICKS HANDED OUT!**
+
+We are at **14.058289071%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1049.2122738 MILES WIDE** and **351.704632826 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+186003
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 90068 BRICKS HANDED OUT!**
+
+We are at **14.0197471899%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1045.88326223 MILES WIDE** and **351.409532308 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+108641
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 93560 BRICKS HANDED OUT!**
+
+We are at **14.4997387501%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1087.46131399 MILES WIDE** and **354.931577408 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+268535
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 86571 BRICKS HANDED OUT!**
+
+We are at **13.572790357%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1006.82287306 MILES WIDE** and **348.218507484 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+356710
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 91405 BRICKS HANDED OUT!**
+
+We are at **14.2055613221%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1061.35138222 MILES WIDE** and **352.706889988 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+
+^^^Donate ^^^XMR!: ^^^4AoEmKbK8G9LNwFSbbWcct1gZaL3HKudRWvgP4Jn6WW14XJ46DrwX7pRRSUXUTfj4bi5uqGZiXBgNCWq4GorqjBt1P4BUbx
+
+432970
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 92570 BRICKS HANDED OUT!**
+
+We are at **14.348688302%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1073.81682113 MILES WIDE** and **353.737279247 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+108576
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 85431 BRICKS HANDED OUT!**
+
+We are at **13.4579728998%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **996.625834432 MILES WIDE** and **347.428678351 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+10097
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 93362 BRICKS HANDED OUT!**
+
+We are at **14.4629061012%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1083.78031322 MILES WIDE** and **354.656242191 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+----------
+Cluster #3:
+Cluster importance: 0.0527407871317
+trump: 7.112765
+supporter: 0.580292
+mueller: 0.454007
+donald: 0.449159
+anti: 0.435068
+support: 0.365038
+tweet: 0.343420
+medium: 0.247061
+session: 0.235884
+russia: 0.214427
+fire: 0.199091
+campaign: 0.197322
+pro: 0.191351
+swamp: 0.189067
+domain: 0.188247
+
+321517
+I thought it was over that whole "kidnapping" shitshow?
+
+Either way you go, neither has anything to do with Trump lol
+
+
+
+231823
+Is chilli a meal?
+
+- I think it is, same with stew, but certainly not soup. 
+
+ -2 to a new up Trump.
+
+199751
+At this point I'm not sure if the rooster is against Trump or if he, yes I said he, is for Trump now. I like him though. Want one for the roof.
+
+233141
+Trump has done things with Vince McMahon and WWE/WWF in the past, but I don't think XFL was one of them.
+
+192524
+It came out in 2013 which means it was probably 2011 or 12 when it was formulated. Could not be about trump
+
+88676
+2017 was a year of full Trump, was it not? He overshadowed Obummer for his last 20 days, and it's just gotten better from there.
+
+253613
+Now is the time for trump and me to take us from cheetos to designer handbags and delicious steaks with Heinz.
+
+116565
+Me too, I actually wish Trump had done it and not said anything. Although perhaps then they wouldn't have said thanks
+
+519718
+Can you say where you got that Trump rooster? I've been looking around for one but haven't found one that I liked, but this one is what I have been looking for.
+
+432665
+That's not the best shitpost of all time.
+
+That's not even Trump's best shitpost of all time.
+
+That's not even Trump's best shitpost of the week.
+
+----------
+Cluster #4:
+Cluster importance: 0.0387533786011
+fuck: 6.875583
+stupid: 0.210134
+bullshit: 0.207315
+retard: 0.191410
+ass: 0.177375
+bitch: 0.167060
+idiot: 0.158995
+literally: 0.145788
+sick: 0.130612
+seriously: 0.130230
+dude: 0.127008
+cunt: 0.115680
+dumb: 0.112640
+cuck: 0.106623
+holy: 0.105675
+
+420652
+What the fuck? What the fuck is this? What the fuck has this country come to when this is even up for fucking debate? We need fucking tweets about this now? Muthafucka. FUBAR!
+
+380667
+Spez currently: Oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck 
+
+45438
+&gt;LOL by 2020 she's going to look like a fucking zombie.
+
+LOL ~~by 2020~~ she~~'s going to~~ lookS like a fucking zombie.
+
+FTFY
+
+382058
+I made fucking cheese 
+
+m
+
+a
+
+d
+
+e
+
+f
+
+u
+
+c
+
+k
+
+I
+
+n
+
+g
+
+c
+
+h
+
+e
+
+e
+
+s
+
+e
+
+173677
+oh yeah. fuck the koch bros for that...but still better them than nancy gibbs and time warner and whomever have been running TIME for the past 30 years or so
+
+494217
+i am so fucking creeped out at what is transpiring (and i am not a prude) that i want to bathe in bleach 
+
+391571
+PLEASE DON'T FUCK THIS UP
+
+
+PLEASE DON'T FUCK THIS UP
+
+
+PLEASE DON'T FUCK THIS UP
+
+
+PLEASE DON'T FUCK THIS UP
+
+
+PLEASE DON'T FUCK THIS UP
+
+
+PLEASE DON'T FUCK THIS UP
+
+
+PLEASE DON'T FUCK THIS UP
+
+
+PLEASE DON'T FUCK THIS UP
+
+360970
+Here is the thing. He can UN recuse himself also, and say that he has to do what right. But he won't. So fuck him
+
+229805
+They just tried this in Kansas and the good people of Tonganoxie told them to go fuck right off, as they should have.
+
+300095
+fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you 
+
+----------
+Cluster #5:
+Cluster importance: 0.0268145560024
+vote: 6.568572
+democrat: 0.773282
+voter: 0.554185
+republican: 0.299478
+party: 0.283040
+bill: 0.278616
+election: 0.275933
+dems: 0.263340
+poll: 0.251245
+illegal: 0.246326
+senate: 0.238555
+republicans: 0.232014
+ballot: 0.201663
+count: 0.197410
+pass: 0.191097
+
+78464
+Doesn't really matter, not voting is the same as a no. We need 50 votes, and whether McCain doesn't vote, or votes no, that -1 vote.
+
+452301
+Yo dawg, we heard you don't want to vote.
+
+So we decided to vote on whether or not to vote.
+
+Now you can vote without having to vote.
+
+167706
+They probably didn't show up. 6 Democrats who wanted to vote Yes without voting Yes and 3 Republicans who wanted to vote No without voting No. 
+
+442307
+If you live in Alabama:
+
+VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! 
+
+VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! 
+
+VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! 
+
+549858
+We must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote.
+
+249422
+I wouldn't vote for someone if I knew that they couldn't tackle at least 500 pages in several days. Just saying.
+
+442558
+And then let the timer run all the way to 0 before voting on the vote to vote for that vote. 
+
+315814
+This move suprised no one. He was never a reliable vote anyway.
+
+Think of it like this. At least he can't be a no vote now.
+
+272038
+Yeah, that’s what I thought. They can come here and vote with no ID, but you can’t go there and vote without it. 
+
+176370
+They will be again. Because even more will be out to vote for him. Always work to be done. Always. Never stop.
+
+----------
+Cluster #6:
+Cluster importance: 0.0414348342013
+love: 5.035597
+great: 2.097047
+god: 1.462464
+hate: 1.177773
+america: 0.678005
+christmas: 0.543846
+coat: 0.433536
+maga: 0.402509
+family: 0.387031
+bless: 0.344409
+merry: 0.270985
+pede: 0.220850
+meme: 0.219097
+watch: 0.212379
+happy: 0.211607
+
+1719
+“A new command I give you - love one another. As I have loved you, so you must love one another. By this everyone will know that you are my disciples, if you love one another.”
+
+‭‭John‬ ‭13:34-35‬
+
+355373
+
+“We are made by love, we are made of love, and we are made for love. Everything is love anyway. Our hate is love turned sour, jealousy is love turned bitter, our fears are love standing upside down, greed is love gone overboard, attachment is love turned sticky.” ~ Khurshed Batliwala
+
+^(I don't think, therefore I am.. a bot)
+
+172528
+We love our country. We love our President. We even love those who don't love themselves. 
+
+And we love you back.
+
+266293
+I'm not sure either. People love their gibs, but one would think the people here wouldn't love the gibs quite so much.
+
+551606
+Lol. I love TSO this time of the year. Especially their rendition of carol of the bells. Gives me goosebumps everytime. 
+
+201272
+I love his expressions. There’s one more look he has, it’s that look when he’s going to take someone out to.
+
+397685
+\&gt; I'd love to one day own an AR-15,
+
+\&gt; love to one day own an AR-15
+
+\&gt; day own an AR-15
+
+\&gt; an AR-15
+
+\&gt; **an** AR-15
+
+like one? just one AR-15?
+
+246593
+i went to the eagle conservatory in Wabasha, MN and they got me #EagleWoke
+
+I used to like eagles.. and now i love them.
+
+
+
+172800
+Yes.  Something about an SNL skit.  Frankenstein is done for.  And I love how the Madman humiliated him.  This is like getting a Fatality after an intense MK 1v1
+
+57149
+#I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM 
+
+
+----------
+Cluster #7:
+Cluster importance: 0.0339920232052
+white: 5.926603
+black: 2.040012
+racist: 1.264146
+race: 0.601188
+male: 0.531354
+hate: 0.511714
+house: 0.476119
+privilege: 0.364015
+racism: 0.316323
+minority: 0.307432
+color: 0.298905
+supremacist: 0.298170
+skin: 0.232413
+group: 0.211551
+crime: 0.208107
+
+340544
+I'm sorry Elizabeth but you're white. Talcum X is white too. You're both white, you just have to accept it and move on. 
+
+452868
+I am white White I am
+
+That white-I-am
+
+That white-I-am!
+
+Can i be white?
+That white-I-am
+Is it ok to be white in this land?
+
+I can like them,
+White-I-am.
+It's ok to be white in this land
+
+Is it ok to be white
+Here or there?
+It's ok to be white
+Here or there.
+It's ok to be white anywhere.
+It's ok to be white in this land
+I can be white White-I-am
+
+Is it ok to be white In a house?
+Is it ok to be white With a mouse?
+
+It's ok to be white In a house.
+It's ok to be white With a mouse.
+
+It's ok to be white Here or there.
+It's ok to be white Anywhere.
+It's ok to be white in this land
+It's ok to be white, white-I-am.
+
+Is it ok to be white In a box?
+Is it ok to be white With a fox?
+
+It's ok in a box.
+It's ok with a fox.
+It's ok in a house.
+It's ok with a mouse.
+It's ok to be white here or there. It's ok to be white anywhere.
+It's ok to be white in this land
+It's ok to be white, White-I-am.
+
+Would you? Could you?
+Help whites at a bar?
+Greet them, seat them Here they are.
+
+You would,
+You Could,
+In a bar.
+
+You may like them, You will see.
+You may like them By a tree?
+
+I would, I could by a tree.
+Yes in a bar! Whites are me.
+
+I can be them in a box.
+I can be them with a fox
+I can be them in a house
+I can be them with a mouse
+I can be them here or there.
+I can be them anywhere.
+
+I can be white im this land.
+I can be like them, white-I-am.
+
+A train! A train! A train! A train!
+Could you, would you Be white on a train?
+
+Yes on a train! Yes by a tree!
+Yes in a bar! Whites are me!
+I would ,I could, in a box.
+I could, I would, with a fox.
+I can be white with a mouse
+I can be white in a house.
+I can be white here or there.
+I can be white anywhere.
+It's ok to be white in this land, it's ok to be white, White-I-am.
+
+Say!
+In the dark?
+Here in the dark!
+Would you, could you, be white the dark?
+
+I would, I could,
+Be white in the dark.
+Would you, could you, Be White in the rain?
+
+I would, I could, in the rain.
+Could in the dark. Could in a train,
+Could in a car, could by a tree.
+
+I can be white, you see.
+
+Could in a house. Could in a box.
+Could with a mouse. 
+Could with a fox.
+I can be white here or there.
+I can be white anywhere!
+You could be white, Be white in this land
+
+Its ok to be white. For White-I-am.
+
+ 
+
+433402
+
+I am white
+White I am
+
+That white-I-am
+
+That white-I-am!
+
+Can i be white?
+
+That white-I-am
+
+
+Is it ok to be white in this land?
+
+
+I can like them,
+
+White-I-am.
+
+It's ok to be white in this land
+
+
+Is it ok to be white
+
+Here or there?
+
+
+It's ok to be white
+
+Here or there.
+
+It's ok to be white anywhere.
+
+It's ok to be white in this land
+
+I can be white
+White-I-am
+
+Is it ok to be white
+In a house?
+
+Is it ok to be white
+With a mouse?
+
+It's ok to be white
+In a house.
+
+It's ok to be white
+With a mouse.
+
+It's ok to be white
+Here or there.
+
+It's ok to be white
+Anywhere.
+
+It's ok to be white in this land
+
+It's ok to be white, white-I-am.
+
+Is it ok to be white
+In a box?
+
+Is it ok to be white
+With a fox?
+
+It's ok in a box.
+
+It's ok with a fox.
+
+It's ok in a house.
+
+It's ok with a mouse.
+
+It's ok to be white here or there.
+It's ok to be white anywhere.
+
+It's ok to be white in this land
+
+It's ok to be white, White-I-am.
+
+Would you? Could you?
+
+Help whites at a bar?
+
+Greet them, seat them
+Here they are.
+
+You would,
+
+You Could,
+
+In a bar
+
+You may like them,
+You will see.
+
+You may like them
+By a tree?
+
+
+I would, I could by a tree.
+
+Yes in a bar! Whites are me.
+
+I can be them in a box.
+
+I can be them with a fox
+
+I can be them in a house
+
+I can be them with a mouse
+
+I can be them here or there.
+
+I can be them anywhere.
+
+I can be white im this land.
+
+I can be like them, white-I-am.
+
+A train! A train!
+A train! A train!
+
+Could you, would you
+Be white on a train?
+
+Yes on a train! Yes by a tree!
+
+Yes in a bar! Whites are me!
+
+I would ,I could, in a box.
+
+I could, I would, with a fox.
+
+I can be white with a mouse
+
+I can be white in a house.
+
+I can be white here or there.
+
+I can be white anywhere.
+
+It's ok to be white in this land, it's ok to be white, White-I-am.
+
+Say!
+
+In the dark?
+
+Here in the dark!
+
+Would you, could you, be white the dark?
+
+I would, I could,
+
+Be white in the dark.
+
+Would you, could you,
+Be White in the rain?
+
+I would, I could, in the rain.
+
+Could in the dark. Could in a train,
+
+Could in a car, could by a tree.
+
+I can be white, you see.
+
+Could in a house. Could in a box.
+
+Could with a mouse. 
+
+Could with a fox.
+
+I can be white here or there.
+
+I can be white anywhere!
+
+You could be white
+Be white in this land
+
+Its ok to be white
+For White-I-am.
+ 
+
+511472
+In other words, they resent the fact that white people like them. Well shit, would they rather white people hate them instead? It's almost as if nothing that white people do will ever be good enough to soothe the egos of some non-white people.
+
+211789
+&gt; I can never understand the left. What is "white" to them? Many Hispanic people are white. Many Asian people are white. Many Italian people are white. Many French people are white. Jewish people are white. Russian people are white. Irish people are white. Polish people are white. Scottish people are white. The list goes on.
+
+White isn't a skin color. It's a race. It's synonymous with "Indigenous European." 
+
+14581
+Don't you know that being white is an act of violence against all non-white peoples?
+
+All whites are racist always.  
+
+It is not okay to be white, that much is for certain.
+
+194110
+She has apparently never been to a PowWow.... fry bread... fry bread bowls, fry bread taco... fry bread... tatters.... lol tomatoes and mayo ���������� white people need to go to the PowWow.... 
+
+216188
+not only do they think it's NOT ok to be white they cannot even contemplate anyone else thinking it's OK to be white.
+
+272001
+Does a Sicilian look the same as a Swede? Does a Brit look the same as a Turk?
+
+Not all white people look Irish.
+
+218290
+You would think a racist page would do "black people vs white people"   just saying .. they put white people first
+
+----------
+Cluster #8:
+Cluster importance: 0.0393895444657
+woman: 4.602459
+man: 4.385864
+rape: 0.565515
+gay: 0.352569
+sex: 0.340914
+child: 0.339153
+sexual: 0.329775
+feminist: 0.297420
+girl: 0.271656
+young: 0.263476
+male: 0.251357
+assault: 0.238311
+female: 0.216495
+gender: 0.195664
+marry: 0.180179
+
+112122
+But...but if men can be women and women can be men...then why don’t the women that earn less just snap their fingers and claim to be men? Problem solved. Or, if men and women are the same in every single way, there IS no wage gap. Some Xer’s just make more than other Xer’s
+
+586391
+....I think he actually said “woman”.
+....as in, “I don’t know her name and am too cave-man to find out” woman.
+....as in, “this woman”. “I believe woman.” “Uga”
+
+Either that, or he’s full of s***. 
+
+534975
+No, men can only be boys. And girls must be men. Women must also be men. Unless they are men who want to women's clothing.
+
+429045
+Men are raped more frequently than women. She might want to check her stats. Also, women in prison are twice as likely to be raped by other women as men are by other men. https://www.theguardian.com/commentisfree/cifamerica/2012/feb/21/us-more-men-raped-than-women
+
+397410
+"Of man there is little here: therefore do their women masculinise themselves. For only he who is man enough, will—SAVE THE WOMAN in woman. "
+
+-Friedrich Nietzsche
+
+Make our men manly again, and the feminism stops (and the rapes, grenade attacks etc, because our men will Remigrate these aliens back to the ME).
+
+124029
+So your a women, but you make yourself look like a man, and then try to make women uncomfortable by pretending like your a man in the women’s restroom? Sounds like a psycho 
+
+127742
+&gt; and how men just want their kids to look better to women
+
+Men don't think like that at all... How do women come up with this shit?
+
+141376
+Old men tell us "back then men were men and women were women".
+
+When we'll be old, we'll say "back then men had penis and women had vagina"
+
+191478
+Can't we just go back to the good ole days when a woman could be feminine or butch, and a man could be masculine or effeminate, but there was the end to it?
+
+216500
+The greatness of woman is up to the greatness of man and the greatness of man is up to the greatness of women.
+
+----------
+Cluster #9:
+Cluster importance: 0.0553513745138
+pay: 3.556446
+tax: 2.884863
+money: 2.609721
+$: 2.322342
+taxis: 1.367354
+cut: 1.075221
+bill: 0.860443
+spend: 0.606741
+income: 0.592756
+job: 0.547700
+buy: 0.505890
+dollar: 0.477957
+high: 0.449844
+plan: 0.444960
+cost: 0.401177
+
+125536
+What kills me is when someone gives an example of some rich business owner that reported $10M on his tax return but didn’t pay any taxes without any understanding of how taxes actually work. If the person had to pay $11M that year for employees, equipment, overhead, etc to earn $10M then he actually lost money. How does someone pay tax on money they lost?
+
+People act like businessmen receive a ten million dollar W2 in the mail for their 40 hour work week and  should only be able to write off their uniform.
+
+560112
+Because people will be making so much more money they will pay more (in $ not %) taxes.  
+Reeeeeee I paid $1000 more in taxes because I got a 20k raise
+
+345322
+Cooperation tax is paid on Net not Gross.
+
+So if the corporate earning before tax and other bills is $100k and the company pays him $100k then the company pays no corporation tax at all as it has made Net $0 that year. He would then pay income tax on the $100k, which (assuming this is his only income) would be $25k in tax under the current system.
+
+240548
+The "rich" will just pay for all of it, just gotta tax them 90%+ they don't need that much money anyways.
+
+306956
+"72% of tax reductions will go to the top x% of the top y%" is the most disingenious argument they make.
+
+If someone is paying 1,000,000 in taxes, and they see a 1% reduction in how much they are paying. Now they're paying 990,000. 10,000 less.
+
+Someone paying 4,000 a year in taxes that saw a 4% reduction is going to be paying 3,840 ... 160 less.
+
+One person got a 1% reduction, the other got a 4% reduction.
+
+"The tax cuts are all going to the wealthiest of americans"
+
+--
+
+
+
+88590
+Quite a few think that people getting a tax refund each year are getting back all the amount they pay in
+
+161500
+I don't want my tax dollars to pay for a stadium that I have to pay to get into. They make a lot of money, they can pay for their own stadiums.
+
+130357
+Rubio basically wants to give moochers more money. $1100  tax credit for people that don't pay taxes isn't good enough for Rubio. A family would have to pay $2000 in taxes before they get the full credit making their tax bill effectively zero. But a family paying zero tax can still claim $1100 tax credit and get a $1100 check from the government for paying nothing. Ridiculous.
+
+435986
+Umm try again sweetie. That money has already been spent. The only way it will be "paid back" is if it's taxed from *us*, once again, and given as a handout.
+
+308275
+They keep money offshore because if they can assert indefinite reinvestment abroad of that money, then they don't have to pay any US tax on it.
+
+----------
+Cluster #10:
+Cluster importance: 0.0346364295603
+shit: 6.257396
+piece: 0.691617
+holy: 0.463238
+talk: 0.233078
+stupid: 0.191069
+eat: 0.127626
+ass: 0.123507
+dumb: 0.107685
+hole: 0.106595
+crazy: 0.100875
+pull: 0.096850
+dude: 0.096256
+real: 0.095445
+hit: 0.089914
+ton: 0.089858
+
+31888
+I shit it out this morning. Not calling it shit because I think it's shit. I'm calling it shit because they think this will work. 
+
+482604
+�������������������� good shit go౦ԁ sHit�� thats ✔ some good����shit right����there������ right✔there ✔✔if i do ƽaү so my self �� i say so �� thats what im talking about right there right there (chorus: ʳᶦᵍʰᵗ ᵗʰᵉʳᵉ) mMMMMᎷМ�� ���� ��НO0ОଠOOOOOОଠଠOoooᵒᵒᵒᵒᵒᵒᵒᵒᵒ�� ���� �� �� �� �� �� �� ����Good shit
+
+314461
+#FIX THIS SHIT
+
+#FIX THIS SHIT
+
+#FIX THIS SHIT
+
+#FIX THIS SHIT
+
+#FIX THIS SHIT
+
+#FIX THIS SHIT
+
+#FIX THIS SHIT
+
+#RIGHT FUCKING NOW 
+
+368994
+Interviewer: What would you say is one of your weaknesses?
+
+Applicant: Probably honesty. 
+
+Interviewer: I don’t really think that honesty is a weakness. 
+
+Applicant: I don’t give a shit what you think- I don’t even know you. 
+
+581241
+Just more shit-flinging which both sides are doing more and more of. After all, your post is full of the same
+
+73104
+I can’t tell if this is this is satire or not anymore because so many people have actually said shit like this.
+
+218742
+I know the judiciary is almost shit. But that's not the right thing to do IMHO.^It ^is ^different ^if ^they ^die ^in ^police ^custody ^though.
+
+266174
+I might actually be ok with this if it meant I could take a shit on the sidewalk if I needed to.
+
+226990
+&gt; Maybe they have one of those 600mm telephoto or those stargazing lens.
+
+That doesn't mean shit. If a telephoto lens can see him so could a sniper. I am not okay with this.
+
+144237
+Panera bread? Shit. I had that for the first time ever last week and I can make my own overpriced sandwiches if I really want to.
+
+----------
+Cluster #11:
+Cluster importance: 0.0325548816666
+guy: 6.177251
+bad: 0.485322
+mueller: 0.181378
+shoot: 0.169388
+video: 0.159062
+gun: 0.138072
+dude: 0.131281
+girl: 0.119372
+hey: 0.108680
+gay: 0.108207
+picture: 0.088707
+talk: 0.086257
+black: 0.083429
+nice: 0.079234
+fbi: 0.078849
+
+10990
+Oh there are bad guys, but, there are more good guys than bad guys, and it's time the good guys started running things again. We need to back the good guys .
+
+202072
+&gt;nobody wants the guy who knows everything about you
+
+Hmmmm youd think people would think about that part a little more
+
+77398
+Guys a nitwit. I know no New Yorker who likes him. But then again I’m not asking around that much either. 
+
+85198
+This tells me that this guy knows nothing of who the Poles are or what they have endured as a people. 
+
+350446
+I'm not sure that guy was even being escorted. He was in the back and it looks like he was using a walkie talkie.
+
+158383
+i posted this here to see if this was true- thank you guys. i should have actually clarified that initially. 
+
+*relief* 
+
+553773
+I don't think Erdogan is a good guy.
+
+The guy he's going after may not be one either, I'm not saying he is or isn't.
+
+143916
+Well, well, well.  And there we have it.
+
+Knew there was something up about all that but didn't know anything about that guy.
+
+530462
+Don't be wimps guys. You're showing yourselves to be people who can dish it but not take it. You should know better than anyone that people don't see things the same way.
+
+474415
+http://www.dailymail.co.uk/news/article-4882648/Man-throwing-no-SSM-votes-gets-death-threats.html
+
+Looks like it was a hoax, as the guy doesn't actually work for the post.  He's pointing out, however, how you can see through the envelopes with only a flashlight.
+
+----------
+Cluster #12:
+Cluster importance: 0.0340315775595
+leave: 6.119638
+wing: 0.384257
+hate: 0.278260
+leftist: 0.236478
+alt: 0.201523
+party: 0.195299
+medium: 0.190385
+conservative: 0.166971
+lean: 0.162080
+politic: 0.135031
+political: 0.130692
+meme: 0.127517
+attack: 0.120683
+racist: 0.115639
+push: 0.099630
+
+275109
+The guy should be executed by the state. He was a:
+
+1. illegal immigrant
+2. deported multiple times
+3. because of criminal offenses
+4. possessed a stolen gun
+5. and killed an American citizen
+
+But oh... ok he said he found the gun on the bench and it went off. Let's just go with what he said. Why would he lie?
+
+*shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** 
+
+501881
+the midwest is welcoming of people who want to leave shitholes... just make sure to leave the shit where you left it. :)
+
+125858
+FYI DoD just twited this out:
+U.S. Dept of Defense‏Verified account @DeptofDefense  2h2 hours ago
+More
+Left, Right, Left, Right, Left, Right
+Forward March!
+
+A-Left,
+A-Left,
+A-Left,
+           Right
+Left.
+A-Left,
+A-Left,
+A-Left,
+           Right
+Left.
+A-Left,
+A-Left,
+A-Left,
+           Right
+Left.
+There she was just-a walkin' down the street singin'
+Do-wah-diddy-diddy-dum-diddy-do.
+
+Link:https://twitter.com/DeptofDefense/status/928373239474253824
+
+212740
+&gt;The left left me, I didn't leave it.
+
+The left went so far left it left a lot of people behind. 
+
+598610
+I get it, but i dont have to like it. And i think some unpaid leave of absence or a demotion would work. 
+
+505904
+This depresses me even more actually. Seems like the whole world is against us. Like were the only sain ones left. 
+
+242382
+I get what this is trying to say, but the delivery is just asking the left to have something to point to
+
+299925
+#We know CUE is legit.I think it is several people.The left is going to be mighty suprised about what is coming.. But we won't.
+
+51404
+Left to right and top to bottom: Abdul Sabe, Habibur Rahim, Badrul Hussain, Taherul Alam, Hassan Ali, Nadeem Aslam, Eisa Mousavi, Prabhat Nelli, Mohibur Rahman
+
+119730
+I don't know whats going on here.
+
+And I don't want to know. I will be ~~living~~ *Leaving this post and I will not be upvoting.
+
+----------
+Cluster #13:
+Cluster importance: 0.316621069286
+wrong: 1.261143
+happen: 1.229955
+lot: 1.101906
+live: 1.096818
+feel: 1.063935
+long: 1.047081
+kid: 0.994439
+talk: 0.926282
+life: 0.919158
+start: 0.906599
+watch: 0.848074
+find: 0.823723
+hear: 0.815250
+bad: 0.802276
+real: 0.767276
+
+402372
+I'm sorry you couldn't have found a way to stay home with your kids. I came really close to taking the same route, after my ex divorced me and skipped on child support. 
+
+If it hadn't been for my sons' school giving me sh*t over allowing a 4th grader to read Animal Farm (both my boys, like me, were reading by age 3 and I never censored their books), and threatening to call child protective services because I allowed them access to "inappropriate/ Adult reading material", I would have been in your position.
+
+But when THAT happened, I felt I had literally no choice. I was not going to allow either of my sons to suffer educationally, and I also knew their father would try to get custody just because he hated my guts. 
+
+And back in the day, home schooling was far less regulated, as long as the kids had their socialization experiences and passed the state tests, they left you alone.
+
+There were times when I was living on the edge, juggling part time job, part time home biz and homeschooling when I was just so damned tired I didn't think I could take another minute, much less another day/week/month/year.
+
+It was the hardest 7 years of my life, and that is saying something considering the kind of "home" I grew up in. 
+
+My other half and I now live in a small home on a big lot, very simple living-- I was lucky to find the perfect partner, late in life. 
+
+And when I look at the way my two sons turned out, vs. his three kids from his first marriage (one good kid, two leftist loon LGBTIQA kids), it was worth all the sacrifices it took to stay home with them.
+
+But damn... It was TOUGH. I have made a hell of a lot of mistakes in my life, but at least when it came to home schooling, I made the right choice. And there are some happy memories, indeed-- they more than offset the memories of my kids telling me they hated me because all the other kids they knew didn't have nearly as much school work or homework as they did. 
+
+And the times they hated me because we couldn't afford a dinner at Burger King, and the times they hated me because I had to work and couldn't take them out places....
+
+Now, they thank me regularly for giving them a top quality education. And teaching them how to manage money and build wealth. And how to manage time and resources, and all those other little things they learned by watching and helping.
+
+In the final analysis, when you get to be our age-- it's time to let go of the regrets. it's tough to do, but we don't get do overs in this life. When I talk to my boys, they remember their childhood years entirely differently than I remember them, actually. 
+
+They remember the mom who would hang out and help them with schoolwork at 1 in the morning, the mom that negotiated house rules with them, the mom that they could talk to about anything, and she didn't freak out. The mom who welcomed the "refugees" they brought home (they said our house was part of the underground railroad for Boys held prisoner by uncool moms...), without question, and understood the secret world of boys (which I definitely did NOT LOL).
+
+I wonder who that mom was, because MY memory of those years is entirely different ;-).
+
+My other half and I are going to move to Alaska in the spring, because if I have learned nothing else from being a member of T_D, I have learned not to let my memes be dreams. So, we're going to go forth, and MAGA Bigly...
+
+My biggest regret is that I really wasn't the super cool mom they thought I was. Most of the time, I was tired, scared, lonely, and quite simply trying to keep a balance between the inner state of not knowing what the heck to say to a boy, and the outer state of "Mom", which was something between June Cleaver, Aunt Bea, and Alice from the Brady Bunch LOL.
+
+I would like to remember those years they way they do.
+
+462876
+I'm gonna have to disagree with you on that one =/  
+
+I was raised pretty conservative (though at the time it really didn't matter to me): polite to others, hold the door when someone is approaching, go to church, respect the parents, ect.  I was fine with it, and it worked for me.  
+
+Then college happened, and I swear to God, I cannot even begin to describe the sheer...I don't know, dread?...that I feel when thinking back on just how fast I went the other direction.  To be fair, the girl that I was dating at the time decided to go into Sociology as a major because she didn't want to have to actually work in college, and I was stupid enough to follow her because I thought it was going to be a nice easy ride through things, but holy HELL was the indoctrination real.  Even during the start of my sophomore year, I remember my parents essentially trying to get me to leave my then-fiance because they were so concerned at the change that she was bringing out, but I was totally hooked on the easy life and didn't want to change.  There was something absolutely hypnotic about having someone basically tell you that NOTHING is ever really your fault, that the deck of the government and white people is stacked against you in perpetuity, that the REAL way to live is to get things for free so that we can devote our time to art or some shit like that...it was surreal, looking back on it.  
+
+The point where I really started to question things was when I had to take a class on ethnic representations in film, and out of 5 groups that formed for our final presentation, the ONLY one in the class that just so happened to be all white (my group) was not only given a 30% on a presentation that I can see getting a B at the *worst*, we were also referred (all of us) to the dean of the department on plagiarism charges.  We got INCREDIBLY lucky in that both I and another group mate used Outlook in a time when saving message threads was a relatively new thing, and we were able to conclusively prove that we had exchanged about 100 emails between the four of us with information for the presentation, drafts, ect.  Even then, though the plagiarism accusation (leveled by the professor, nonetheless) was dropped, we STILL had to ride with that 30%.  Dropped me from a 100% in the incredibly easy class to a 70% even: if it had been .01% lower, I would have had to delay my graduation by a year.
+
+I ended up getting out of that when my loans ran out and my parents hit the big red button, so to speak, and though I hated them for it at the time, it changed my life for the better.  Broke up with the fiance, went back to school 4 years later as a Computer Sciences major, got married, the whole 9 yards...but I'm never going to forget those years.  They really, truly come at you as fast as you can, and whether it's intentional on the part of the individual professors or not, the "science" of a lot of the stuff that they're teaching is so hysterically slanted I can call it nothing short of institutionalized brainwashing.  It's real, it's here, and it has been here for a lot longer than most people realize.  
+
+Tl;dr  The brainwashing is absolutely real, but not always at the institutional level.  College lunacy is completely out of control at this point, and has been for a while now. 
+
+445283
+LONG:
+
+Simple-- THEY ARE. I have been tracking this crap since it began, long about Viet Nam, in earnest. I am a member of the last generation that was nearly unprogrammed. I write about it on my blog also, time permitting.
+
+1. NO new TV shows, at all. As a matter of fact, one of the reasons my generation is so lightly affected is because our TV was heavily restricted (when we had TV at all LOL). My boys, like me, got 2 hours a week of "fun" TV, and 2 hours of "educational"--anything more had to be purchased, at 20.00 (in Bank of Mom money) an hour. They found out real quick READING--which was unlimited--was cool LOL. OLD TV reruns. OLD documentaries. OLD Disney. Everything produced before about 1970 or so is safe. Sesame street and the designed for children programming is relatively safe until about 1974/5--as long as you watch carefully for the progressive creep and explain shit.
+
+2. NO TABLETS OR UNSUPERVISED COMPUTER--PERIOD. Or smart phones--a flip phone with no internet access is fine for calling parents or 911.  No child under 9 or 10 should have a tablet/computer anyway--one of the reasons we are so badly off is because tech dependence is encouraged, as a necessary component of building  and maintaining a programmed reality. This also means NO calculators, and spelling bees for the whole family.
+
+My boys had Video games, beginning at about 9 if I recall, and I played with them-- despite having horrible hand/eye coordination for such things LOL. But I do love Minecraft--and Halo--even now...
+
+Computers, and things like spellcheck and calculators, rob people of their memories and the ability to remember complex things, necessary for critical thinking--not to mention lack of actually learning basic skills causes brain development to change. 
+
+When you don't have to learn by rote and memorize things, your brain has far fewer associative paths and connections--instead of a dense fabric of interwoven associations that make long and short term memory work right, you end up with a fishing net--and adults that can't remember basic things, much less complex ones. And also, more and more studies have demonstrated that people with fishing nets for memory instead of dense fabric go senile, and get alzheimer's, much earlier.
+
+3. HOME SCHOOL. make any sacrifice you must--but do not subject your children to a public school or the textbooks that go with it until they have passed the age of reason (about 5th grade at the earliest), and have learned critical thinking skills. I was a divorced mom with 2 boys, no child support, working 60+ hours a week--AND I STILL HOME SCHOOLED FROM 4TH TO 11TH GRADE. I would have done so from the beginning, but I was still married at the time and their father wanted them in public school. I stopped that as soon as we divorced, and home schooled, and  It was worth every sacrifice to do so. And use textbooks written before 1960, when possible.
+
+The state will make you use their "curriculum"--I went with K12 as an online homeschooling resource that was state approved. My sons both did the work required, daily. They were both told that publicly following the rules and doing what the state required was necessary--just as my going to work was necessary. 
+
+They were ALSO regularly assigned compare and contrast essays, by me, between what I taught them, and what the state and the testing system said was a "good education". it didn't take them long to realize the so-called "education" mandated by law was laughable....And that many of the "facts" presented in History, Civics and Science texts were demonstrably inaccurate, biased, or flat out false, This prepared them for life in the real world....
+
+Their REAL education was from the same books I used as a kid, and while they hated my guts back then, they both regularly thank me now--because their memories are far better than their friends and work associates, they have a far wider knowledge base, and they don't get taken in by the bullshit thrown at all of us 24/7.
+
+They never tested below the top 1% in any state test, and basically only did 12th grade in the public school system for a diploma rather than an attendance certificate or a GED. Given my younger one is currently working on a dual major--engineering and architecture--slowly, as he refuses to take out loans, and has never gotten below a 3.8 GPA despite carrying a course load and a half, with quite a few honors classes and working full time--I would say he got as good education.
+
+A strong knowledge of and use of critical thinking skills is ABSOLUTELY ESSENTIAL armor against the loons and their poisonous ideology. I began teaching my children critical think and debate skills when they were 5. LITERALLY. They were reading by then anyway, as I began teaching them the basics around age 3. 
+
+I used everything around me as fodder for teaching them how to THINK. And when I began homeschooling, it was a rare week when they didn't have to write at least 2 position papers, and a rare week when they didn't have to debate each other--and team up to debate ME--at least twice.
+
+Winning a debate against mom meant they got an entire day of everything their way--I remember one in particular LOL. Banana splits for breakfast at DQ, mall and a video game arcade for hours followed by Chuck E Cheese pizza for lunch, go karts, lazer tag, paintball, all while wearing my bright red one piece pajama outfit--with the feet--and 2 pony tails. 
+
+They didn't win often, but when they did, the memory--and the joy--stayed with them. As a matter of fact, they STILL bring up their few winning debates today--and they are in their mid/later 20's....
+
+ And typically, after they had spent hours writing and re-writing a position paper for ONE side of an argument, I would tell them to go back--and write a counter to it. OR have them exchange papers, and counter their brother's position.
+
+it is a daily battle. One of the best things about homeschooling is if you look around you can easily find social groups that satisfy requirements for (social interaction"--that are typically made up of strongly conservative parents, and old fashioned ones. Many are religious, but I certainly never restricted my children's exposure to different religions.
+
+The only way to effectively armor your children against the 24/7 management is by teaching them to THINK, from the earliest age. to QUESTION, always. When they are wrong--teach them the FACTS, and teach them how to VERIFY FACTS and research. When they are right--celebrate their triumphs. Even if it means making a total fool of yourself in public.
+
+Teach them to be skeptics--and somewhat cynical--but also teach them just how wonderful and totally badass the REAL world is compared to the dystopia and delusions the loons create. 
+
+Teach them that the wise person ALWAYS plays by the rules, and does what is expected, to the extent necessary to check off all the expected boxes, and pass the expected tests, in "school" just as an adult does their "job". But meeting the idiotically low expectations of the loon hoard is NOT the end, or goal. 
+
+If you start them off young, and keep them as isolated from the loon garbage as possible until at least age 5--you have a good base to work with. But you still have to work at it, daily, especially tutoring them at night if you really, really can't find a way to home school. Because unless they learn to think, learn to reason, learn to research and develop a solid common sense knowledge base, they'll be vulnerable.
+
+
+599119
+I think becoming more aware of what religious texts say would help here. The Bible in particular addresses all of those issues to some degree. If this world was all there was, it would make sense to worry about bad events. But, the morality of this world is a mix of good and bad - the pure good comes later. The Gospel is that you can get away from the bad by having faith in Jesus, who cleanses out the bad that came with the fall. 
+
+It's really easy to get wrapped up in this world. In feels so concrete. Our brains like to think of ourselves as really important and wise. Some folks even get disorders and are straight up narcissists. It's really easy to lose sight and get off track when bad things happen if you put all your eggs in this basket of life. 
+
+But, even the healthiest of people only live to be a little over 100. That's nothing! Most "life" on earth is ended early or, especially for non humans, by predators. There's a lot of bad. It's easier to see the bad because there is also a lot of good that is in stark contrast to it. 
+
+You sound like you don't want to believe in a God because you don't like how something went in life. The truth is a lot of folks still believe even with much worse things happening because they can see the bigger picture. 
+
+Still, at the end of the day, even if you can't be interested in a particular religion, it makes a lot more sense to believe in a higher being of some sort. It really just makes no sense to believe that out of nothing... like literally out of nothing... that the universe just popped into existence from a random explosion in space. 
+
+463323
+You're clearly paranoid and delusional, if you can't find a decent school for your kids there's something wrong with you and you should never have had kids to begin with. 
+
+*homeschooled kids outperform and come out better adjusted then every other schooling type.*
+
+While that's a flat out lie thanks to warped statistics. When they compare public schools vs "homeschools" they're taking everyone from a public school vs the top % of homeschools. A lot of homeschoolers never go to tertiary institutions and never take the standardised tests, the few that do are the ones bright enough to push on dispite being permanently handicapped by their upbringing.
+
+Not only that, your exposer to those "horrible" schools made you the person you are today, yet you want to deny your child that same chance. If you're trying to raise your child to be like you then you're being a fucking hypocrite. Sheilding them is going to create extremely naive and dependent children.
+
+I'm going to make you a promise as sure as the sun rises in the east. Won't ring true today, or tomorrow, but one day in the distant future your child will grow up to be one of only two things:  An overly dependent adult who never learnt to stand on their own two feet and never got to experience life as a free adult, mentally handicapped by your domination of their everyday life without even knowing it:
+
+Or a lot less likely - a wildly independent adult who moves as far away from you as possible and will without a doubt hate you and what you did to them more than anything else on this earth, in all likelyhood will be highly unstable for large portions of their lives. I've seen this many, many times before and can see this happening again. 
+
+You're stealing your child's future from them, good or bad it actually doesn't matter. The fact is you're completely diverting them from all the potential lives they could lead and massively restricting their access to oppertunities because of things that "might" happen. You sir are a complete coward and a disgusting Thief.
+
+2127
+Being off work for Christmas has left me with a lot more free time than I’m used to and I won’t be traveling to spend it with my family until tomorrow.  Normally I only visit T_D because I’ve refused to watch Fake News my entire life and I believe there is a lot more transparency in journalism here despite “popular opinion”; joke about popular vote here.  As such, I always feel surrounded with an atmosphere of positivity and a forward-looking mindset into making things great again.  Plus the shtick about not wanting to win anymore never gets old or fails to put a smile on my face. Well with this free time I made the mistake of going to other parts of Reddit and what I saw left me in legitimate awe.
+
+
+It wasn’t that long ago that I watched the video where the former KGB member discussed the methodology where Communism and altering the perception of a nation’s people was an effective, albeit lengthy, tactic to dismantle said nation.  Now – I am not a conspiracy theorist, but conspiracies are becoming more like realities every day it seems.  I understand the demographic of Reddit is probably not the best at encapsulating the feelings of a nation, but I feel it’s a large enough sample size to warrant my thoughts.  Everywhere I looked I saw - while possibly not obvious at a glance - at the very least, veiled disheartening and miserable comments that all shared similar attributes to one another.  I brushed it off at first, but after 30 minutes it was all I could see.
+
+
+* There was **always** a negative spin on the topic.
+* There was **always** some sort of self-loathing feeling to the comments.
+* There was **always** a back handed victim complex.
+
+
+And I wasn’t looking for these comments or cherry picking them.  These were all massively up-voted comments and I did find a few people who seemed to pick up on this that had responded.  I thought to myself thank God I’m not crazy!  But guess what?  I had to un-hide their comments because they’d all been down-voted like hell.    Then I started to think – well if I was trying to be the most depressing and miserable commenter I could be, just for the sake of doing it, this is the sort of thing I would say.  Then I started thinking about recent stories regarding ShareBlue and other groups whose sole purpose is to shill their agenda and attack or bury anything else; part of me hopes they read this because I’d be honored – but they better send their best!  
+
+
+I was not always a happy person.  And I know what you’re thinking, but no I never voted Democrat.  But, becoming a happy person was by far the most difficult thing I’ve ever had to do in my entire life.  Harder than my career, harder than relationships with others, and our world is not always an easy place to be happy.  Even still, I have difficult days at work where I feel like my head will explode – but I leave it at the door and meditate on how I can be happy with it or make the best of it.  I would say being happy is a difficult and full time job – but pays out something which money can’t buy.  
+
+
+The danger I see in all of this is how many people who have not yet found happiness are becoming prey to the negativity of it all.  In my case, I always isolated myself because I did not want my feeling down or sad to be a burden on other people.  I was also far too embarrassed to discuss my problems or seek sympathy because I did not want to feel the way I did!  Feeling better about a bad situation or becoming complacent with it is an awful coping mechanism, but one that is readily available and far easier than bettering the situation for yourself.  I’d like to clarify here that I am not promoting isolating yourself or letting issues fester just to say you’re not being a burden on others like I did.  This only leads to anxiety, depression, and every day that you isolate yourself makes seeking help, whether it is professional or not, increasingly difficult.  There are good and honest people that want to legitimately help!  But as I’ve said, that is not the easy way out.  You have to want to help yourself first, many times that means hearing things you don’t want to hear or saying things you are afraid to say.  But that is alright because it is a means to an end that is not describable and unique to every single person.
+
+
+But this influenza or feeling that I saw all over other parts of Reddit troubled me.  The fact that there are people out there acting as Misery’s Advocates, targeting the downtrodden and using them for personal gain disgusts and angers me.  My hope is that this post is read, seen, commented on, and even possibly to help someone.  Not because of the reality that T_D is the best venue for this message – I would be just as happy to have this thread buried and forgotten if it resonated with one person; seeking the affirmation of others is not a good metric for happiness.  And finally, I am more than willing to acknowledge opposing viewpoints on this topic if it means finding reason and understanding!  I am and always have been my biggest critic; very rarely will I act on something without first considering opposing viewpoints or weaknesses in my own views.  I just felt so strongly about this topic that I felt compelled to post it here.
+
+
+I hope you all have a Merry Christmas and keep up the positive vibes and making America great again!  I can always count on finding that here at T_D.
+
+
+588837
+You should have a kid. I thought life couldn't get any better. I was wrong. Best thing that ever happened to me.
+
+But then again, I always wanted a family of my own.
+
+362007
+Media glorification... that seems reasonable. Welfare spending... Reasonable too. Breakdown of the family unit...
+
+I think all these are a symptom of something bigger though. A mass murderer is not "crazy" by any stretch. He's more "Upset at the nature of reality".
+
+If you haven't, give [Eric Harris' journal](http://www.acolumbinesite.com/eric/writing/journal/journal.php) a read. (columbine) Really sick stuff, but you can see the mentality he was in. It's the same old story of Cain. Angry at the world, angry at life itself. Sees the corruption and the bad, and fair enough there's plenty of that, but decides that he alone can judge it.
+
+That's why shooters go after the innocent. It's not very fun to kill the guilty. It's much worse, much more of a protest against life itself, to kill those who don't deserve it. 
+
+A lot of boys feel like Harris throughout childhood. I did, to an extent. I never really had a chance to compete. I was prohibited from skateboarding, couldn't play with toy guns because they were violent, enrolled in choir instead of sports, kept away from all the sorts of things that give boyhood meaning. I very badly wanted to be brave. To do something heroic or stupid or a little of both. I wanted to win a competition by trying harder or working more, I wanted my wins to feel legitimate. I wanted the kids "above me" on the social ladder to have earned their position, and I wanted to respectively earn my own. But childhood isn't like that anymore.
+
+I think the hippie generation (my parents) saw the many horrors of masculinity. And there were plenty. World War 2 for sure. The Vietnam war and draft was pretty brutal. There was racism and sexism and all was perpetrated by old school men. So they figured, masculinity is bad, and in a broader scope, power itself it bad.
+
+But power is only a tool. For every CEO who used his power to fuck the secretary, there was a CEO who dedicated his life towards furthering mankind. Every building, every road, every car and boat and innovation in the last 100 years has been pushed by masculine energy.
+
+If you shun masculinity, it doesn't disappear, it goes in the shadows. It festers. This is why you see a rise in violent pornography. We're told that manliness is bad, and the perfect lover is a women with a cock. We don't want that. No one wants that. We want to take our women, really grab her and hold her and make her feel yours, but we're told not to move an inch without written signed and notarized consent forms. So masculinity goes underground, and mutates, into the fifty shades of garbage you see today. 
+
+Same for the work force. Men are discouraged from taking initiative. Men are told to stay in their box. Most do, and get those urges out with video games. That's why video games are becoming more and more like work. Men want to work. Desperately. The few men that say no, and start working in spite of what they're told, succeed beyond their wildest dreams. Those who don't go to therapists and take antidepressants, which kill what little true fire they had left.
+
+Mass shooters are almost always men. And they've been told their whole life that they are wrong. Their desires towards women are wrong. Their desires to compete and win are wrong. Their desires to watch and play sports, lift heavy weights, all wrong. What they really should enjoy doing is sitting quietly in a class room solving cross word puzzles... or working with large pointless groups on glitter and glue science fair projects. You want to run around? You want to build go-cards out of lawn mowers? Don't you know that's dangerous and you could get hurt?
+
+&gt; Of freaking course I do Mom, THAT'S THE POINT! It's not heroic without risk
+
+-- says the inarticulate 8 year old no one listened to anyway...
+
+Mass shooters... they grow up wanting to be the hero. They want to fight the evil dragon, risk life and limb. They don't really care if they die fighting either, so long as they had the chase to save the day. But they're told there are no more days to save. Told their desire to be the hero is a terrible rotten thing. And they start brooding. They see the faults of the world around them, but are powerless to correct it because work makes winner and losers and inequity is evil. They start down a dark road, and it eventually leads to "If this is life, I hate it, and will work as hard as I can to destroy it". 
+
+
+
+400890
+Once upon a time, even if someone considered themselves "not religious" there was an general acceptance in America that there was an afterlife of eternal consequences for the things we did here. Most believed in Heaven and Hell but sometimes disagreed on how one ends up in Heaven. It was universally accepted that if you killed a bunch of people, you were going to burn in hell.
+
+Whether one believes that now or not, a very significant portion of Americans no longer accept that version of the afterlife, and most feel there isn't one at all. So at the end of one's days, there is no consequences of anything.
+
+Additionally, we would promptly execute people who were convicted of a single murder, and the executions were a process that didn't strike one as 'a peaceful going to sleep' - we electrocuted them. We hung them from ropes. We cut off their heads. We shot them with 5 guns. The general idea is that an execution was not meant to be painless nor 'civil' - it was a punishment and a deterrent. Even if for just a moment, that kind of agony is not something many people would look forward do. Men were dragged to their executions because they were terrified of them, and they were terrified of the eternity that awaited them. They kicked and screamed and grabbed at anything they could.
+
+Now, the odds of being executed are about as rare as being struck by lightening. It's no longer a deterrent because it never happens. For someone who has no hirable skills, is living under a bridge, and is eating dead animals and other people's garbage, life in prison is a HUGE UPGRADE. There are incentivized to kill because the worst that would happen to them is no longer living outdoors, no longer eating garbage, and no longer even needing a job.
+
+I dont know about you, but I'd rather live under a bridge than be strapped into the electric chair. I'd find a way to make that pile of blankets under the bridge pretty god damned comfortable.
+
+Prior to 1968, there were consequences for murder, in this life and in the next. Right around 1968, we took prayer from schools, we started teaching 'if it feels good do it' and now the kids brought up  without religion and without any empathy for others, are set loose on our society.
+
+We are reaping the whirlwind of the counter-cultural revolution.
+
+We can also blame Democrat leadership since 1968. They latch onto these events as a way to push tier agenda. So when you have a 'useful idiot' who buys into that agenda, they come to a conclusion that if they go out in a blaze of  gunfire and kill a lot of innocent people, that their actions will serve to improve society by getting gun control laws passed. They feel that the end justifies the means because that's what their party leadership tells them: If we can get these guns off the streets, it will be worth it" is their actual opinion. They are literally the American ISIS at this point.
+
+1729
+“You know that he voted for Trump, right?” I heard an acquaintance whisper offhandedly to some mutual friends. “Yeah and now he’s a total Nazi” another person said. The conversation immediately peaked my interest, making me wonder who this Nazi was. As I continued to listen in discreetly, it quickly became clear that the alleged Nazi they were referring to was in fact me. Although it rubbed me the wrong way, I didn’t immediately feel the need to butt in and defend myself. To the best of my knowledge, I didn’t Zeig Heil the mailman or button up my brown shirt while lathering my shaved head with salve cream (I actually have a lustrous head of curly hair), I didn't pull on my doc martens, or start stomping Jews as I walked down Wyckoff Avenue. In fact, like most individuals with triple digit IQ's in the 21st century, I absolutely detest the idea of Nazis and fascists...although they have been the subject of some of my favorite punk songs (i.e “Nazi Punks Fuck Off” By The Dead Kennedys and “New Aryans” By Reagan Youth). But the fact of the matter was that I wasn't a Nazi, despite these people making me out to be one. My real crime, as I later learned, was being a twenty-something year old conservative living in New York City.
+ 
+It didn’t take long for me to realize that not everything is acceptable in New York City. If you are a non-binary, trans, woman of color, there’s a parade for you, there’s a tax credit for you somewhere. If you’re a socialist or worse yet, a communist, there are community organizations, meetings, and backyard barbecues for you. Hell…you can piss on the street and people will just look the other way, but if you’re a conservative in NYC, you better keep your mouth shut and your head down, because as a friend of mine recently said “No one values your opinion white man!". I know, I need new friends. It was always my understanding that people from all schools of thought should be able to share their ideas among one another, in fact, that’s how a society should function, a commingling of different ideas and thoughts to be discussed. But as a conservative, or even a libertarian; a term that I have learned is more acceptable in NYC because it sounds like liberty, your opinion is not valued, and not welcomed. I think that it’s about time that liberal New Yorkers allow us to share in the same freedoms that they have been allowed and garner the same level of acceptance that we have given to them over the years, because at the end of the day, we’re all just a bunch of schmucks changing our underwear the second we get off the train on a 95-degree day. It's a simple request really, that someday, I can openly say that I’ve voted Republican for three election cycles, that I read National Review on occasion; not often (older republicans are very stuffy), without being shunned, called a Nazi, or being in danger. Yes…you heard that right, danger.
+ 
+In June of this year, a Trump supporter wearing a Make America Great Again hat was attacked at a Brooklyn bar, his face slashed with a broken beer bottle resulting in serious damage that required reconstructive surgery. A few months earlier from that, a man wearing the same hat was attacked on a subway platform here in Harlem. Their crimes? Voting republican in a presidential election and taking pride in that fact. Apparently, the MAGA hat looks something like a swastika to most liberals. In fact, the way that most people in the city talk about Nazis, you would think that the third Reich had risen from the dead and we are currently at war with Germany. Even if we seriously took into account actual hate groups in the U.S., they would attribute to essentially 0% of the 62 million Trump voters. Don’t believe me? According to The Southern Poverty Law Center, there is an estimated 5000 to 8000 KKK members currently active in the nation, that’s .00002% of the total population or .00012% of those said Trump voters. To put that into perspective, the Cleveland Browns, who went 1-15 during the 2016 NFL regular season, still had an average audience attendance eight times higher than the largest hate group in the country. But I digress, we’re talking about violence here, right? Well simply being a conservative puts you in a risk category that I don’t think my very expensive freelancer’s health care would even cover. Just the mention of being pro-trump or conservative at a bar or out in public, runs you the risk of being verbally berated or worse yet, physically assaulted. This is why my small group of conservative friends talk in hushed voices while out in public, discussing the latest news stories and current events. God forbid someone passes by and hears you state your stances about immigration or welfare, and you'll immediately be a target, an enemy of the free world. They’ll get in your face, they'll accuse you of being ignorant, hateful, and dangerous, while ironically threatening you with violence. Once again, I’m not against open discussion, in fact I would love nothing more than to talk about differing perspectives without instantly being labeled a Nazi. At the very least, maybe they could listen to me for 5 minutes and then call me a Nazi? At least then we would be working towards some sort of compromise. But that’s never what happens, it usually escalates quickly, the same insults used, that “you don’t care about this, this, and that, you ignorant fuck”. I’ve heard it all, I’ve been physically threatened, and if it’s not happening in public, it happens in the workplace.
+ 
+The art industry has historically been very liberal, and so it was no surprise to me, that when I began working in 2012, that my views in the workplace would not be very popular. In fact, any mention of politics is usually a good indication for me to put on my headphones, or take an unnecessary bathroom break, but for those circumstances when I can’t avoid this discussion, I usually just say that "I’m not interested in politics", which results in the “How can you not care about…” discussion. To be honest, if I worked a normal 9-5 job at a big ad agency, I would probably be protected by HR or some clause that says they can’t fire me because of my beliefs. But I am a freelancer, and so I jump around from company to company, at the mercy of whoever’s in charge. In general, a freelancer’s life is very different from a normal person's work life, one simple mistake, or looking at someone the wrong way, and you can kiss future paychecks from that company goodbye. To make matters worse, freelancing is for a lack of a better word, tedious. You cold email people with no responses, you do free jobs to get into bigger companies, and a lot of it is thankless, but when you finally build that relationship with a company, you will say, do, or act however they want you to in order to pay the bills. So when politics come up, I know that keeping my mouth shut might mean the difference between losing that connection or not. Most would think that this is an isolated incident, that every company I worked for couldn’t be like this…how wrong you would be. Out of the fifty plus places I’ve worked, 100% of them have been run by die-hard liberals who openly talk about abortions as if it’s the weather.
+ 
+ I distinctly remember my first internship where I was working at a very big company well known in the commercial world. It was during the 2012 election season and everyday as I scrubbed the floors and served food to company execs, they would talk about how they couldn’t believe that Romney was even close to winning, that there couldn’t possibly be that many idiots in this country, but none here in New York, not in their office, just some country bumpkins in the south. It was only when the execs asked me who I voted for on election day that I stuttered. Maybe they thought I was just some nervous intern, or maybe that I was stupid, either would have been better than saying the truth. And so, I lied. I felt bad, but I knew better than to risk a future career with that company. Can you imagine if those execs asked me something that wasn’t about my political beliefs? What if they asked about my sexual orientation, my religious beliefs, or my income? As Linus said it best “There are three things I have learned never to discuss with people: religion, politics, and the Great Pumpkin”. Worse than just getting fired from a company, would be getting blacklisted…yes this is a thing in the art industry. You rub some higher up the wrong way at a company and suddenly people will stop answering your emails. It’s all very incestual, but you learn how to get by, even if that’s being pressured into talking about politics. Over time I have learned that it’s a new type of McCarthyism and that it’s solely against conservatives. You can’t be fired for being black, queer, or fat, but if you voted for Trump, you can easily be boned. I’m not the only person I know that has to deal with this though, in fact I know plenty of other conservatives who keep quiet in the art industry. Some of these people are at very high positions at their company, some are Hispanic, or women, or gay, but what they fear most of all, is being judged for their political beliefs. So as long as you avoid it in public and at work, you should be ok. Dating on the other hand…
+ 
+Dating is nearly impossible for an openly pronounced conservative in the city. Just try and go on match.com, the #1 dating site in the world. You narrow down your category search to a 5 mile radius around NYC, search for a female between the ages of 18-28, and check conservative. You’ll find all of 4 matches. I fuck you not…I found four matches. Change that search to fifty miles, age 28-38, and you’ll start to find some options, as long as you’re cool with kids and can drive out to Paterson New Jersey…also no cats. Dating in the city if you voted for Trump, is like running the 100 meter dash with your legs and arms tied behind your back, blindfolded. You’ll get there, but you’re going to have to crawl and it’s going to be painful. Over the years, although it’s not the best policy, I have found out that its helpful to refrain from talking about my political beliefs with girl's I’m dating until at least six months. Why six months you might ask? Well I believe that after six months, they’re either too comfortable to jump ship, or they’re probably already yelling at me for any number of reasons, and this will be a deciding factor if things are to continue forward. To this day I have kept this practice up with every girl that I have ever dated, each one taller than me, liberal, and vegetarian. The height and the meat eating were never factors, but if you voted for John McCain in the 2008 general election, it’s like telling them you’ve cheated on them. I remember when my girlfriend in college found out. We were waiting in line for breakfast in the mess hall and for some reason, I decided that this moment was the absolute best time to tell her. Maybe it was the way her blue eyes glowed in the sunlight as she looked at me that day, or maybe it was just that I trusted her enough to be ok with whatever I had to tell her. I think her response was and I want to quote this properly “What the fuck is wrong with you, you fucking retard!”. I remember sitting still, absolutely terrified, the word "retard" still echoing throughout the room, everyone dead silent…staring. I can only imagine what they were all thinking, what horrible, awful thing, I must had done to that girl. For the record, I have never lied to any of them, I just avoided the subject under duress and scrutiny.
+ 
+Just the other day, I was on an online dating app, and I messaged a girl with an opening line about a Chuck Klosterman book, a great ice breaker for people who enjoy reading, right? We both had similar interests and we were both in Brooklyn, not to mention that she had a very cute profile picture. After sending my message, I got a reply an hour later, her response was as followed: “I just saw that you identify as conservative. Sorry but Gay rights, women’s equality, and the environment are social issues near and dear to my heart”. First off, the environment is not a social issue, secondly, what does being conservative have anything to do with not caring about gays, women, or the planet? The next time some liberal messages me, I could just as easily respond with “I just saw that you identify as liberal. Sorry, racial equality and civil rights are near and dear to my heart”. For those of you who don’t already know this, the democrats; since their founding in 1829, have fought against every civil rights initiative and has a continued a long history of discrimination including but not limited to: defending slavery, opposing reconstruction, imposed segregation, and fought the civil rights acts. But I don’t hold it against this girl, the narrative is that there’s no way I could care about any of those things. It’s not like I’ve ever marched in the Gay Pride Parade, or donated money to the World Wildlife Foundation, because that would be against the narrative that I’m racist, homophobic, anti-woman scum, wouldn’t it? I’m not asking any of these girls to marry me, I’m not saying to change their political views radically in order to align with mine, I think what it comes down to is understanding and accepting other people’s opinions, that we don’t have to agree on everything. Her favorite band might be The Rolling Stones and mine might be The Beatles, but that shouldn’t dictate a person’s worth, because we both still like rock and roll, right?
+ 
+Throughout my life I have always surrounded myself with a diverse group of friends, people from all different backgrounds, and all walks of life. To me, it was something wonderful, something where I could expose myself to different ideas, culture, and differing perspectives on social issues and politics. It might have been naïve, but I thought that this open dialogue would continue when I moved to New York, and while it does for the most part, conservatives have specifically been forced out of the conversation. No longer can we walk into a bar and have a discussion without someone calling us racist, bigoted, Nazis, or threatening us with violence. No longer can we go to work without having to sweat over saying the right answer to a political riddle. Dating is probably a lost cause, but hey, if Lena Dunham can write an episode of Girls where she dates a black conservative, then I think people can grab a cocktail with someone from the opposite political spectrum. Over the years, the greater national conscience has shifted towards being very open minded, but as of recent, this is only true if you're an open minded liberal, the enemy of their progressivism is a conjured up boogieman known as conservatism. At the end of the day, both of these political stances are just different approaches to making this country a better place. I might hate Chuck Schumer and they might hate Paul Ryan, but is that any reason to have things come this far? That republican congressmen are being shot, for the riots at Berkley, or the rise of ANTIFA; an actual fascist group. My approach is simple, urban liberals should try and act like the open-minded individuals they say they are and to take a moment and listen to their conservative counterparts. If we all do this, maybe the real Nazi Punks will fuck off.
+
+----------
+Cluster #14:
+Cluster importance: 0.0306974751137
+news: 4.795346
+fake: 3.553684
+medium: 0.812194
+story: 0.805407
+cnn: 0.764985
+report: 0.606363
+source: 0.486398
+fox: 0.430173
+article: 0.386961
+lie: 0.337946
+real: 0.335840
+msm: 0.290402
+tweet: 0.192098
+site: 0.189182
+outlet: 0.187883
+
+315928
+nope. MSM is fake news. and TP is fake news too. give us evidence for this claim. nobody else is reporting it b/c it's fake news.
+
+175231
+This was fake news before, and it's fake news now.  It'll continue to be fake news tomorrow, and every day after that.
+
+201178
+That's some Meta-Level fake news.   
+*"Hey Bro, i heard you like fake news, so I put some fake news about fake news in your fake news."*
+
+252582
+All he did was mimic what Abe did, which is why he did not do anything wrong. Fake news is just fake news.
+
+237197
+Yo I heard you like Fake News. So we made some even Faker News, so you can get the Fakest News inside your already Faked News. 
+
+600217
+This is why we call it Fake News. It's not "news that Trump doesn't like is fake". Fake News is Fake News. "Concocting", what a bunch of cuckazords.
+
+465095
+Yo dog, I heard you like Fake News, so we made some Fake News about Fake News, so you've got Fake News to read about Fake News.
+
+204064
+Yeah, I'm here all the time, and I've *never* seen that expression. *Maybe* it's been used, but it's hardly prevalent. Going to have to call fake news on this one.
+
+258639
+An assistant D.A, not a D.A. But you are right, when I relooked it up, I found out it was most likely fake news about him not being a D.A
+
+117516
+Thanks for the tip.  I won't post it again as I do like to keep it factual, and not be fake news.
+
+----------
+Cluster #15:
+Cluster importance: 0.0339557650471
+state: 5.742874
+deep: 1.379706
+law: 0.770227
+unite: 0.750257
+federal: 0.533411
+california: 0.418148
+blue: 0.379645
+government: 0.345127
+live: 0.339763
+red: 0.326502
+city: 0.317540
+illegal: 0.288262
+taxis: 0.268175
+citizen: 0.206846
+local: 0.201474
+
+201354
+Try it. It doesn't autocorrect bc it could be using state as a verb (like please state your opinion) instead of the noun State (as in Ohiofor example)
+
+178434
+The deep state fully controls Virginia. Of all the States, how could they not have that state under their thumb?
+
+spez: typo fix
+
+418701
+This is yuge for States like CA, IL, and MA. If I understand this correctly it means residents of those States could go to neighboring States and get a permit and it would be valid in their own state? Can the federal law overturn state law?
+
+367384
+Clinton to run in what state?  The state of bliss?  The state of ignorance?  Which state's candidate is about to go flying?
+
+314033
+You know where they are, I know where they are. Everyone knows where they are; they are being shielded by the deep state.
+
+284290
+It states "negotiation by **unauthorized persons** with foreign governments having a dispute with the United States."  
+
+But the thing is, BO is authorized by the deep state.
+
+575753
+That and the out of state tuition at U of A is about the same as some colleges in state tuition. 
+
+135030
+"Justifiable homocide". That's different state to state. Some states, sure, no brainer.  Other states, you better hope the intruder didn't spin around and take a round in his side or back. 
+
+451727
+between her, our state legislature and Marty, it really shows where our state is at, and with all that somehow Maura Healy is still the worst.
+
+530166
+between her, our state legislature and Marty, it really shows where our state is at, and with all that somehow Maura Healy is still the worst.
+
+----------
+Cluster #16:
+Cluster importance: 0.0333228953787
+president: 5.584049
+obama: 2.169494
+hillary: 0.628355
+clinton: 0.541615
+elect: 0.301985
+bush: 0.286304
+office: 0.283298
+bill: 0.258823
+america: 0.236003
+donald: 0.206397
+american: 0.197587
+unite: 0.170791
+fbi: 0.163666
+administration: 0.156334
+great: 0.149516
+
+123273
+I thought so also, at the time.  But if we had President Cain then we wouldn't have gotten President Trump.  So it's worked out for the better, thanks God!
+
+422093
+^(AGENCIES UNDER US DISGRACED PRESIDENT OBAMA:)
+
+**B**lack **L**ives **M**atter
+
+**C**are **I**ntently for **A**ustralians
+
+**N**urture **A**nd **S**upport **A**sians
+
+**F**orm **B**onds with **I**ndians
+
+^(BIG INTERNATIONAL ALLIANCE UNDER DISGRACED US PRESIDENT OBAMA:)
+
+**F**rance-**U**nited **K**ingdom-**U**nited **S**tates-**A**ustralia-**L**ibya-**L**iberia.
+
+576045
+This is saying that she is the president. “All the days she has not been president”= 0 therefore your saying she is the president. If you take out the “not” it will make sense. 
+
+120886
+President Trump will be the last Republican President and the first Freedom Party President. The way President Lincoln was the last Whig President and the first Republican President 
+
+6054
+**SHARE SHARE SHARE!!!**
+QUIT TRASHING OBAMA’S ACCOMPLISHMENTS. HE HAS DONE MORE THAN ANY OTHER PRESIDENT BEFORE HIM. HERE IS A LIST OF HIS IMPRESSIVE ACCOMPLISHMENTS:
+
+- FIRST PRESIDENT TO APPLY FOR COLLEGE AID AS A FOREIGN STUDENT, THEN DENY HE WAS A FOREIGNER.
+- FIRST PRESIDENT TO HAVE A SOCIAL SECURITY NUMBER FROM A STATE HE HAS NEVER LIVED IN.
+- FIRST PRESIDENT TO PRESIDE OVER A CUT TO THE CREDIT-RATING OF THE UNITED STATES.
+- FIRST PRESIDENT TO VIOLATE THE WAR POWERS ACT.
+- FIRST PRESIDENT TO BE HELD IN CONTEMPT OF COURT FOR ILLEGALLY OBSTRUCTING OIL DRILLING IN THE GULF OF MEXICO.
+- FIRST PRESIDENT TO REQUIRE ALL AMERICANS TO PURCHASE A PRODUCT FROM A THIRD PARTY.
+- FIRST PRESIDENT TO SPEND A TRILLION DOLLARS ON “SHOVEL-READY” JOBS WHEN THERE WAS NO SUCH THING AS “SHOVEL-READY” JOBS.
+- FIRST PRESIDENT TO ABROGATE BANKRUPTCY LAW TO TURN OVER CONTROL OF COMPANIES TO HIS UNION SUPPORTERS.
+- FIRST PRESIDENT TO BY-PASS CONGRESS AND IMPLEMENT THE DREAM ACT THROUGH EXECUTIVE FIAT.
+- FIRST PRESIDENT TO ORDER A SECRET AMNESTY PROGRAM THAT STOPPED THE DEPORTATION OF ILLEGAL IMMIGRANTS ACROSS THE U.S., INCLUDING THOSE WITH CRIMINAL CONVICTIONS.
+- FIRST PRESIDENT TO DEMAND A COMPANY HAND-OVER $20 BILLION TO ONE OF HIS POLITICAL APPOINTEES.
+- FIRST PRESIDENT TO TELL A CEO OF A MAJOR CORPORATION (CHRYSLER) TO RESIGN.
+- FIRST PRESIDENT TO TERMINATE AMERICA’S ABILITY TO PUT A MAN IN SPACE.
+- FIRST PRESIDENT TO CANCEL THE NATIONAL DAY OF PRAYER AND TO SAY THAT AMERICA IS NO LONGER A CHRISTIAN NATION.
+- FIRST PRESIDENT TO HAVE A LAW SIGNED BY AN AUTO-PEN WITHOUT BEING PRESENT.
+- FIRST PRESIDENT TO ARBITRARILY DECLARE AN EXISTING LAW UNCONSTITUTIONAL AND REFUSE TO ENFORCE IT.
+- FIRST PRESIDENT TO THREATEN INSURANCE COMPANIES IF THEY PUBLICLY SPOKE OUT ON THE REASONS FOR THEIR RATE INCREASES.
+- FIRST PRESIDENT TO TELL A MAJOR MANUFACTURING COMPANY IN WHICH STATE IT IS ALLOWED TO LOCATE A FACTORY.
+- FIRST PRESIDENT TO FILE LAWSUITS AGAINST THE STATES HE SWORE AN OATH TO PROTECT (AZ, WI, OH, IN).
+- FIRST PRESIDENT TO WITHDRAW AN EXISTING COAL PERMIT THAT HAD BEEN PROPERLY ISSUED YEARS AGO.
+- FIRST PRESIDENT TO ACTIVELY TRY TO BANKRUPT AN AMERICAN INDUSTRY (COAL).
+- FIRST PRESIDENT TO FIRE AN INSPECTOR GENERAL OF AMERICORPS FOR CATCHING ONE OF HIS FRIENDS IN A CORRUPTION CASE.
+- FIRST PRESIDENT TO APPOINT 45 CZARS TO REPLACE ELECTED OFFICIALS IN HIS OFFICE.
+- FIRST PRESIDENT TO SURROUND HIMSELF WITH RADICAL LEFT WING ANARCHISTS.
+- FIRST PRESIDENT TO GOLF MORE THAN 150 SEPARATE TIMES IN HIS FIVE YEARS IN OFFICE.
+- FIRST PRESIDENT TO HIDE HIS BIRTH, MEDICAL, EDUCATIONAL AND TRAVEL RECORDS.
+- FIRST PRESIDENT TO WIN A NOBEL PEACE PRIZE FOR DOING NOTHING TO EARN IT.
+- FIRST PRESIDENT TO GO ON MULTIPLE “GLOBAL APOLOGY TOURS” AND CONCURRENT “INSULT OUR FRIENDS” TOURS.
+- FIRST PRESIDENT TO GO ON OVER 17 LAVISH VACATIONS, IN ADDITION TO DATE NIGHTS AND WEDNESDAY EVENING WHITE HOUSE PARTIES FOR HIS FRIENDS PAID FOR BY THE TAXPAYERS.
+- FIRST PRESIDENT TO HAVE PERSONAL SERVANTS (TAXPAYER FUNDED) FOR HIS WIFE.
+- FIRST PRESIDENT TO KEEP A DOG TRAINER ON RETAINER FOR $102,000 A YEAR AT TAXPAYER EXPENSE.
+- FIRST PRESIDENT TO FLY IN A PERSONAL TRAINER FROM CHICAGO AT LEAST ONCE A WEEK AT TAXPAYER EXPENSE.
+- FIRST PRESIDENT TO REPEAT THE HOLY QURAN AND TELL US THE EARLY MORNING CALL OF THE AZAN (ISLAMIC CALL TO WORSHIP) IS THE MOST BEAUTIFUL SOUND ON EARTH
+- FIRST PRESIDENT TO SIDE WITH A FOREIGN NATION OVER ONE OF THE AMERICAN 50 STATES (MEXICO VS ARIZONA).
+- FIRST PRESIDENT TO TELL THE MILITARY MEN AND WOMEN THAT THEY SHOULD PAY FOR THEIR OWN PRIVATE INSURANCE BECAUSE THEY “VOLUNTEERED TO GO TO WAR AND KNEW THE CONSEQUENCES.”
+**THEN HE WAS THE** 
+- FIRST PRESIDENT TO TELL THE MEMBERS OF THE MILITARY THAT THEY WERE UNPATRIOTIC FOR BALKING AT THE LAST SUGGESTION. (THANK GOD HE DIDN’T GET AWAY WITH THIS ONE.)
+- FIRST PRESIDENT TO ALLOW IRAN TO INSPECT THEIR OWN FACILITIES.
+- FIRST PRESIDENT TO HAVE BLOOD ON HIS HANDS FROM BENGHAZI TO THE ASSASSINATIONS OF SEVERAL POLICE OFFICERS.
+- FIRST PRESIDENT TO TRADE 5 TERRORIST FOR A TRAITOR
+- FIRST PRESIDENT TO FACILITATE THE IRANIANS TO ACQUIRE NUCLEAR WEAPONS.
+- FIRST PRESIDENT TO LIGHT UP THE WHITE HOUSE IN RAINBOW COLORS TO HONOR MEN THAT LUST AFTER OTHER MEN’S REAR ENDS.
+- FIRST PRESIDENT TO PUT YOUNG CHILDREN IN DANGER BY FORCING STATES TO ALLOW MEN IN WOMEN’S RESTROOM AND SHOWERS.
+- FIRST PRESIDENT TO MARRY A MAN.
+- FIRST PRESIDENT TO SMOKE CRACK COCAINE IN THE WHITE HOUSE.
+
+**I COULD GO ON FOR DAYS BUT YOU GET THE POINT. HOW DID THAT HOPE AND CHANGE’ WORK OUT FOR YOU?**
+
+H/T ProConservativeNews
+
+https://proconservativenews.com/a-list-of-obamas-accomplishments-as-the-first-black-president-of-the-usa/
+
+
+358378
+President Trump and Abraham Lincoln are the only two presidents to be inducted into a wrestling hall of fame.
+
+Think about it.
+
+472205
+First thing first, it's not "President" Obummer, it's FORMER president Obummer to everyone !! He's not the president anymore, thank God!!!! 
+
+422073
+The best Christmas/ New Years present our President could give us is seeing Killary with handcuffs before the New Year. LOL That's my wish anyway.
+
+543236
+It’s the little things that make my day!  
+Getting a wink from this (our President) and that (the_Congress) did it for me!
+
+
+167913
+&gt;At least I will go down as a president
+
+No, no. You'll be a *former* president by the time you go down, you know that.
+
+----------
+Cluster #17:
+Cluster importance: 0.0449782451051
+win: 4.374874
+moore: 2.304620
+election: 2.234569
+lose: 1.338446
+democrat: 0.982065
+hillary: 0.951779
+roy: 0.791235
+candidate: 0.640331
+party: 0.596630
+alabama: 0.538167
+dems: 0.455142
+seat: 0.422253
+voter: 0.388995
+republican: 0.379422
+republicans: 0.364410
+
+88935
+All this says is they know they aren’t gonna win. So they will act like they didn’t even want to win. 
+
+444292
+Oh yeah he should be SecDef for 7 more years, and then in 2024, think about it. He would win in a landslide
+
+274773
+Thank you, thank you, thank you, for all the work you do!!! Keep it up! We're winning, and we're behind you 100%!
+
+307570
+I am wondering, I know about when he said Moore may not win, but when did he say that Gillespie won't win.
+
+296019
+just dont want to lose that seat. even if that means moore wins...so fucking what. after he wins, they can do whatever they want
+
+95473
+I hope Moore wins...it's not so much as I want Moore to win, as it is that I really don't want the establishment to win..
+
+177276
+Someone else won the election the other day. I was pretty bummed about it. But I think whoever won it was probably more happy to win it than I am to lose it. So, whatever.
+
+603917
+I'm seeing a lot of negativity around Moore losing the election today. There shouldn't be. Him losing is actually a net gain for us, and here's why:
+
+1. If Moore won, Democrats would paint the GOP and Republicans as being the party of sexual assault and pedophilia. Whether or not Moore did what he was accused of doesn't matter in this regard. They would do everything they can to make him, and the accusations behind him, the face of the party. This would affect perceptions in enough people to be damaging for us in future elections. 
+
+2. Doug Jones's win will induce complacency in Democrats. I'm already seeing Democrats saying that his win is indicative of a blue wave, that if they can win in Alabama they can win anywhere, that Republicans are doomed in 2018, etc. Let's be clear. Doug Jones won because of the sexual assault allegations against Moore. He did not win because of a supposed "blue wave" against Trump and Republicans. However, it's great that Democrats think that's why he won. They won't take future elections as seriously, or be as motivated to vote, because they will consider their victory to be a given. 
+
+3. Doug Jones's win will be a wake up call to Republicans. Between Gillespie losing in Virginia and Moore losing in Alabama, Republicans (both in government and in the public) will realize that just because we have the majority in the house and senate, doesn't mean we can relax and simply assume we will win every election. Every election should be taken seriously and treated accordingly. We must fight to keep every seat we have and win every seat we don't. People who didn't think that before will realize it now.
+
+602234
+I was so proud to be a part of this election when I saw it. When it was first posted we didn't know he had won yet.
+
+258634
+I think they're going to do it. There's no way all of this is going away if Moore wins the election.
+
+----------
+Cluster #18:
+Cluster importance: 0.0386940470697
+country: 5.727357
+america: 0.810916
+american: 0.529889
+war: 0.445943
+muslim: 0.413056
+citizen: 0.368790
+muslims: 0.345082
+illegal: 0.339707
+europe: 0.326146
+fight: 0.318687
+live: 0.306970
+immigrant: 0.295484
+nation: 0.289359
+culture: 0.279218
+immigration: 0.276593
+
+446981
+Well, in his country you don't need to cover your head. So in his country, yes it is a choice.
+
+In most countries, it isn't.
+
+38215
+No. These countries are dumb enough to take all the misfit jihadists while the home country is thinking it's a Ramadan miracle
+
+233567
+Don't even pretend that they care anything about our country.  They don't even want there to be a "country".  They hate everything about this country.
+
+70850
+It’s unbecoming of every country in the UN who voted against us to think they somehow have a say in where the US - a sovereign country - puts its embassy in another sovereign country.
+
+397469
+Mcturtle needs to be run out of the country, let him live in one of those shitholes he's trying to turn this country into.
+
+83817
+Uzbekhistan makes even less sense.  the country is not at war, the country is not poor, the country has no civil strife, the country has a stable government, the country has food.
+
+But Chuckie Schumer thought that taking in an Uzbek islamist was good for multiculturalism.
+
+198402
+If you are a country that is reliant on another country for their well being then what do you expect? Every country should always be working on becoming completely self reliant.
+
+149128
+They need to have a good read about the founding of this country. Motherfucker is as unAmerican as it gets. Get the fuck out of our country.
+
+340362
+If we just had MORE people we would be MORE prosperous!! Thats why the countries with the most people are the best!!
+
+162970
+And what are you going to DO ABOUT IT, top lawman? Yeah.  That's YOU Seesions.  Top lawman in the country!  WAKEY WAKEY!
+
+----------
+Cluster #19:
+Cluster importance: 0.0271540642099
+liberal: 5.741316
+conservative: 0.917330
+hate: 0.526208
+democrat: 0.251856
+racist: 0.239719
+medium: 0.222886
+friend: 0.199907
+leftist: 0.197350
+support: 0.173637
+city: 0.145880
+party: 0.143908
+talk: 0.128146
+politic: 0.125130
+view: 0.123480
+stupid: 0.115943
+
+518506
+We sort of agreed to no longer call them liberal, because they aren't liberal. They are leftists. Ofton times completely ideologicaly subverted drones.
+They are not liberal. They are even told what to think.
+
+329501
+Meh.. if you're on a yacht who gives a fuck what some liberal peasants say. Let alone on a yacht with a bombshell. 
+
+361021
+they dont need to.
+
+if a liberal murdered someone right in front of a liberal voter. that liberal could simply say; he didnt do it, and that would be enough
+
+2243
+Old Liberals, when 2012 came around: Yeah, love is love!
+
+Old Liberals, 2017: Why the [explicitive] is a Satanic transfreak reading a book to children in the library?
+
+Old Liberals, Roe vs Wade: Woman's rights! 
+Old Liberals, 2017: Why are atheists shooting babies in a church?
+
+Old Liberals, 1969 : Free speech!! Tolerance!
+Old Liberals, 2017: Why are they beating up that guy in a red hat?
+
+Old Liberals: Hilary!
+Old Liberals: But isn't he a Communist?
+
+595409
+Liberal: I want the good things in life.
+
+Conservative: Well, you have to work for them, some times lif...
+
+Liberal: REEEEEEEEEEEEEEEEE
+
+191278
+Liberals aren't Liberal at all.  I hate it that the word Liberal has been demeaned into meaning something that what it is really supposed to mean.  These people are Progressives, not Liberals.
+
+580955
+Or Detroit.  It's been run by liberal Democrats for over 60 years.  When a liberal tells you their policies will work, why isn't Detroit a liberal paradise?
+
+10291
+Every liberal reply to Trump's tweets...
+
+
+Liberal: Rrrreeeeeee
+
+Non-liberal: This is why. Fact, reason, logical explanation.
+
+Liberal: Rrrreeeeeee Eevee!
+
+Non-liberal: I don't understand, that doesn't make sense. Here is why...
+
+Liberal: RRRREEEEEEE RRRREEEEEEE
+
+Non-liberal: I have to go to work, this is weird.
+
+Liberal. Reee...��
+
+Liberal: Ree?
+
+Liberal: Ree?
+
+...later that day...
+
+Non-liberal: Home from work. Dont you have something better to do?
+
+Liberal: RRRREEEEEEE RRRREEEEEEE RRRREEEEEEE RRRREEEEEEE RRRREEEEEEE RRRREEEEEEE RRRREEEEEEE RRRREEEEEEE RRRREEEEEEE
+
+
+I'm noticing a pattern.
+
+442831
+I can't say where I work/what I do - but it has to do with infosec; 90% of my colleagues are liberals. 
+
+548627
+I was trying to make up my own words for us that seem like liberal lunatics would use.  Trumpanzee might have been used already, but i thought republiclown would work.  
+
+----------

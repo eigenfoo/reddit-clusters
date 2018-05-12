@@ -1,0 +1,1904 @@
+Loaded Reddit comments.
+High-pass filtered comments.
+Saved high-pass filtered data.
+Vectorized comments.
+Saved features names (vocabulary) and document-term matrix.
+Factorizing tfidf matrix...
+violation: 1.0
+violation: 0.373727167159
+violation: 0.172214551468
+violation: 0.0963665477148
+violation: 0.0611847987317
+violation: 0.0456903494913
+violation: 0.0362864273765
+violation: 0.0293779184055
+violation: 0.0244957557899
+violation: 0.0201492909109
+violation: 0.0173042770339
+violation: 0.0150739904538
+violation: 0.0136897028515
+violation: 0.0127826632148
+violation: 0.0121783733964
+violation: 0.0118066095894
+violation: 0.0116161349754
+violation: 0.011605792603
+violation: 0.0117062762119
+violation: 0.0117279832879
+violation: 0.0115872976492
+violation: 0.0116618973071
+violation: 0.0117732565562
+violation: 0.0118182926787
+violation: 0.0118164651517
+violation: 0.0117173155573
+violation: 0.0115530087645
+violation: 0.0113069422555
+violation: 0.010982605897
+violation: 0.0105514655113
+violation: 0.00999263605732
+violation: 0.00932582101102
+violation: 0.00858230244211
+violation: 0.00779481804069
+violation: 0.00692967586715
+violation: 0.00597043984547
+violation: 0.00511672017795
+violation: 0.00449798200105
+violation: 0.00401492264095
+violation: 0.00362364505318
+violation: 0.0033123348528
+violation: 0.00306016518051
+violation: 0.00285287549485
+violation: 0.00267799548301
+violation: 0.00252479229958
+violation: 0.00239306808666
+violation: 0.00227697487427
+violation: 0.00217280560543
+violation: 0.00207811560338
+violation: 0.00199175110177
+violation: 0.00191235794176
+violation: 0.00183889393449
+violation: 0.00177046404934
+violation: 0.00170643673159
+violation: 0.0016462690033
+violation: 0.00158964881018
+violation: 0.00153602162242
+violation: 0.00148461576032
+violation: 0.00143513109409
+violation: 0.00138751357806
+violation: 0.00134148180131
+violation: 0.00129692736451
+violation: 0.00125385816076
+violation: 0.00121227580799
+violation: 0.00117179890514
+violation: 0.00113249728571
+violation: 0.00109416569896
+violation: 0.00105682428532
+violation: 0.00102016599757
+violation: 0.00098464319064
+violation: 0.00095011755912
+violation: 0.000916316090324
+violation: 0.000883222348578
+violation: 0.000850821072923
+violation: 0.000819149049882
+violation: 0.00078820766113
+violation: 0.000758041341177
+violation: 0.000728270263432
+violation: 0.000698984279726
+violation: 0.00067029732956
+violation: 0.000642024231032
+violation: 0.000614518852076
+violation: 0.000587517867808
+violation: 0.000561179619864
+violation: 0.000535499444368
+violation: 0.000510586261601
+violation: 0.000486600973337
+violation: 0.000463163942453
+violation: 0.000440887305903
+violation: 0.000419561842195
+violation: 0.000399136404769
+violation: 0.000379474938144
+violation: 0.000360831759861
+violation: 0.000343155909526
+violation: 0.000326439978351
+violation: 0.000310646598308
+violation: 0.000295751217205
+violation: 0.000281681448022
+violation: 0.000268423833944
+violation: 0.000255932287024
+violation: 0.000244145296832
+violation: 0.000233048646952
+violation: 0.000222590057849
+violation: 0.000212727856961
+violation: 0.000203433225391
+violation: 0.000194657627202
+violation: 0.000186448297168
+violation: 0.000178767423851
+violation: 0.000171548533585
+violation: 0.000164713812677
+violation: 0.00015826149937
+violation: 0.00015217835878
+violation: 0.000146390359481
+violation: 0.000140877293975
+violation: 0.000135620954482
+violation: 0.000130603961213
+violation: 0.000125810607839
+violation: 0.000121226896339
+violation: 0.000116839557582
+violation: 0.00011263625216
+violation: 0.00010860627975
+violation: 0.00010474012747
+violation: 0.000101027946817
+violation: 9.74615014351e-05
+Converged at iteration 124
+Factorized tfidf matrix.
+Saved factorization matrices.
+
+------------------------------
+
+Reconstruction error: 330.008046311
+
+Cluster #0:
+Cluster importance: 0.0236715873391
+word: 1.710294
+language: 1.700305
+hey: 1.680714
+chocolate: 1.674771
+coarse: 1.670138
+respectful: 1.669071
+negro: 1.665644
+historically: 1.649791
+americans: 1.644607
+term: 1.627913
+perform: 0.450848
+automatically: 0.442585
+contact: 0.442263
+concern: 0.404752
+action: 0.324568
+
+71547
+Hey now, there's no need for such coarse language! Please use the word 'negro', which has historically been the respectful term for chocolate Americans.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+71546
+Hey now, there's no need for such coarse language! Please use the word 'negro', which has historically been the respectful term for chocolate Americans.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+71545
+Hey now, there's no need for such coarse language! Please use the word 'negro', which has historically been the respectful term for chocolate Americans.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+70574
+Hey now, there's no need for such coarse language! Please use the word 'negro', which has historically been the respectful term for chocolate Americans.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+71544
+Hey now, there's no need for such coarse language! Please use the word 'negro', which has historically been the respectful term for chocolate Americans.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+71543
+Hey now, there's no need for such coarse language! Please use the word 'negro', which has historically been the respectful term for chocolate Americans.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+70575
+Hey now, there's no need for such coarse language! Please use the word 'negro', which has historically been the respectful term for chocolate Americans.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+71540
+Hey now, there's no need for such coarse language! Please use the word 'negro', which has historically been the respectful term for chocolate Americans.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+70589
+Hey now, there's no need for such coarse language! Please use the word 'negro', which has historically been the respectful term for chocolate Americans.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+46093
+Hey now, there's no need for such coarse language! Please use the word 'basketball Americans', which has historically been the respectful term for negroes.
+
+
+
+----------
+Cluster #1:
+Cluster importance: 0.388761274195
+country: 1.020123
+live: 0.986624
+leave: 0.740878
+lot: 0.672886
+gun: 0.638508
+pretty: 0.635812
+life: 0.611110
+talk: 0.564761
+fact: 0.556541
+kill: 0.536834
+understand: 0.518205
+reason: 0.516910
+state: 0.514865
+problem: 0.513531
+law: 0.505047
+
+93859
+Well, as you pointed out, the government already blows a lot of money.  Money isn't some limitless resource they can just pour into every problem.  Money is an arbitrary currency that has a specific value, and is used to make trade easier, replacing a barter system.  The government can't keep spending money they don't have, that's why we pay taxes, so if they add more spending, they also have to take more money from us.
+
+Additionally, the concept of giving services or items to everyone for free, completely ignores the concept of supply and demand.  Free college for example, sounds great, but what is going to prevent people from going to college if everyone can afford to?  There isn't room in enough Universities for everyone who would want to go to school.  Further not all schools are equal, so now how do you decide who can go to what school? Higher admission requirements?  
+
+Of course, they will still be private schools so the rich kids can still go to school if they don't meet the higher standards, plus kids who grow up in wealthy families tend to score better on admissions tests thanks to private tutors and the like.  In the end, the poor kids who go to poor high schools still won't be in college, and the rich kids who go to private high schools will still be in college, the only thing that changed is now every working american is paying for the rich kids degree.
+
+Same thing with healthcare, if everyone can suddenly afford any operation at any hospital, the hospitals will become swamped, and the government will have to prioritize certain people "fairly" or just leave it first come first served.  Wait times for basic operations will increase, and quality of service will plummet.
+
+The rich will still go to non-government doctors and pay for their own healthcare, and good doctors will open their own private practices because the government isn't going to pay as well as private sector will.  In the end, the new "free healthcare" is going to end up like public defenders, only people to poor to afford good care will go to them, but everyone is stuck paying for it.
+
+So you want to get philosophical?  What gives someone the right to take stuff from others, and give them nothing in return?  Society is based on the idea that we all provide some service to the society, and we all receive the benefit of working in a society.  It doesn't matter what form of government is used or what economic structure is used, no society lasts long when people are treated as equals when they don't contribute.
+
+Different societies throughout history have used different approaches to deal with people who don't contribute.  A common authoritarian approach, used by most socialists and communists is to simply execute those the government deems useless.  For example,  NAZI(Nationalsozialistische Deutsche Arbeiterpartei, translated to English: National Socialist German Workers Party) Germany, USSR, Cuba, and China all used some form of this approach.
+
+The libertarian approach is quite the opposite, the government plays no role in dealing with the useless, and instead they die off on their own accord, or start contributing to society.  This approach has been used by most republics and monarchs(not all monarchs, a lot where authoritarian) throughout history, and while large famines and plagues have killed many in these areas, usually the government was not responsible for the deaths.
+
+So what option is the moral one, do you drag the entire society to ruins, to help the lazy?  Do you let the government decide who gets to live, and who must die?  Or do you let nature take it's course and let whatever happens happen?  Are any of these Right?  Are any of these Moral?
+
+Most people will just pick the option that benefits them the most, with governments and the elite leaning towards an authoritarian system, giving them more power.
+
+The poor and lazy will typically lean towards dragging society to ruins, as ruins may be better than how they currently live.
+
+And everyone in between tends to lean towards a more libertarian approach, protecting themselves from the harm of the other two systems.
+
+Now obviously people will convince others their system is better, either through lies, manipulation and fear, or through superior arguments, and compromise.  Unfortunately today, there seems to be more of the former, and less of the latter.
+
+End of the day, someone will be hurt by whatever system you choice, the only choice is who gets to decide who it is.
+
+9512
+&gt; Hilariously, thanks to scale, Greenland.
+
+Greenland has 50.000 people and the number of deaths was 7.
+
+For prespective, Saint Pierre and Miquelon has a homicide rate of 16, and the number of people killed was 1. In other words, greenlands is a unique example that's not relevant.
+
+
+Funnily enough, the US wins both by rate and actuall individual death  count.
+
+
+Can name a serious example?
+
+&gt;I'll say again, don't we need some common sense atheist control? Think of the children!
+
+No why would we? There's nothing in the atheist mindset that tells you to go out and shoot people.
+
+Guns on the other hand, are explicitly desinged to maim and kill.
+
+
+&gt;You conveniently ignored countries like Switzerland and the Czech Republic, even Serbia rube.
+Meanwhile gun free paradises like Cuba and Venezuela are totally doing awesome.
+I appreciate you including the quote the directly refutes you claiming that "any other normal country on earth he wouldn't have had guns to begin with".
+The swiss must have a hard time sharpshooting with bananas.
+Fail. So much for "nobody wants to takw away your guns", too. Oops.
+
+STILL waiting for you to name a single first world developed country with higher homicide rate than the US.
+
+Surely you won't have trouble naming a serious example no?
+
+&gt;Enjoy trying to explain away several gun friendly countries with lower crime rates than Glorious Butterknife-free zones like England.
+
+I wonder if you're ever going to stop trying to avoid the question and find me a first world developed country with higher homicides than the US.
+
+Can you stop trying to avoid the question I asked originally?
+
+&gt;Feel free to also attemot a defense of glorious gun free nations like Venezuela and Brazil, the former being a darling of the left until recently, when it became embarrassing to fawn over Chavez and Maduro.
+
+It's quite hillarious how you can only find examples of countries that aren't developed or first world huh?
+
+&gt;Nobody cares that you're scared of shoulder things that go up and ghost guns.
+Nobody cares that you're so insecure about your own mental health that you project the image of a pathetic human ready to violently snap on to everybody else.
+This guy had already shown all the red flags.
+
+I don't care. I live in Europe where we aren't full of crazy fuckers who shit themselves everytime someone threatens to take their guns away.
+
+Hope you enjoy that massive homicide rate though. 
+
+Before you bring up muslims, funnily enough, guns kill more people than terrorist attacks, so keep that in mind.
+
+9474
+&gt;OHHH, a unique example you say?
+Again, check out where the crime hotspots in the US are.
+Special indeed.
+Serious answer. Didn't dodge the question. You got it. Literally.
+
+Last I checked it was called the "United" states of america.
+
+Not the "We split them whenever it fits the narrative" states of america. It's a federation. Not a confederacy.
+
+&gt;Guns are designed to fire cartridges.
+
+Yes, at very high velocity whose purpose is to create holes and rupture tissue causing bruising, tearing, blood loss and eventually death.
+
+&gt;You conveniently ignored countries like Switzerland and the Czech Republic, even Serbia, rube.
+These are first world examples, genius.
+
+First world examples of what you moron? I asked you to find me a first world country WITH HIGHER HOMICIDE RATES than the US.
+
+&gt;I appreciate you including the quote the directly refutes you claiming that "any other normal country on earth he wouldn't have had guns to begin with". The swiss must have a hard time sharpshooting with bananas. Fail.
+I guess Swiss, Czech, Serbian people aren't normal Euros like the glorious butterknife and multitool-free subjects of Britain.
+
+Except they have actual gun control and actually know how to behave themselves.
+
+&gt;Funnily enough, while "gun" is not a motive, "being a militant atheist" CAN be.
+
+How so? Being a militant atheist means you don't believe in god.
+
+
+&gt;"Gun" is also not an ideology while militant atheism is.
+
+No, gun is a tool that allowes you to easily kill 30-50 people from range in a few minutes.
+
+&gt;WE NEED COMMON SENSE ATHEISM CONTROL REEE
+
+I just find it funny and ironic that you mock gun control while living in the country with the highest gun homicides in it.  
+
+&gt;I find it hilarious that you brought up muslim terrorsm then conflated an ideologically driven attack with a type of murder weapon.
+
+I find it hillarious that even after you factor everything in, you still have the highest murders and gun murders in the developed world and you somehow try to deny it.
+
+&gt;You ready a hysterical paradox when guns are used by islamists.
+
+What is that paradox?
+
+&gt;Thanks again for setting yourself up for failure.
+
+I am not. I'm still waiting for you to awnser the original question. US has the highest murders and gun murders in the world and you cannot name a SINGLE developed country with a higher murder/gun murder rate.
+
+Since the original comment you've been dodging or avoiding the question.
+
+&gt;You do this even with the benefit of retrospective editing, it's truly amazing.
+
+Any examples?
+
+51875
+Of course it wouldn't cause the country to go to hell on its own, but that doesn't mean it can't help contribute to, and start, a number of other decisions by setting a precedent. The founding fathers made the electoral college because they knew it was more important to hold the president, and pretty much any leader, to every states interest as opposed to mobs as the best way to keep them accountable. When you remove that, you run risks. That doesn't mean they'll necessarily happen, but it does mean there's the lack of a legal barrier. As many people have pointed out, a lot of first world countries also don't have freedom of speech clauses in their national documents. They get by fine without being tyrannical, but don't you just feel better with it there?
+
+Besides, this is nonsensical anyway, you'd have to get, like, 40 of the 50 states to amend the constitution to do this. Basically, get 40 entities to sign away their own state voting rights. Apparently I'm retarded for thinking that would never happen. 
+
+Also, stop comparing America to other countries, people constantly make this mistake. America is practically not a "country" in the conventional sense. It's a confederation of numerous states, some of which, are practically the size of other countries themselves. It would be more apt to compare America to something akin to the EU -- just on steroids, in my opinion. And, yes, if you try to disenfranchise the entire EU and make only one or two countries the ability to choose the leader for all of the other countries, it's not unthinkable to anticipate running into all sorts of political problems there. Countries, i.e. typically smaller entities, are much easier to manage in direct ways because they deal with much less heterogeneity of demographics, fiscal necessities, political environments, cultures, etc. That homogeneity is why a lot of less complex political structures might be required.
+
+76774
+&gt; Again, compare the nominal amount with that that's been dumped on the African nation of your choice and then compare the results. LOL. 
+
+Food aid and slavery loans from the IMF are in no way comparable to the loans and infrastructure aid done under the Marshall Plan.
+
+&gt; Google it retard, just like I did when looking into Botswana's economy. 
+
+You can find my numbers on Wikipedia. It's that easily accessible. Where are the sources for your claims?
+
+&gt; Not that I'm aware. But we can look at it by districts and the results speak for themselves. 
+
+No, they don't. Money isn't spread equally to all schools in a district, and you also have to check additional money some districts/counties get from property and local taxes, which is the main argument people come from when they talk about bad neighborhoods and low property values.
+
+&gt; And yet despite massive economic sanctions, no trading partners, and no real mineral wealth, they're STILL more successful than nearly all of Sub-Saharan Africa. LOL. 
+
+[What in the name of christ are you fucking talking about?](https://en.wikipedia.org/wiki/Economy_of_Africa#African_nations)
+
+&gt; That's not really refuting anything. I'm guessing a lot of those jobs are AA positions with the federal government, which kind of negates the whole 'left to their own devices' thing. 
+
+_"I'm guessing"_ The top employers are literally on the Wikipedia page. Also, the fact that a lot of these jobs are public sector (aside from all the private defense contractor jobs), doesn't negate that fact that their economic achievement is real. Almost all of the public sector jobs in the area are in STEM fields or Universities.
+
+&gt; I'd also be interested to see how their stats stack up against comparable communities of colorless, but I'll abstain for the time being. 
+
+Colorless? What does that mean? There are no completely white counties in the country. And that data would be irrelevant to the point that blacks are still capable of the same achievement levels as whites.
+
+&gt; Ummm, I went and looked it up. Google 'Botswana Economy' and that'll get you started. 
+
+That is not how you source an argument. You are making the claim. You need to bring that evidence to your argument, or you lose. That's how argumentation works.
+
+&gt; Nokia and Sony maybe or may not be involved in that. I guess I should have said 'electronics' instead of smartphones, but what  I meant is that  they have the intellectual capital to produce hi-tech goods. 
+
+You are comparing developed economies to develop-ING economies. Again, Botswana do the rest of the countries I've mentioned have made quantum leaps in GDP and quality of life since decolonization only 50 years ago. Botswana is famous for having developed its infrastructure and economy _after_ colonization, making it totally native. It's GDP growth is &gt;4.3% for 2017, beating out every Western European country and the US. 
+
+&gt; Not at all. Because white people were building civilizations thousands of years ago. Not all white people, mind you-- as I've stated individuals are still individuals, but there's clearly a trend here. 
+
+Now you're just shifting the goalpost. How the hell do you define 'building civilization'? Every human group in the world has been building civilization for the last 10,000 years. 
+
+It seems like you, and everyone else making these arguments, are just completely ignorant of African history, and the legacy of Colonialism. You weren't taught it in school, so I don't blame you. But don't mistake your ignorance for African failure. You are the one who needs to learn. Africans are not subservient or inferior, they are just getting started after being leeched on for over 200 years.
+
+Again, my position in all of this is not that everyone is 100 equal to everyone else, but that all humans are capable of growth and taking advantage of opportunity. The differences we see are the result of environmental factors and recent historical problems. 
+
+Europe wasn't even the center of civilization until around the turn of the BC to AD, and that was Southern Europe. Western and Northern Europe didn't even advance past tribal huts and animal skins until the medieval era of about 500-1000 years ago.
+
+&gt; Same story in Korea, except without the natural resources. Put Koreans in Africa and you'll get something that looks like.well, South Africa. 
+
+You mean if I were to take a bunch of Koreans, strip them of any wealth they have, put them in a shanty town and leave them there and see what happens, they would end up creating South Africa? Amazing how we can just make up scenarios out of nowhere and act like it is proof of our arguments because it validates our previous beliefs.
+
+25068
+&gt;1) Small countries can prosper, but it’s still weak and lacks money, many countries including Venezuela have lots of natural resources get robbed of their wealth by imperialistic countries (mostly the US, many of the European countries, and China). These countries are weak so they need protection and “alliance” with these imperialist countries to survive. However this traps them in a cycle of exploitation that is hard to break free from.
+
+  Natural resources don't equal wealth until they're transformed and they aren't robbed of them if they get money for them. The point how "Venezuela was harmed by high interest rates" is the point how Venezuela couldn't sell their oil. A.k.a it couldn't "get robbed".
+
+&gt;No African country has a high degree of economic freedom
+
+  Without economic freedom there is no capitalism and the free market. That is to say, no African country can therefore be used as a proof of failure of laissez-faire capitailsm. 
+
+&gt;Venezuela has plenty until the imperial raise of interest rates nearly halved its GPA. 
+
+  Venezuela's economic freedom has been falling for years. 
+
+&gt;When you say other communist shitholes I assume you are referring to the USSR. When the communist revolution started and Lenin went into power the USSR had plenty of economic freedom and prospered, communism propelled Russia from a peasant country to a worldwide superpower. However when Stalin got into power the government went full corrupt and a series of event due to this had its population end up starving so the key supporters of the dictatorship could prosper. I do acknowledge the fact that a dangerous thing about socialism is the possibility of government corruption.
+
+  I mean other communist shitholes, including USSR. 
+
+ You obviously have no concept of economic freedom and I'm not sure you have a concept of prosperity either. Also, you probably have no concept of the Red terror and murdering of Kulaks, great famine of 1921 when the communist government exported large quantities of Russian grain while "suspiciously monitoring" the food relief sent by U.S through "American Relief Administration". Five million fucking people died. When he finally died in 1924, the USSR was in no sense a "greater superpower" than it was during the Russian empire and people sure as hell were no richer. 
+
+&gt;The government is at fault for letting medical prices rise to such incredibly high amounts. Their are multiple countries that have absolutely free health care which doesn’t come with any problems. 
+
+  The U.S government is at fault for forcing medical prices to rise to such incredibly high amounts. Instead of having a fully free medical market, the protected minority are able to get obscenely rich from the money government is funneling to them. That is not a free market and capitalism cannot be blamed for that. 
+  And no, there is no such thing as a free healthcare, some people just pay for it in other ways depending on the system. 
+
+&gt;Many people are born Into poverty and when someone is born into poverty they struggle to get a good influence and education. This ultimately leads to a massive struggle to get a good amount of income and very commonly leads to failure of being able to afford healthcare.
+
+  And people struggle to have good healthcare in majority of countries where it's "free" and the market isn't. In fact, there is strong scientific evidence to suggest that free market countries have [lover infant mortality rates](http://www.heritage.org/sites/default/files/~/media/images/reports/2013/09/sr%20139/sreconomicfreedomsocialgoodschart8825.jpg), [higher purchasing power](https://qph.ec.quoracdn.net/main-qimg-5a0823ee04bf076f2bb034faa9479232) and [far lower poverty rates](https://images.dailymaverick.co.za/images/resized_images/600x446q70Economic-Freedom-Chart-3-copy.png). All of which suggests that poor people are better off in free market, capitalist countries than in repressed, socialist countries. 
+
+76789
+&gt; Thats wrong  on so many levels
+
+Do you actually read what you cite? Because I found this in less than 10 seconds
+
+&gt; _"Scarr &amp; Weinberg (1976) interpreted the results from age 7 suggesting that racial group differences in IQ are inconclusive because of confounding of the study. They noted, however, that the study indicated that cross-racial adoption had a positive effect on black adopted children. In support of this interpretation, they drew special attention to the finding that the average IQ of 'socially classified' black children was greater than that of the U.S. white mean. The follow-up data were collected in 1986 and Weinberg et al. published their findings in 1992; they interpreted their results as still supporting the original conclusions."_
+
+&gt; Yes, being surrounded by ~~white~~  wealthy, free-market, industrialized nations is beneficial
+
+FTFY
+
+&gt; Yes, being surrounded by ~~black~~ poor, war-torn, non-free market, authoritarian nations isnt beneficial.
+
+FTFY Again
+
+&gt; So.. they are like 7 times lower? Even after decrease in crime, white nations have less criminality. Sound legit to me.
+
+Ah selective vision, sad to see. You missed the fact that Russia has a higher murder rate than Ethiopia? You missed that fact that Ethiopia decreased its murder rate 31-fold in less than a decade? 
+
+It seems to me that you don't understand that recent war status, authoritarianism, and prior status of being colonialized correlate higher with crime and poverty than race.
+
+&gt; And as for Russia... It takes migrants from central asia. [1](http://eng.globalaffairs.ru/valday/Labour-Migration-from-Central-Asia-to-Russia-in-the-Context-of-the-Economic-Crisis-18334)
+ East of Volga is practically non-white.
+
+I call bullshit on two things. First, You don't get to just make up random criteria like "oh these people aren't white enough even though I have no genetic evidence to support this claim." Second, like 90% of the Russian population lives in the European part. Do you have any evidence at all that the murders in their country are solely happening in the outskirts? No, you don't.
+
+&gt; It also has largest muslim populatin in europe, together with Bosna and Macedonia. This isnt helping your cause, buddy. 
+
+I don't care about what bullshit about religion you want to pull out of your ass. We're talking about genetic differences and race, not religions and ideologies. You are trying to avoid the factual reality by bringing random shit that has nothing to do with genetics or race into the equation.
+
+&gt; You are comparing the biggest hellhole in Europe to average africa, and europe is stil doing better in every aspect. Kind of funny when i think about it.
+
+Not in that area it isn't. Eastern Europe is literally falling behind African/black majority countries countries that just came out of war and colonialism. All you people do is look at the worst aspects in current Africa, claim that this is the best possible situation without any evidence to back that up, and then jerk off thinking about how the white revolution to save da whiteskin is just around the corner.
+
+&gt; "Their lands lie in the middle of the world's richest diamond field"
+
+&gt;"Gabon's economy is dominated by oil. Oil revenues comprise roughly 46% of the government's budget, 43% of the gross domestic product (GDP), and 81% of exports."
+
+This is the third time I've had to say this:
+
+## What point are you even trying to make here
+
+Is [Norway's economy](https://en.wikipedia.org/wiki/Economy_of_Norway?wprov=sfti1) suddenly illegitimate because it is mostly predicated on oil and petroleum exports? 
+
+Or is this only a bad thing when Africans make use of their resources to grow their economies and spread the wealth around the country?
+
+&gt; The tourism industry generates over 50% of the country’s foreign exchange. 
+
+Once more, who cares? What is your point in saying this? Is tourism not a legitimate industry? Are the services and jobs predicated around the industry somehow not earned?
+
+Even if you completely removed the tourism industry(for whatever pointless reason), that would put their GDP per capita equivalent to that of Georgia, Paraguay and Ukraine.
+
+&gt; Also: "The European Union is assisting Barbados with a €10 million program of modernisation of the country's International Business and Financial Services Sector"
+
+Oh, 10 million euros? On the scale of of a country? An amount that isn't even 1/10th of 1% of their economy? In a country with less than a quarter of a million people?
+
+The fact that you even brought this economic deal up shows how deluded by ideology you are.
+
+&gt; They never had any oil reserves nor were top tourist destinations. But keep trying.
+
+I guess no one wants to go there because they're ugly and dangerous. Not the Africans' fault.
+
+[Also](https://en.wikipedia.org/wiki/Economy_of_Serbia?wprov=sfti1)
+&gt; "Serbia has an abundance of coal, and significant reserves of oil and gas. Serbia's proven reserves of 5.5 billion tons of coal lignite are the 5th largest in the world (second in Europe, after Germany)."
+
+&gt; Yeah they did,not because being black but  DESPITE being black. 
+
+What does that even _mean?_ By definition, the country is successful because the people make it successful. If there was no maintenance and local industry, no one would go to these places.
+
+You have 0, count em, 0 sources or citations that show that the black population of these countries are a hindrance to their growth, or that if you swapped these people out for whites or Asians without any additional wealth or resources, there would be any addition growth.
+
+You are going off of your feelings, not facts. And it the most pathetic thing about you and everyone else who makes these arguments.
+
+&gt; They are succesfull not because of their population but becasue of other people who spend millions  to get there.
+
+People who spend millions to go where all these black people are and not where those Eastern European whites are. Hmm.
+
+&gt; [This ?](https://media-cdn.tripadvisor.com/media/photo-s/01/6c/80/7d/great-zimbabwe-monument.jpg)
+
+Yes. They're ruins. And that isn't the whole site. What's your point?
+
+&gt; Buddy, you are the one who brought it up. You are the one who started comparing Ethiopia to post-socialist ukraine and post-war bosna. 
+
+No I didn't. I didn't bring up Ethiopia at all. You did. 
+
+&gt; _"Okay lets try something else._
+
+&gt; _Ethiopia was naver[sic] a colony of any european country. They should be the most developed country in africa, amirite?"_
+
+
+This was the first time Ethiopia was mentioned in the discussion. I then argued why their situations were not equivalent.
+
+But I wouldn't expect you to remember that. You're a cultist defending dogma without evidence, it happens all the time.
+
+
+
+5502
+&gt; Yet nobody's been able to say where it's wrong. It's almost as if people are just downvoting because they don't like the comment.
+
+"I'm not wrong, I'm totally providing flawless arugments, its everybody else that's wrong!"
+
+That doesn't sound delusional at all....
+
+&gt;We've also had no terrorist attacks since 2007
+
+That'll change real quick if your island keeps importing migrants. 
+
+&gt;My point is more that Americans are far less likely to leave their country
+
+Okay. And?
+
+&gt;so I doubt you're in a good position to comment on what's happening in other countries.
+
+And yet you are? What sort of double standards are you operating on?
+
+&gt;When was the last time you were in the UK?
+
+
+2008, What's the point? When was the last time you came to the US? Have you ever left your country? England doesn't count. Are *you* able to comment on other countries you never went to?
+
+Well good thing I'm not an idiot like you because you DON'T have to go to a country to formulate an opinion or pontificate if what that country's policies are right or wrong. I don't have to go to Venezuela to know that it is a hellhole. I don't have to go to South Africa to know whites are being persecuted. I don't have to go to Sweden to know there are no go zones. I don't have to go to France to know there are 'aesthetic' barriers for peoples protection against terrorists.
+
+You could argue "well its just media lies" yet I too can argue the same thing for you, so it would be a moot point. 
+
+&gt;Well done on comparing a country of 323.1 million to a continent of 743.1 million.
+
+I didn't. The terrorists attacks happening in Europe aren't created by citizens, dumb dumb. 
+
+
+&gt;How many mass shootings have there been this month?
+
+Apparently a shooting of 1 with fatality of 0 counts as a mass shooting. I guess if I shoot my non existent gun in the air it counts as a 'mass shooting.'
+
+
+
+Btw, most of those 'mass shootings' happen in big liberal cities with heavy gun laws. 
+
+&gt;The gun laws are working!
+
+I know you're trying to mock me but FYI I'm against heavy gun regulations since it doesn't apply to criminals. Nice try tho, mimicry is the highest form of flattery they say.
+
+
+By the way, I don't think you guys are allowed to be smug about gun violence if acid attacks are on the fucking rise and happening almost daily on your island.
+
+https://www.scotsman.com/news/politics/calls-for-number-of-scottish-acid-attacks-to-be-made-public-1-4529761
+
+http://www.dailymail.co.uk/news/article-4462016/Two-acid-attacks-Britain-DAY-figures-show.html
+
+https://www.usatoday.com/story/news/world/2017/04/27/acid-attacks-rise-united-kingdom/100739780/
+
+https://www.thesun.co.uk/news/3451514/britain-hit-by-rise-in-acid-attacks-as-700-are-maimed-by-weapons-made-from-household-products-in-a-year/
+
+
+&gt;It has now emerged that the incidents of acid attacks are not recorded in Scotland, making it difficult to gauge the extent of the problem.
+
+Good job Scotland. 
+
+Huh, turns out if you ban and dump all the guns into the ocean people will find other ways to kill other people through other means without fear of retribution, imagine that. 
+
+Thank god those rape gangs in the UK don't have guns, amiright? 
+
+&gt;I never said total Americans, you inferred that.
+
+You said "6% of your own citizens." Which, without specifying a cap, imples 6% of our total citizens. You can argue semantics all you want, because that's all you have, but you can't weasel out of this one. You fucked up, just admit it. Unless you want to admit you were trying to be deceptive. So pick one.
+
+Also, you guys really can't talk on kids who fail geography when you have [a Uk born rapper that thinks England is a city.](http://knowyourmeme.com/memes/england-is-my-city)
+
+Nevermind the fact your island is infested with chavs that can barely locate where the island is they're living on or anything else for that matter.
+
+
+
+&gt;You obviously don't know what battered wife syndrome is.
+
+&gt;&gt;proceeds to link something different.
+
+Well, we already know you're not the brightest bulb in the room. 
+
+Huge difference between the case of Battered Women Syndrome(UK) that you read only the top paragraph of off of wikipedia, and the medical definitions
+
+&gt;[With battered woman syndrome, a woman may develop a learned helplessness that causes her to believe she deserves the abuse and that she can’t get away from it.](https://www.healthline.com/health/battered-woman-syndrome) 
+
+&gt;Women become trapped in abusive relationships for many reasons, which can include:
+
+&gt; * being afraid to leave
+
+&gt; * disbelief or denial that the partner is actually abusive
+
+&gt; * severe depression or low self-esteem that makes them think the abuse is their fault
+
+&gt; * believing that if the abuser loves them, it’s okay, and they can change the behavior
+
+And various other reasons why someone would stay or return to that situation. 
+
+You get your ass verbally kicked and you come back for more like its a guilty pleasure. You trying so hard to be specific with it just makes you come off as an autistic spud. 
+
+
+
+62211
+Sorry for being late too.
+
+&gt; it forces its citizens to do certain things (i.e. assign monetary value to basic necessities) based on what it does want.
+
+And they aren't trying to hide it. It's all business in the end, and it's openly said in capitalism. (Whether this is correct or not is both relative and irrelevant to the discussion)
+
+&gt; a Marxist society involves one class: the proletariat/working class. They make the decisions and govern.
+&gt; Who is "they"? The workers are the ruling class.
+&gt; Because that's not the definition of feudalism? Feudalism is simply a system with a line of command such that king &gt; nobles &gt; vassals &gt; peasants. 
+
+The workers never rule anything, they never have, and they never will. In all communist countries the ones who always rule are the communist party (composed mainly of politicians and soldiers) which end up being the government by force and, as a rule of thump, remove the opposing parties to ensure their staying while killing anyone who disagrees. All workers do is get killed if they disagree or suck it up, they have no influence whatsoever in the country they live in. There is never a consent or warranties that the workers will even get properly taken care of, despite the million imposed rules saying they will (which includes payment).
+
+Feudalism is both a system of command, and a class-based system that dictates who should who will get preference in certain services, as, to give an example, peasants would never have the same benefits nobles would have no matter what. And keeping this in mind, communism follows the same troop with the government &gt; people that work close to it (like organizations that work for them or their relatives) &gt; their military &gt; the workers (who can never get proper services, not because they lack money, but because said services are inefficient).
+
+&gt; Corruption is not unique to communism; in fact, it is rampant in just about every capitalist system.
+&gt; Again, none of this is unique to communism. There are capitalist countries with extremely poor public services and high poverty rates (Brazil, DROC, Haiti, etc)
+
+I'm not saying that Capitalism is immune to corruption nor am I saying (in case I might sound like i'm suggesting it) that is a perfect system in any way, shape or form. I'm fully aware that their system only benefits a small portion of the population.
+However when a Capitalist country goes corrupted it doesn't take that long to change it, since it's power is divided between many other organisms, while in Communism is hard because there is only one party. Not to mention restoring a Capitalist country that has been corrupted is far easier than a Communist one, since these one always live the country in inhumane, barely saveable states (look at China who had to change it's ways because people dying in the streets due to hunger became a more common than dead animals). And while yes, there are capitalist countries with awful public services, at the very least anyone can have a shot at trying to reach for higher quality (even though yes, richer families will have an advantage) and, in most cases, without being with the system. That alone makes it a lot more appealing than a communist country where, unless you are pro-system, you are doomed to shitty pay that everyone gets regardless of their work and awful services regardless of the money you save.
+
+20158
+Whelp there we go again with the names. Really makes you come across as a bitter person. Anyways I'm not the most political savvy person and I'm positive some of the Trump supporters more involved with studying politics would have better answers but I'll at least try my best. 
+
+One thing to remember is that a lot of these "dismantlings" of gvt agencies are due to the idea that we are spending money on things that aren't necessary. It should be readily apparent the gvt whether blue or red is far from efficient. Why dump money in various agencies who while the idea behind them is great they rarely do enough for their budget to make sense. I mean the EPA under Obama in a top to bottom blue area allowed the Flint water crisis. In fact it seems the public outrage was the only way things started to change (which was the people's doing not the EPAs).similarly the Paris accord for instance had great intentions. But if you looked into it the US had by far the strictest regulations while India and China had far more leeway despite being much bigger contributors to the problem. 
+
+I don't believe Trump himself wants to ruin net neutrality (inb4 you post an article lol) but regardless if we end up with some system like Portugals where we pay for sites separately I'd be sorely disappointed in him. Again I don't think this is where he wants things to go but we will see  
+
+Tax cuts brings economic growth. I mean look at our stocks. Every day I check the DOW etc I'm seeing growth. I've read far far more in depth explanations but I'd embarrass myself trying to explain the intricacies of the economic theories behind it. I'd suggest asking in that Trump supporters sub maybe they'll do better. 
+
+This I would have to say is very subjective. I'm sure there are leaders that dislike Trump but plenty of them do like him and so far I've seen respect from the countries that matter (e.g. China, Saudi Arabia, japan,South Korea, etc). It's really not a priority to stroke the egos of the EU as his policies and those of his voters directly go against many of the EU's own. Less globalization, stricter national identities and borders, no centralized government (aka another country cant vote on my country's decisions) etc. 
+
+I think the issue with healthcare right now is too much disunity between parties and even in the republicans themselves. Blues don't want to admit Obama care is shit and repeal replace it and reds are being stubborn assholes unable to throw together a comprehensive plan after bitching for 4 years. I'll say this if I werent insured through work I'd pay nearly a third of my salary a year for mandatory healthcare before even hitting deductibles. That's pretty shit in my view. 
+
+I'm interested in your drone strike numbers. I'll have to do my own research but as far as I'm aware drone strikes became mainstream and most commonly used under Obama. Hell the left's hero Oliver even rips the use to shreds and that was long before Trump was in office. 
+
+If by fighting domestic terrorism you mean gun control I guess that's just an issue blues and reds will always argue. But more often than not these shooters get their guns legally through all the loopholes and background checks pushed through by liberals and how many shootings happened in gun free zones? Aka schools, offices, etc. I agree that change needs to happen but considering how much shit terrorists can do in places like UK and France with super strict gun laws I don't think that's a solution here. 
+
+The border wall is not a new thing. It was championed for years by both reds and blues (I believe Hillary herself advocated for one not so long ago) but now that identity politics has become such a stronghold of the left it's now an issue of racism as you so perfectly brought up. Wanting secure borders is. Not. Racism. I have absolutely no problem if a Hispanic family wants to start life in the usa. But they can do it legally like so many other families before them. It's not racist for me to be irritated that people continue to break the law and the left celebrates them for doing it. And what about the border wall on Mexico's southern border? Without borders there are no countries. Without borders governments lose credibility. If we let millions of Mexicans or hell even Canadians come into the country without regulations and they vote guess what that's foreign involvement in our political system. I'm all about making the entry process easier (Trump also campaigned on this) but it's hard to take anyone seriously who sees no problem with millions of people breaking the law and then rewarding them with citizenship. 
+
+So that's about it. Just spent 30 odd minutes typing this out on my phone while my dogs play in our fenced in area. I'm just a normal dude who at your request tried his best to supply at least some rudimentary answers. Hope it helped give some insight. I was born in the suburbs but spent a quarter on my life on a farm. I now live in the city. The closest thing I have to a second dad is a black man who loves me like his own. I have a minor degree in Spanish simply because I enjoyed learning about the culture (and damn if they don't make amazing food). I started out supporting Bernie before doing more research and narrowing down my beliefs and the practicalities of implementing some of the "sounds great in theory but is awful in practice" Bernie was proposing. Hell if you want go look up that ask Reddit thread about redditors experiences with Trump before he ran for office. Almost every single answer is overwhelmingly positive. He only became demonized when he went against the grain. I truly believe he's a good man deep down and wants the country to succeed. Why else spend the latter years of your life being endlessly dragged through the mud day in and day out? He would have quit by now if he wasn't truly dedicated to the office. Anyways I gotta go get back to the house and cook dinner so i hope you have  a blessed night 
+
+----------
+Cluster #2:
+Cluster importance: 0.0369641590379
+white: 4.890500
+race: 0.362590
+supremacist: 0.282975
+racism: 0.238331
+minority: 0.205048
+hate: 0.203320
+jews: 0.203015
+skin: 0.195203
+color: 0.187897
+privilege: 0.185584
+genocide: 0.183160
+male: 0.179122
+anti: 0.145383
+group: 0.139330
+culture: 0.125502
+
+101800
+It isn't about you. You don't get to co-opt the white reaction to white countries being flooded with non-whites calling whites racists.
+
+113982
+But it's not saying being white is great. It's not saying "stop opressing white people". It says it's okay to be white. 
+
+That's it.That's the whole message. Whatever context you tack on is just that, context you tack on. It's a blank page with the words "it's okay to be white."
+
+It's okay to be white. It's not great, it's not evil, it's not the best. It's okay. That's all it is. 
+
+It's okay to be white.
+
+28132
+The word "diverse" means anti white or non-white, also if by anti white you mean are not white then yes black people are not white people 
+
+40439
+She said all of us white people, including her self in that equation. 
+
+You’re the one who put these together in an attempt to say  white Jew=/= white. 
+
+98761
+&gt;It's not okay to be white!
+
+&gt;It's okay to be white.
+
+&gt;REEEE VICTIMIZATION COMPLEX NO ONE'S SAYING IT'S NOT OKAY TO BE WHITE
+
+18662
+(((They're))) included in whites, so whites look worse (makes whites looks overrepresented, when most of those whites are really (((chosen)))).
+
+20336
+So you're saying it's not ok to be white....but what IF I am white...and I know of think it's pretty good.
+
+70233
+Ovbiously wthe white racae is getting pshed out by Left and even the whit leftis are being pushd out in the naem of "I HATE WHITE PIPO" and white gen ocide
+
+32974
+And that's telling you that it's not okay to be white? I don't get that part, seems little snowflakey to take that as being told it's not okay to be white..
+
+8468
+Come on now. She just wants what all the white people have, and by all white people I mean that one white person that has what she doesn't. All without having to work for it.
+
+----------
+Cluster #3:
+Cluster importance: 0.0547410735398
+fuck: 4.906301
+retard: 0.425706
+stupid: 0.282128
+dude: 0.218185
+literally: 0.150180
+ass: 0.136062
+bitch: 0.134856
+idiot: 0.131547
+jesus: 0.121656
+dumb: 0.121470
+faggot: 0.112150
+hate: 0.105732
+seriously: 0.104994
+bullshit: 0.104257
+wife: 0.103900
+
+60057
+&gt; just want to make sure we're not being fucking retarded lol.
+
+When the fuck has that stopped us before!
+
+850
+Thank you. They want to make him a fucking penguin. So many retards sperging out for no fucking reason in these comments. A fucking penguin.
+
+31991
+&gt;  fuck monkey 4channers 
+
+Oh man. Regardless of what you were trying to say, you can't just say "fuck monkey 4channers" while you're on fucking reddit. 
+
+33620
+Well if 200k people want x and only 1 wants y, why the fuck do we cater to the 0.001% of the sub?
+
+1606
+reddit?   
+  
+why'd you blank names out. you don't have to do that. I wanted to see what the fuck this was. 
+
+97433
+Jyn Erso, Rey, Iden Versio, Ciena Ree, Mara Jade, Jaina Solo, Captain Holdo, Mon Mothma, Bastila Shan, Ashoka Tano, Asaji Ventress.
+
+Fuck, I'm exhausted.
+
+16117
+What the fuck is this? 
+
+Why the fuck do I even go to this subreddit, it’s scarred me more than once.
+
+77322
+Do all of you actually just not know how to fucking read? This is like, something a fourth grader would do. 
+
+79779
+Yeah its fucking infuriating. I was the one who got him to stop going on imgur and use reddit instead.
+
+53453
+ITS REALLY FUCKING SERIOUS GUYZZZ JEEEEZZZZ OMHGGG SO SERIOUSHHHHH
+
+Get a grip you fucking bellend. It's the memeternet. Not serious.
+
+----------
+Cluster #4:
+Cluster importance: 0.013351687329
+^|: 2.845324
+=: 1.988793
+message: 1.055927
+compose?to: 1.029455
+^: 0.863689
+wikitextbot: 0.845438
+^exclude: 0.844901
+ban: 0.642845
+|: 0.517118
+wiki: 0.507254
+`: 0.437897
+cringeanarchy: 0.431883
+^to: 0.422569
+kittenswolf: 0.422450
+^donate: 0.422450
+
+54284
+**Meninism**
+
+Meninism is a semi-satirical gender equality and men's rights movement. Its followers are known as meninists.
+
+***
+
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/CringeAnarchy/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot) ^| [^Donate](https://www.reddit.com/r/WikiTextBot/wiki/donate)   ^]
+^Downvote ^to ^remove ^| ^v0.28
+
+53979
+**Nothing**
+
+Nothing is a concept denoting the absence of something, and is associated with nothingness. In nontechnical uses, nothing denotes things lacking importance, interest, value, relevance, or significance. Nothingness is the state of being nothing, the state of nonexistence of anything, or the property of having nothing.
+
+***
+
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/CringeAnarchy/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot) ^| [^Donate](https://www.reddit.com/r/WikiTextBot/wiki/donate)   ^]
+^Downvote ^to ^remove ^| ^v0.28
+
+54346
+**Trisomy**
+
+A trisomy is a type of polysomy in which there are three instances of a particular chromosome, instead of the normal two. A trisomy is a type of aneuploidy (an abnormal number of chromosomes).
+
+***
+
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/CringeAnarchy/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot) ^| [^Donate](https://www.reddit.com/r/WikiTextBot/wiki/donate)   ^]
+^Downvote ^to ^remove ^| ^v0.28
+
+54241
+**Yasuke**
+
+Yasuke, (variously rendered as 弥助 or 弥介, 彌助 or 彌介 in different sources.) (b. c. 1555–1590) was a samurai of black African origin who served under the Japanese hegemon and warlord Oda Nobunaga in 1581 and 1582.
+
+***
+
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/CringeAnarchy/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot) ^| [^Donate](https://www.reddit.com/r/WikiTextBot/wiki/donate)   ^]
+^Downvote ^to ^remove ^| ^v0.28
+
+54329
+**Haley Paige**
+
+Maryam Irene Haley (December 30, 1981 – August 21, 2007), better known by her stage name Haley Paige, was a Mexican American pornographic actress.
+
+***
+
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/CringeAnarchy/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot) ^| [^Donate](https://www.reddit.com/r/WikiTextBot/wiki/donate)   ^]
+^Downvote ^to ^remove ^| ^v0.28
+
+54427
+**Quisling**
+
+Quisling (; Norwegian pronunciation: [²kvisliŋ]) is a term originating from Norway, which is used in Scandinavian languages and in English for a person who collaborates with an enemy occupying force – or more generally as a synonym for traitor.
+
+***
+
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/CringeAnarchy/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot) ^| [^Donate](https://www.reddit.com/r/WikiTextBot/wiki/donate)   ^]
+^Downvote ^to ^remove ^| ^v0.28
+
+54373
+**Conservative Revolutionary movement**
+
+From a page move: This is a redirect from a page that has been moved (renamed). This page was kept as a redirect to avoid breaking links, both internal and external, that may have been made to the old page name.
+
+***
+
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/CringeAnarchy/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot) ^| [^Donate](https://www.reddit.com/r/WikiTextBot/wiki/donate)   ^]
+^Downvote ^to ^remove ^| ^v0.28
+
+53960
+**Joose**
+
+Joose (phonetically pronounced like "juice") is a flavored malt beverage introduced by United Brands Co. in 2005. Joose is the first premium malt beverage at 9.9% ABV in a 24 oz can. It is also sold at 12% ABV and 14% ABV in a 23.5 oz can.
+
+***
+
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/CringeAnarchy/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot) ^| [^Donate](https://www.reddit.com/r/WikiTextBot/wiki/donate)   ^]
+^Downvote ^to ^remove ^| ^v0.28
+
+53985
+**United States Presidential vacations**
+
+Presidential vacations have often been contentious and a source of criticism for presidents throughout history.
+
+***
+
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/CringeAnarchy/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot) ^| [^Donate](https://www.reddit.com/r/WikiTextBot/wiki/donate)   ^]
+^Downvote ^to ^remove ^| ^v0.28
+
+54003
+**Taqiyya**
+
+From a page move: This is a redirect from a page that has been moved (renamed). This page was kept as a redirect to avoid breaking links, both internal and external, that may have been made to the old page name.
+
+***
+
+^[ [^PM](https://www.reddit.com/message/compose?to=kittens_from_space) ^| [^Exclude ^me](https://reddit.com/message/compose?to=WikiTextBot&amp;message=Excludeme&amp;subject=Excludeme) ^| [^Exclude ^from ^subreddit](https://np.reddit.com/r/CringeAnarchy/about/banned) ^| [^FAQ ^/ ^Information](https://np.reddit.com/r/WikiTextBot/wiki/index) ^| [^Source](https://github.com/kittenswolf/WikiTextBot) ^| [^Donate](https://www.reddit.com/r/WikiTextBot/wiki/donate)   ^]
+^Downvote ^to ^remove ^| ^v0.28
+
+----------
+Cluster #5:
+Cluster importance: 0.0382731479918
+woman: 4.371466
+rape: 0.440618
+sex: 0.265173
+gender: 0.246921
+feminist: 0.240541
+wear: 0.228442
+male: 0.222204
+female: 0.213494
+trans: 0.160950
+sexual: 0.159058
+girl: 0.143473
+fat: 0.137261
+child: 0.132749
+feminism: 0.113129
+body: 0.098564
+
+3856
+Really? This is the future WOMEN as a whole chose? I'm pretty sure not all women thought that trans women should be able to compete in women's sports.
+
+52777
+This is untrue. Stong women on testosterons or trangender women can easly over power a wheelchair manscum and force reproduction. 
+
+
+Edit: i know a tran wpman could only get impregnated by transnwoman or vwomyn. 
+
+16979
+What do they do about men that identify as women? Do they only pay women that are born as women?
+
+80304
+So women need stood up for now? The world is so patriarchal that women can’t get anywhere without a man looking out for them? 
+
+2127
+&gt;Ok thanks for the information
+
+no problem!
+
+&gt; I'm pretty sure most of the doxxing is done by other women
+
+correct, this is also mentioned in the article. however, because it's anonymous, you never know who's posting (could be a vengeful ex)
+
+&gt;why did it specify women if both men and women are being effected.
+
+as I said, it happens to both women and men, but mostly women, according to the writer. I did not write the article nor did I make the title, but I imagine it's because most of the victims are women. 
+
+95205
+Pftt,  implying I don't know what women want after I already saw "what women want " with mel Gibson 20 times 
+
+107005
+Ok thanks for the information, but two things. I'm pretty sure most of the doxxing is done by other women.Also, why did it specify women if both men and women are being effected. 
+
+39535
+"I look like a woman, and someone mistook me for a woman, and I was embarrassed because I am not a woman, therefore I know what it's like to be a woman"
+
+Did I read this right
+
+84586
+These are not women though.  You are using a post that doesn't have women in it to say that people are women-hating.  That makes no sense.
+
+62556
+Didn't CK ask women if he could masturbate in front of them and then only do it if they said yes?
+
+----------
+Cluster #6:
+Cluster importance: 0.0443367226295
+shit: 4.500355
+piece: 0.376710
+holy: 0.282115
+stupid: 0.198271
+talk: 0.170508
+dumb: 0.141567
+kind: 0.120342
+dude: 0.117036
+retard: 0.112370
+start: 0.108983
+ass: 0.103480
+eat: 0.102759
+faggot: 0.096292
+happen: 0.092231
+meme: 0.088286
+
+114152
+I don’t get this. Literally everyone who ever lived had to get shit for being a freshman in high school. I got shit when I was a freshman, and when I was a senior I dished it out. The freshman I gave shit will in turn give shit to the freshman of their class when they’re seniors. Nobody is alone in freshman hate. 
+
+40363
+If you aren't a peice of shit who does shit like that I don't see why you would have to worry....
+
+117620
+Yeah I'm going to take time out of my day to get involved in shit that has nothing to do with me.  What am I?  Old and retired?  I got shit to do.
+
+68722
+Yeah, but to not give a shit first you'd need to be aware that these shorts look goofy. 
+
+That's how not give a shit works, people. You can't not give a shit by being clueless.
+
+25956
+They can't possibly think this shit is okay because if it was the other way around it would be a damn shit storm. Smh. 
+
+10469
+&gt; provides me with confidence in the way I look.
+
+I also have confidence in the way I look... because I don't give a shit. 
+
+
+
+106618
+Why do you give a shit about how he likes his steaks? DAE DRUMPFT GOT TWO SCOOPS OF ICECREAM IMBESH NAO!1!!1!1
+
+74582
+Aw shit has natty gone off the rocker and into stalins grave, because that's the vibe I'm getting from this
+
+105060
+Lol post Malone is the epitome of being yourself and not giving a shit what anyone thinks, and doing what you want to do. 
+
+90690
+He overdosed because he was given xans  laced in fent, there’s some shit going on and it may have been purposelly given to him
+
+----------
+Cluster #7:
+Cluster importance: 0.0387714083032
+guy: 4.316284
+cop: 0.393691
+shoot: 0.368053
+girl: 0.345428
+kill: 0.250878
+swat: 0.163346
+police: 0.158737
+dude: 0.148892
+gun: 0.138962
+fat: 0.113741
+situation: 0.111013
+picture: 0.108360
+wife: 0.104868
+nice: 0.104101
+officer: 0.100510
+
+97821
+Snape is seen as the bad guy by the protagonists throughout the series but he is actually a good guy.
+
+88157
+The other guy downvoted the OP who posted the recipe (which was actually good), the guy who made the joke and the other guy who was playing along. And then posted it onto CringeAnarchy with his own comment while missing the joke. But sure, the other guy is right �� Are you his alt? 
+
+13922
+Went to go look and then glance through this guys history —
+
+Pretty sure he’s this David Pakman guy and he posts nothing but shit like this.
+
+76321
+The guy who made up the address isn’t who I am talking about. 
+
+Reread the article. 
+
+Two guys play video game.
+
+They lose bet
+
+Guy one gives guy two a fake address (probably recognizing he was unhinged)
+
+Guy Two (who should go to jail) gave the address to a known swatter (guy three)
+
+Guy three calls police. 
+
+Guys two and three should go to prison 
+
+81756
+I think the guys in montana of 300 crew made a better remix. I can't take a guy with rainbow hair and 69 tatted on his forehead serious.
+
+75229
+So who is this guy? Must have some notoriety but all I'm getting when I Google is the mma guy
+
+29388
+Ayooo 
+
+SO 
+
+guys hol up
+
+SO YOU BE SAYIN DAT
+
+guize
+
+hol up
+
+guys listen 
+
+WE WUZ VAIKINZ N SHIEEEET?!?!?
+
+86117
+hey guy did you kno that some black guy killed some white guy some tiem
+
+now that will radicalisze you rite up1111
+
+76312
+Not that guy.
+
+Two guys playing call of duty.
+
+Guy One gets unhinged and second guy gives him the address.
+
+Guy one gives address to swatter. Guy one should be charged. 
+
+Guy two didn’t do anything wrong, I agree. I wrote it unclearly. 
+
+36335
+I don't think the guy was actually being serious. I watched it, and the guy didn't even seem to take himself, or the LGBTTTRDFHKLDHDV serious either. 
+
+----------
+Cluster #8:
+Cluster importance: 0.0309597000304
+black: 4.495751
+crime: 0.299286
+race: 0.170120
+community: 0.145760
+commit: 0.144144
+slave: 0.142814
+african: 0.129971
+matt: 0.121873
+skin: 0.121337
+character: 0.113591
+africa: 0.111109
+culture: 0.110600
+live: 0.110581
+santa: 0.088582
+dude: 0.087978
+
+91781
+Dude, she just said “white was never specified” in the books, so black Hermoine is feasible. She didn’t say she imagined Hermoine as black, she didn’t say Hermoine was always a black girl, she just says she loves black Hermoine and that she never specified Hermoine was white... Why does this have to be a point of tension at all? 
+
+112099
+Wait, haven’t black people been doing this since 2007? They can’t even admit any black person any where is guilty of any crime. When was the last time the black community went after another black person that was clearly in the wrong?
+
+90962
+My fave is when the dispatcher asks (I'm assuming) the clothes she's wearing and he goes "black" and immediately a defensive "I'm not black I'm not black" 
+
+116661
+Aren’t a few year back there a similar “movement” said by black people too?
+
+“It’s okay to be black”, I though I saw that before.
+
+105539
+I’d say most of the time it is actually people pretending to be black and sometimes it’s actually black people 
+
+72155
+It takes all the colors to make a rainbow. Well... except for blacks. We don't have blacks in the rainbow.
+
+33518
+She also specified in the books that Dean Thomas was black, as well as Sycophantic Slytherin #3 in HBP. Why wouldn’t she specify Hermy as black if she was meant to be?
+
+37662
+Has anyone here, non-black or otherwise, ever wished someone felt sorry for being black? Maybe it's just where I live... the majority is black. It's whatever.
+
+26340
+There are some people that believe black people can treat other black people however they want and because they're both black it's okay. Just had this someone tell me this the other day.
+
+16443
+What's the point in blacking out the last name in all of them if not on the last one too?
+
+----------
+Cluster #9:
+Cluster importance: 0.0393034489748
+trump: 3.960256
+vote: 0.692360
+supporter: 0.527221
+president: 0.526435
+hillary: 0.389648
+hate: 0.366855
+obama: 0.340287
+win: 0.338374
+donald: 0.312657
+news: 0.303003
+support: 0.300862
+anti: 0.278515
+tweet: 0.260539
+election: 0.223545
+liberal: 0.217551
+
+69193
+also, jill stein endorsed trump over hillary, does that make trump an environmentalist?
+
+edit: she disnt endorse him. fake news everywhere
+
+32226
+I can't speak for everybody, but I use this place as a way to get the hell away from Reddit and the MSM reports of "Trump feeds koi!" "Trump ate his fried chicken with a fork and knife!" "Trump says illegal immigrants are breaking the law!" "The former security manager of Trump's friend's wife allegedly met with Putin!", and so on. The media is so overblown with Trump because they know it appeals to a certain demographic. I don't care if people post about trump, but it's almost always cringey to me because they try to make it excessively anti-trump, so you just go from something mildly political and funny, to something excessively political full of dogma and no humor. Every time I see a trump post, it feels like it was made on Facebook. 
+
+12467
+&gt; Fuck Trumpertards
+
+&gt; blame Trump if you haven't today. Oh wait you just did.
+
+TIL all Trump supporters are literally Trump.
+
+30939
+This isn't a trump sub, it just isn't as anti trump as the rest of Reddit. And as we now know, you're either with trump or against him. No middle ground, according to Reddit. 
+
+27139
+I will certainly say Trump's use of Twitter helped him get elected. But he isn't running for election anymore, he doesn't need to act like he is. Trump fights, and I can understand why people like that, but not every fight is worth fighting. What does Trump get from fighting not one, but two gold-star families? What does Trump get from regularly debasing his own party? What does Trump get from regularly debasing his own cabinet? Even Michael Savage is willing to complement how Obama kept everything calm at the White House compared to Trump, that is big.
+
+A good example is the "scandal" about the special forces soldiers that died in Niger, and the feud between Trump and that widow. If Trump has simply said "I had the best intentions with my words when I said them, and I am sorry to the widow if I offended her" he could have gotten across his point that he wasn't trying to be callous, while also looking respectable and diffusing the situation. Instead it all became this massive debacle that even saw Gen. Kelly's dead son brought into it. Democrats were able to make everything sound so much worse than it actually was, because Trump let it get that way.
+
+Another important thing to bring up about the election, was that it wasn't just Trump in it. Hillary Clinton was also there to scare people into either not voting, or voting to make sure she didn't win. It is very hard to say Trump would win against a less controversial candidate. 
+
+12092
+I agree that he is old, but only older than Trump by 5 years. So I guess Trump shouldn't run for reelection because he will then be 76 years old as well?
+
+82965
+Then the argument becomes:
+
+Trump: I want to do A
+
+Giuliani: Trump asked me how to do A
+
+*public outrage*
+
+Giuliani: Whoa I never meant that Trump asked me how to do A. 
+
+14133
+&gt;"I purport to be an outside neutral party"
+&gt;
+&gt;Trump trump trump trump trump trump trump russia le drumpf
+
+Yep, this also checks out.
+
+93087
+&gt; Just go away already!
+
+We've been telling that to Trump for the last... since he said he was running.
+
+19321
+Like the whole “covfefe” thing. A rep of Trump was like, it has a S E C R E T   M E A N I N G !
+
+----------
+Cluster #10:
+Cluster importance: 0.0396496976658
+game: 2.710336
+video: 1.913120
+play: 1.755336
+watch: 0.951949
+character: 0.398910
+youtube: 0.323164
+hard: 0.302139
+fun: 0.296499
+article: 0.293442
+movie: 0.273535
+difficulty: 0.241038
+easy: 0.201068
+write: 0.179442
+buy: 0.176627
+story: 0.170310
+
+52713
+Going bankrupt is almost a rite of passage at this point. Every billionaire has had a venture or 12 go bankrupt. It's part of the game
+
+55552
+As I get older I have more games to play. Some games are truly worth "gitting gud" at, others are just enjoyable to play through and experience and move on from.
+
+29760
+Hey now, /g/ isn't edgy. Just full of people who hate video games and people who want to build a computer to play video games.
+
+113423
+Keep playing your walking simulators and leave our games alone. What's even the point of playing a video game if it does not offer a modicum of challenge?These people think that because they can't get past the first level in games like Dark Souls that it's not fair they can't get to experience the game like everyone else.
+
+Well tough shit. Git gud. 
+
+43081
+You can play video games however you want. Just don't be a fuckin crybaby about it ya know? 
+
+No one I know gives a shit how you play games. This Kotaku author is just manufacturing something to feel sorry about. 
+
+
+91367
+There’s a movement to make video games easier, because as it turns out, most video game “journalists” suck at video games. 
+
+41070
+It's the same for me there are maybe two games I play above normal difficulty. 
+
+And then I have the hard games like StarCraft, Dark Souls, Cuphead.
+
+Anyone who plays a lot of video games knows that there's absolutely no way you will be really good at all of them at the same time. It's why you don't see professional gamers playing more than one game normally because it's hard to the point of being unfeasible.
+
+
+Some games are just harder than others and then some games are harder than others for particular people and some people just suck at all video games.
+
+The spectrum is so broad that you need baby level difficulties. The writer of this article hasn't thought about any of this and is only concerned with his own wounded ego.
+
+That's what I think anyway
+
+110108
+Playing video games yourself &gt; picture of boring small brain X-ray.
+
+Watching your friends play video games &gt; picture of lit up brain X-ray
+
+Watching strangers play video games on YouTube &gt; picture of bright shinning big brain X-ray 
+
+Watching strangers on Twitch play video games and donating your money to them for playing video games &gt; extremely bright giant brain shinning X-ray. 
+
+6757
+You don't understand, the easiest difficulty is made for little children and people who rarely play video games.
+
+Something tells me that the writer of this article is both a manchild and almost never plays video games, fuck game journos
+
+13749
+You don't need to be good at games, but you should be able to play them with a modicum of competence.
+
+----------
+Cluster #11:
+Cluster importance: 0.0269229469986
+racist: 4.154960
+race: 0.678476
+racism: 0.677384
+color: 0.164841
+hate: 0.161199
+nazi: 0.147593
+sexist: 0.139231
+joke: 0.125567
+skin: 0.119557
+base: 0.118467
+anti: 0.108513
+article: 0.105153
+minority: 0.094892
+care: 0.089891
+literally: 0.085297
+
+31616
+No I would like to be able to call a person a racist for saying racist things. Which I am allowed to do. 
+
+15810
+Is it racist to say "It's OK to be Black"? How about " It's OK to be Gay"?
+
+If one is racist, they're all racist.
+
+76783
+Name the "lies" I've told. 
+
+Also, I call people racist if they are being racist. If you want me to stop, then stop being racist.
+
+40403
+Ok from my understanding it’s like this:  
+If your racist against people of color: racist  
+That ones obvious  
+If you say your not racist: racist  
+We all know it’s ingrained into your mind fool  
+If you unlearn your racist history and try to be a good person all around: racist  
+Ok buckaroo your trying way to hard to not be racist to a point where it’s racist.   
+You are racist 100% of the time you white scum. 
+
+109587
+Its LITERALLY whataboutism. You are saying 'nobody called X person racist for saying Y racist thing, therefore this Z thing Im saying cant be racist'. 
+
+80399
+If you're trying not to be racist then you're racist. So therefore, being racist must mean you are not racist. However, if being racist is you trying to not be racist, then you are racist, which means that you are not racist.
+
+96471
+It’s only on here because people on this sub are racist. I didn’t get it either until I read all these racist comments
+
+1103
+If there is a coin, and all racists are on one side of it, then she is on that side of the coin.
+
+63414
+What if you dabbed on the haters and kneeled on the racists at the same time, you could actually *dab on the racists*
+
+106170
+This sub is a cesspool. Reddit doesn't have c**ntown or fatpeoplehate anymore so all the racist neckbeards converge in here and TiA. 
+
+----------
+Cluster #12:
+Cluster importance: 0.0292200114853
+gay: 4.000388
+sex: 0.519706
+straight: 0.486512
+hate: 0.369167
+porn: 0.261069
+community: 0.248821
+dude: 0.246583
+pedophile: 0.221794
+cake: 0.218596
+trans: 0.203495
+marriage: 0.201095
+faggot: 0.183635
+character: 0.168807
+gender: 0.166796
+refuse: 0.156111
+
+34183
+But that's not what people who hate gays are going to think. If he would've left being gay out of it, we wouldn't have this problem.
+
+26701
+Yeah, but that's my point. Doing a gay thing doesn't automatically make someone gay just because a lot of people want to believe that it does. 
+
+35053
+Like aaaaall those SJW Marvel products have characters whose only characteristic is that they're gay. They're never "smart, but troubled. Happens to be gay." No. They are "Gay, gay, gay, some minority, also hey did I mention gay? Also he has some superpower or some shit I dunno."
+
+82627
+If he gay, he gay. Ain't nothing except illegal shcok therapy gonna solve that.
+
+If he aint gay, coolio. He ain't gay, who tf cares.
+
+101759
+Then why don't they stop them? Why do these people get so much support from gays? Why are gays not talking about how this has gone too far? Why is the gay community not protesting their own extremists? 
+
+The only mentions of "gays that don't approve of this" I've seen are the various apologies gays drum up every time someone makes this criticism of the gay community.
+
+11509
+&gt; Having sex with a man once or twice to see what it's like or because someone offered you money for it doesn't make you gay. 
+
+That's the funniest shit I've read all day. Bravo!
+
+Also, the distinction between bisexual and gay is academic. If you do a gay thing, you have done a gay thing. That's what "being gay" means to a LOT of people. Redefining it is as useful as all the other things SJWs are redefining.
+
+And, yes, someone can be gay and have never had sex with anyone. But, if they have gay sex, they can never be 100% not gay (unless it was a situation without freely granted consent, but that is supposed to go without saying in polite company).
+
+I mean, seriously, try putting that on your online dating profile. "I'm a straight guy who likes girls but I did let a guy fuck me once to see what it was like."
+
+We can quibble over the philosophical definitions of "being gay" versus "engaging in gay behaviours" but that's not really a very useful thing to do. I'm conflating "being gay" with "engaging in gay behaviours" for precisely that reason. If you really have a problem with me equating those two concepts, we must agree to disagree, but at least I'll understand where you're coming from.
+
+Another thing that ought to go without saying is that at no point did I offer a value judgement. In case it's not obvious, I never said "engaging in gay behaviours is morally wrong." My assertion is that, at least for a lot of people (many of whom are highly educated), homosexual behaviours that are voluntarily engaged in are *gay acts* and someone who does that can be described as a bit gay, formerly gay, bisexual (which is gay, because in this way of using the term, gayness is about gay behaviours, and heterosexual behaviours do not cancel it out in some kind of bizarre sexual zero-sum game). "Gay for pay" is still gay, it's right there in the term.
+
+I get that you mean something actually different when you say "gay" but a great deal of people do not make that distinction.
+
+1151
+They make you gay. And being gay is okay. If it wasn't for these fucks giving us a bad name 
+
+83356
+I once said he was so gay that the gayest man in the gay pride parade on gay world in the gay nebula would say "wow, what a faggot".  
+
+He has somehow gotten gayer.
+
+11501
+*Being* gay is the act of doing gay things. I've heard of it being faked, but if you're actually penetrating/being penetrated, yes, you are gay. Even if you don't like it. You are voluntarily in the situtation, you *consented* freely, so you are doing gay things and that makes you gay. Once you stop doing gay things you could become "formerly gay," but you can never, ever again be "not at all gay." Even if you keep it secret, it's still true.
+
+101738
+But even the massive faggots have to tell everyone. It seems like every gay can't wait to let everyone around them know that they're gay. It's like, the only thing gay people ever talk about is being gay or things related to being gay. The butch gays still have to tell everyone theyre gay, but then they assure everyone that "I'm not like all the *other gays*."
+
+----------
+Cluster #13:
+Cluster importance: 0.0135965949397
+question: 2.263791
+automatically: 2.089610
+contact: 2.086478
+perform: 2.079846
+concern: 2.079404
+action: 2.074354
+ghscr1: 0.534004
+previous: 0.222864
+current: 0.202485
+long: 0.173173
+answer: 0.087327
+coarse: 0.084655
+negro: 0.077628
+respectful: 0.077499
+historically: 0.068544
+
+72042
+https://en.wikipedia.org/wiki/Race_and_crime_in_the_United_States#Crime_trends
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+72031
+https://en.wikipedia.org/wiki/Race_and_crime_in_the_United_States#Crime_trends
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+72030
+https://en.wikipedia.org/wiki/Race_and_crime_in_the_United_States#Crime_trends
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+72017
+https://en.wikipedia.org/wiki/Race_and_crime_in_the_United_States#Crime_trends
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+72010
+https://en.wikipedia.org/wiki/Race_and_crime_in_the_United_States#Crime_trends
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+72007
+https://en.wikipedia.org/wiki/Race_and_crime_in_the_United_States#Crime_trends
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+72005
+https://en.wikipedia.org/wiki/Race_and_crime_in_the_United_States#Crime_trends
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+72004
+https://en.wikipedia.org/wiki/Race_and_crime_in_the_United_States#Crime_trends
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+72071
+https://en.wikipedia.org/wiki/Race_and_crime_in_the_United_States#Crime_trends
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+70989
+https://en.wikipedia.org/wiki/Race_and_crime_in_the_United_States#Crime_trends
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/CringeAnarchy) if you have any questions or concerns.*
+
+----------
+Cluster #14:
+Cluster importance: 0.0418454210722
+kid: 3.732897
+child: 1.572996
+parent: 0.734089
+school: 0.367870
+sex: 0.296233
+adult: 0.239184
+grow: 0.223682
+rape: 0.217739
+family: 0.217474
+gender: 0.212125
+abuse: 0.197188
+girl: 0.192969
+raise: 0.182725
+life: 0.182601
+young: 0.177191
+
+3482
+What happened to just letting kids be kids? Like you show em out there and they figure out their shit on their own, its parents like these who never hear from their kids after they turn 18 
+
+19459
+�� Do not diddle kids,it's no good diddling kids. I wouldn't do it with anyone younger than my daughter. No little kids, gotta be big, older than my wife��
+
+66439
+ok they still refuse to answer i was protacting a kid since like the kid i was severly bullied as a kid.
+
+34377
+I choose not to have kids because I believe in having healthy kids or no kids at all, and I have a disability that can be hereditary. Too many people have kids they can't care for. I think birth control should be mandatory and having kids should be a privilege that you earn and apply for.. not a right.
+
+36891
+I don't care if the kid is actually the spawn of Satan the internet shouldn't bully little kids sure his parents might be racist or whatever but he is just a kid who doesn't know any better
+
+77351
+I never tried to tell you anything. Someone is getting very defensive go back to r/childfree if you want people to give pats on the back for hating kids. Yes I have seen kids in school I used to be one of them and mostly likely so were you. 
+
+56774
+&gt; And what kid would go by Jerry if he was named that?
+
+What else are you going to go by? Jez?
+
+113831
+Please don't have kids 
+
+Please don't have kids
+
+Please don't have kids 
+
+Please don't have kids 
+
+Please don't have kids 
+
+Please don't have kids 
+
+Please don't have kids
+
+Please don't have kids 
+
+22829
+&gt; But they were both kids.
+
+She was doing it when she was 17. I don't know about you but I think 17 is old enough to know better.
+
+75884
+I didn't know you could dab in Roblox? That means some kid went out of  his way to script and animate a dab for a shirty rp server. 
+
+----------
+Cluster #15:
+Cluster importance: 0.0342026145999
+wrong: 4.114346
+^^i: 0.233209
+find: 0.219051
+view: 0.205654
+prove: 0.182355
+vote: 0.180118
+correct: 0.128848
+retard: 0.128035
+argument: 0.120533
+fact: 0.116997
+opinion: 0.096345
+ban: 0.093395
+claim: 0.084026
+sex: 0.083981
+admit: 0.080668
+
+14290
+No dfervumep didn't exist outside of my TV before 2016 (worst worst worst year in the history of the World)!!?;!!!!!!_6:!¡?!!!!!!!!!!
+
+106169
+Can you unpack that a little? You say I'm wrong but provided no sources. You didn't even say what I'm wrong about. What "facts" say I'm wrong? 
+
+30814
+What do you even mean "both are wrong?" The crazy bitch is wrong with what she said but how is the other person wrong?
+
+27965
+Next thing you know the moderator will be trying to ban every subreddit this was reposted to. Because as a moderator he is never wrong, EVEN WHEN HE'S WRONG.
+
+21780
+Yeah, but they're also wrong. I never said they couldn't claim it, I am merely saying they are wrong. There's nothing wrong with not wanting to have sex with people.
+
+98303
+You’re just trying to make yourself feel better at this point, tell me how I’m wrong as I told you how you were wrong or just give up
+
+74548
+I don't get what's wrong with cuckholding. Like if thats your thing then whatever, I don't get why I'd look down on it if someone wants it. Am I missing something?
+
+95376
+Das rite! He's a gud boi, dindu nuffin wrong, wuz goin' to obeedence skuul! Who's a gud boi? He's a gud boi!
+
+40905
+Same here. They were 100 times worse than Ewoks ever were. If they actually had any dialogue, I'd put them on-par with Jar Jar.
+
+107393
+A very important one, certainly. By your tryhard metric, every paraplegic would be doomed to eternal soiboidom. That's just wrong.
+
+----------
+Cluster #16:
+Cluster importance: 0.0307570178698
+man: 4.392612
+wife: 0.153400
+kill: 0.130475
+shoot: 0.119273
+sex: 0.118809
+cop: 0.103658
+innocent: 0.100188
+straw: 0.097777
+police: 0.091589
+feminist: 0.089948
+girl: 0.086730
+young: 0.080426
+straight: 0.074455
+die: 0.073792
+strong: 0.073294
+
+97779
+If they always have to differentiate between cis men and trans men doesn't that mean trans men arent real men?
+
+8249
+Every man should hate all men too, because ~some~ every man ~are~ is bad. They should all stand up for us and our cause!
+
+.
+.
+.
+.
+ 
+ . 
+.
+.
+.
+.
+ 
+ 
+ 
+(/s)
+
+81857
+That's somebody who has been rightfully shat on by every man that has had the misfortune of being with her and is very bitter because of it. 
+
+60460
+I wish they would stop acting like men can give birth. Transgender men who still have their woman parts can but not men. 
+
+52712
+so now you're a man and aren't good enough to play with the men. what did you think would happen?
+
+116430
+The real cringe here is op thinking he knows more about this than the man who was the man of the year last year.
+
+58371
+I don't know I'm a gay man and I don't adentify at all with being a woman . I'm a man with another man inside me thats like man squared . 
+
+92306
+You can take a man out of the Army, but you can’t take the soldier out of the man. You can take a man out of the Marine Corps, but you can’t take the Marine out of the man. You can take a man out of the Navy, but you can’t take the seaman out of the man.
+
+It’s not gay if you have boot bands on.
+
+80299
+“I’m a man.”
+
+“See when you say that I really think you’re going to turn out to be a man.”
+
+80883
+Black Man, White Man, Mexican Man, Gay Man, and Asian Man get attacked by Muslim Man who is controlled Jewish Man
+
+----------
+Cluster #17:
+Cluster importance: 0.0107759348715
+^^|: 2.323846
+=: 1.707225
+image: 1.259415
+imguralbumbot: 1.146016
+autplayed: 1.145657
+link: 0.827746
+compose/?to: 0.639292
+user: 0.591174
+album: 0.584934
+blob: 0.580967
+^(hi: 0.572828
+^^[deletthis: 0.572828
+ignorememessage: 0.572828
+ignoreme: 0.572828
+imguralbumbotsubject: 0.572828
+
+78313
+^(Hi, I'm a bot for linking direct images of albums with only 1 image)
+
+**https://i.imgur.com/meBaDhD.jpg**
+
+^^[Source](https://github.com/AUTplayed/imguralbumbot) ^^| ^^[Why?](https://github.com/AUTplayed/imguralbumbot/blob/master/README.md) ^^| ^^[Creator](https://np.reddit.com/user/AUTplayed/) ^^| ^^[ignoreme](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=ignoreme&amp;message=ignoreme) ^^| ^^[deletthis](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=delet%20this&amp;message=delet%20this%20dqanyfo) 
+
+78314
+^(Hi, I'm a bot for linking direct images of albums with only 1 image)
+
+**https://i.imgur.com/xvXXEGa.jpg**
+
+^^[Source](https://github.com/AUTplayed/imguralbumbot) ^^| ^^[Why?](https://github.com/AUTplayed/imguralbumbot/blob/master/README.md) ^^| ^^[Creator](https://np.reddit.com/user/AUTplayed/) ^^| ^^[ignoreme](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=ignoreme&amp;message=ignoreme) ^^| ^^[deletthis](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=delet%20this&amp;message=delet%20this%20dpcmpby) 
+
+78315
+^(Hi, I'm a bot for linking direct images of albums with only 1 image)
+
+**https://i.imgur.com/84g4CQZ.jpg**
+
+^^[Source](https://github.com/AUTplayed/imguralbumbot) ^^| ^^[Why?](https://github.com/AUTplayed/imguralbumbot/blob/master/README.md) ^^| ^^[Creator](https://np.reddit.com/user/AUTplayed/) ^^| ^^[ignoreme](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=ignoreme&amp;message=ignoreme) ^^| ^^[deletthis](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=delet%20this&amp;message=delet%20this%20dq8z80c) 
+
+78316
+^(Hi, I'm a bot for linking direct images of albums with only 1 image)
+
+**https://i.imgur.com/JDeGUW0.png**
+
+^^[Source](https://github.com/AUTplayed/imguralbumbot) ^^| ^^[Why?](https://github.com/AUTplayed/imguralbumbot/blob/master/README.md) ^^| ^^[Creator](https://np.reddit.com/user/AUTplayed/) ^^| ^^[ignoreme](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=ignoreme&amp;message=ignoreme) ^^| ^^[deletthis](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=delet%20this&amp;message=delet%20this%20dq2zv9m) 
+
+78317
+^(Hi, I'm a bot for linking direct images of albums with only 1 image)
+
+**https://i.imgur.com/vLeDgQl.jpg**
+
+^^[Source](https://github.com/AUTplayed/imguralbumbot) ^^| ^^[Why?](https://github.com/AUTplayed/imguralbumbot/blob/master/README.md) ^^| ^^[Creator](https://np.reddit.com/user/AUTplayed/) ^^| ^^[ignoreme](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=ignoreme&amp;message=ignoreme) ^^| ^^[deletthis](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=delet%20this&amp;message=delet%20this%20dp6vt62) 
+
+78318
+^(Hi, I'm a bot for linking direct images of albums with only 1 image)
+
+**https://i.imgur.com/kAPx9fv.png**
+
+^^[Source](https://github.com/AUTplayed/imguralbumbot) ^^| ^^[Why?](https://github.com/AUTplayed/imguralbumbot/blob/master/README.md) ^^| ^^[Creator](https://np.reddit.com/user/AUTplayed/) ^^| ^^[ignoreme](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=ignoreme&amp;message=ignoreme) ^^| ^^[deletthis](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=delet%20this&amp;message=delet%20this%20dpqp3km) 
+
+78319
+^(Hi, I'm a bot for linking direct images of albums with only 1 image)
+
+**https://i.imgur.com/4uOSPkn.jpg**
+
+^^[Source](https://github.com/AUTplayed/imguralbumbot) ^^| ^^[Why?](https://github.com/AUTplayed/imguralbumbot/blob/master/README.md) ^^| ^^[Creator](https://np.reddit.com/user/AUTplayed/) ^^| ^^[ignoreme](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=ignoreme&amp;message=ignoreme) ^^| ^^[deletthis](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=delet%20this&amp;message=delet%20this%20dq9ag1p) 
+
+78320
+^(Hi, I'm a bot for linking direct images of albums with only 1 image)
+
+**https://i.imgur.com/xEq3YSq.jpg**
+
+^^[Source](https://github.com/AUTplayed/imguralbumbot) ^^| ^^[Why?](https://github.com/AUTplayed/imguralbumbot/blob/master/README.md) ^^| ^^[Creator](https://np.reddit.com/user/AUTplayed/) ^^| ^^[ignoreme](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=ignoreme&amp;message=ignoreme) ^^| ^^[deletthis](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=delet%20this&amp;message=delet%20this%20dq9qhnf) 
+
+78312
+^(Hi, I'm a bot for linking direct images of albums with only 1 image)
+
+**https://i.imgur.com/k4a2fHd.jpg**
+
+^^[Source](https://github.com/AUTplayed/imguralbumbot) ^^| ^^[Why?](https://github.com/AUTplayed/imguralbumbot/blob/master/README.md) ^^| ^^[Creator](https://np.reddit.com/user/AUTplayed/) ^^| ^^[ignoreme](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=ignoreme&amp;message=ignoreme) ^^| ^^[deletthis](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=delet%20this&amp;message=delet%20this%20dq9fegd) 
+
+78170
+^(Hi, I'm a bot for linking direct images of albums with only 1 image)
+
+**https://i.imgur.com/z90G22C.jpg**
+
+^^[Source](https://github.com/AUTplayed/imguralbumbot) ^^| ^^[Why?](https://github.com/AUTplayed/imguralbumbot/blob/master/README.md) ^^| ^^[Creator](https://np.reddit.com/user/AUTplayed/) ^^| ^^[ignoreme](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=ignoreme&amp;message=ignoreme) ^^| ^^[deletthis](https://np.reddit.com/message/compose/?to=imguralbumbot&amp;subject=delet%20this&amp;message=delet%20this%20dprv3dn) 
+
+----------
+Cluster #18:
+Cluster importance: 0.0272945309597
+cringe: 3.983448
+real: 0.755208
+funny: 0.358411
+joke: 0.311690
+political: 0.291781
+/r: 0.255902
+meme: 0.249297
+anarchy: 0.237691
+fun: 0.176718
+stuff: 0.163024
+cringey: 0.159816
+actual: 0.138585
+alt: 0.130643
+cringeanarchy: 0.130313
+find: 0.125385
+
+56062
+The sub is full of shitposters, not just cringe.
+
+If you walk into a seafood restaurant and complain why the menu includes burgers along with seafood, people will think your overreacting.
+
+Same with this sub, we have cringe alongside shitposts. If you want more cringe on this sub, post cringe on this sub.
+
+26813
+I mean this is funny. You posting this as cringe is the real cringe. Keeping to the ol OP is a faggot thing.
+
+80326
+If the people doing this were 50 year old men it might be cringe. But kids or who knows who isn’t cringe 
+
+63747
+If you have to explain the cringe then it's not cringe. If you explain the cringe a few times you become the cringe. 
+
+103965
+The people calling out cringe are the ones that make me cringe the most. I cringe every time i look in the mirror. 
+
+26396
+this would only be cringe if it was the same person? why is two different people having different opinions cringe
+
+39787
+Doesn't make what you said right. This is a cringe sub, not an anything goes sub. Usually the only cringe in this sub now is in the comments or people not understanding what a cringe sub is supposed to be.
+
+50654
+can we please make the, "The real cringe is this sub" some kind of mascot for us? Like when he posts "comments" and "cringe" and "right" automod should come up with a, "the real cringe is this sub!" comment.
+
+17078
+This is a cringe of the year nominee. I have seen it like 5 times and it still has the same effect on me. 
+
+78595
+We get it people use Zo, please stop its overplayed and the cringe is how often this is being posted now 
+
+----------
+Cluster #19:
+Cluster importance: 0.0366010201669
+feel: 3.061619
+bad: 2.668843
+hate: 0.308553
+life: 0.118461
+help: 0.117763
+honestly: 0.110537
+fat: 0.104391
+kind: 0.102955
+free: 0.097927
+sad: 0.097868
+movie: 0.096095
+watch: 0.093448
+pretty: 0.092913
+stuff: 0.091334
+understand: 0.081105
+
+36108
+I keep hearing I’m supposed to feel bad for being white, man I wish I was black so I didn’t have to feel this way.
+
+4788
+Now *that's* actually gonna make me feel a little bad when I call you 'she'... So much effort...so little effect.
+
+73171
+But, the real question is: Should you feel bad for them or not. You should feel bad because of the abuse but, not since they are full grown adults.
+
+56059
+No. You **MUST** be a victim 24/7. We need you to feel bad so we can help you, and in turn that makes me feel good. 
+
+4880
+It's bad for men to feel good even if they're feeling good for making women feel good. Something can only be good if it makes men unhappy. Or dead.
+
+76865
+it's fine to be vegan, just don't fucking force it on people or make them feel bad for not being one.
+you're not making them feel bad
+you're just making yourself look like a fucktard.
+
+82256
+Maybe, but, like I said, I only saw what was posted on other subs and it seemed so outlandish that it felt unreal to me. 
+
+95398
+Why do I get the feeling the person who would make this is the same one who would yiff on a tigger plushie?
+
+21332
+When people do something good and right, they should also have the right to feel good about that. And when they feel good, they should have the right to share that with people. I don't see anything bad about that.
+
+46721
+&gt;me feel bad for u
+
+I'm sure you do. I feel bad for you, being an ashy jiggaboo and all.
+
+----------
