@@ -5,229 +5,229 @@ Vectorized comments.
 Saved features names (vocabulary) and document-term matrix.
 Factorizing tfidf matrix...
 violation: 1.0
-violation: 0.467872402263
-violation: 0.259241881642
-violation: 0.155635303332
-violation: 0.103046687198
-violation: 0.0713008042519
-violation: 0.0512887993796
-violation: 0.0395178423647
-violation: 0.0325100587237
-violation: 0.0282651955894
-violation: 0.0251496950719
-violation: 0.0226272237614
-violation: 0.0209907984092
-violation: 0.0196511532341
-violation: 0.0187443147846
-violation: 0.018516193874
-violation: 0.0186653691472
-violation: 0.0190373830995
-violation: 0.021154539175
-violation: 0.0246750141581
-violation: 0.0270588194308
-violation: 0.0282160148765
-violation: 0.0295001373778
-violation: 0.0293928727172
-violation: 0.0275667044304
-violation: 0.0244120515772
-violation: 0.021048994327
-violation: 0.0182646623134
-violation: 0.0158432006558
-violation: 0.0137552800018
-violation: 0.011907209709
-violation: 0.0103285241463
-violation: 0.00907614370533
-violation: 0.00809545573132
-violation: 0.00731816293292
-violation: 0.00665771438909
-violation: 0.00614825947765
-violation: 0.00573658923035
-violation: 0.0053996016771
-violation: 0.00512270453549
-violation: 0.00489001017012
-violation: 0.00469311218505
-violation: 0.00452251577495
-violation: 0.00437310043926
-violation: 0.00424035474095
-violation: 0.00412050990593
-violation: 0.00400864581703
-violation: 0.00390875709652
-violation: 0.00381679333881
-violation: 0.00373227076424
-violation: 0.00365428125656
-violation: 0.00358241448458
-violation: 0.00351455098682
-violation: 0.00345071940165
-violation: 0.00339280155553
-violation: 0.00333865854773
-violation: 0.00328773629954
-violation: 0.0032398375179
-violation: 0.00319512984779
-violation: 0.00315348094874
-violation: 0.00310848220843
-violation: 0.00306536955609
-violation: 0.003026810498
-violation: 0.00299178221574
-violation: 0.00295923194253
-violation: 0.00293061107495
-violation: 0.00290512830218
-violation: 0.00288300756538
-violation: 0.00286406946024
-violation: 0.00284795354938
-violation: 0.00283518450461
-violation: 0.002823424256
-violation: 0.00281528766119
-violation: 0.00280946291869
-violation: 0.00280713735325
-violation: 0.00280957002062
-violation: 0.00281627561646
-violation: 0.0028261938557
-violation: 0.00284050184176
-violation: 0.0028555206849
-violation: 0.00287104789274
-violation: 0.00288581197527
-violation: 0.00290545149545
-violation: 0.00293102394613
-violation: 0.00296203807628
-violation: 0.00299843438386
-violation: 0.00303890415358
-violation: 0.00308463408484
-violation: 0.00313603830176
-violation: 0.0031936720181
-violation: 0.0032575541343
-violation: 0.00332760022424
-violation: 0.00340447937826
-violation: 0.00348822305536
-violation: 0.00357958666744
-violation: 0.00367757651234
-violation: 0.00378394771796
-violation: 0.0038968630641
-violation: 0.00401702140457
-violation: 0.00414624847619
-violation: 0.00428671424847
-violation: 0.00443807287744
-violation: 0.00460239066126
-violation: 0.00477982989547
-violation: 0.00497145381177
-violation: 0.00518864432553
-violation: 0.00542291545605
-violation: 0.0056765037161
-violation: 0.00595009963062
-violation: 0.00624599775602
-violation: 0.00656191999007
-violation: 0.00688392186606
-violation: 0.0072122318969
-violation: 0.00757606699814
-violation: 0.00794544883867
-violation: 0.008311249136
-violation: 0.00868089711054
-violation: 0.00901855786522
-violation: 0.00940490510649
-violation: 0.00977925388101
-violation: 0.0101713125738
-violation: 0.0105990365802
-violation: 0.011043680977
-violation: 0.0115039113846
-violation: 0.0119633233538
-violation: 0.0123866356497
-violation: 0.0128036743084
-violation: 0.0131873173933
-violation: 0.0134710804708
-violation: 0.0136309913953
-violation: 0.0136398533072
-violation: 0.0134890572915
-violation: 0.0131773847284
-violation: 0.0127385322528
-violation: 0.0122252534331
-violation: 0.0117116780002
-violation: 0.0112131612137
-violation: 0.0107183063374
-violation: 0.0102295755147
-violation: 0.0097752676778
-violation: 0.00936699170459
-violation: 0.00902636337064
-violation: 0.00871439009634
-violation: 0.00842965919947
-violation: 0.00818228173645
-violation: 0.00796330852937
-violation: 0.00777629052896
-violation: 0.00760660366287
-violation: 0.00747648473111
-violation: 0.00734906151498
-violation: 0.00722698960904
-violation: 0.00705170297863
-violation: 0.0066117398533
-violation: 0.00632307280407
-violation: 0.00602336706645
-violation: 0.00571811537054
-violation: 0.00541924773125
-violation: 0.00511756295756
-violation: 0.00483839405877
-violation: 0.00457399166969
-violation: 0.00430398516697
-violation: 0.00404373159188
-violation: 0.00379583114385
-violation: 0.00355678847114
-violation: 0.00333124983207
-violation: 0.0031177979802
-violation: 0.00292056352272
-violation: 0.0027376533007
-violation: 0.00256912244094
-violation: 0.00241280688835
-violation: 0.00226757543876
-violation: 0.00213553080916
-violation: 0.0020177192876
-violation: 0.0019079700248
-violation: 0.00180657931696
-violation: 0.00171270172819
-violation: 0.00162765773913
-violation: 0.00155218159049
-violation: 0.00148538299191
-violation: 0.00142387976694
-violation: 0.0013676124511
-violation: 0.00131618852852
-violation: 0.00126869718512
-violation: 0.00122488183577
-violation: 0.00118629655671
-violation: 0.00115157221631
-violation: 0.00111980195198
-violation: 0.00109049788781
-violation: 0.00106396772378
-violation: 0.00103973747936
-violation: 0.00101705319869
-violation: 0.000996028133145
-violation: 0.000976619261292
-violation: 0.000958565795131
-violation: 0.000941828641179
-violation: 0.000926148726764
-violation: 0.000911400626336
-violation: 0.000897408252297
-violation: 0.000884132807564
-violation: 0.000871535165724
+violation: 0.46800005221720453
+violation: 0.2592956438861982
+violation: 0.15565461107113995
+violation: 0.10308106371866597
+violation: 0.07130693524101354
+violation: 0.05129012911605172
+violation: 0.03951336070190601
+violation: 0.032499950060444066
+violation: 0.028254016929816838
+violation: 0.025136826255268495
+violation: 0.022615775494072482
+violation: 0.02099407563935524
+violation: 0.01966268606857679
+violation: 0.01875711398922286
+violation: 0.01851923126333986
+violation: 0.018662387408896412
+violation: 0.01902192602091769
+violation: 0.02116746197384883
+violation: 0.02469135401864237
+violation: 0.027063907988747835
+violation: 0.028224473630311067
+violation: 0.029504582118603285
+violation: 0.02939072189542988
+violation: 0.027556751905886256
+violation: 0.02439740317346413
+violation: 0.021036879653709876
+violation: 0.01825447990124772
+violation: 0.015833811151995898
+violation: 0.013747094766386508
+violation: 0.011900100695236691
+violation: 0.010322915705947452
+violation: 0.009072012988753167
+violation: 0.008092547580092263
+violation: 0.0073181093440695
+violation: 0.006657038461901223
+violation: 0.006147952417904288
+violation: 0.00573657490769338
+violation: 0.005399741200486071
+violation: 0.005122991043021144
+violation: 0.0048902445967181855
+violation: 0.004693353216039013
+violation: 0.004522664784457724
+violation: 0.004373189710049991
+violation: 0.004240316659916916
+violation: 0.0041204128375477685
+violation: 0.004008488154649834
+violation: 0.003908515999934255
+violation: 0.003816352509334447
+violation: 0.0037317119432372717
+violation: 0.003653634791162286
+violation: 0.003581626998454846
+violation: 0.0035137366898249046
+violation: 0.003449220931189631
+violation: 0.0033911034293870102
+violation: 0.003336841051804458
+violation: 0.003285736423261211
+violation: 0.0032377976484945148
+violation: 0.0031929601188703705
+violation: 0.0031511358654210783
+violation: 0.0031060496596696983
+violation: 0.0030627826614643434
+violation: 0.0030239941233416306
+violation: 0.0029887520324930923
+violation: 0.002955954051769796
+violation: 0.0029271043523622204
+violation: 0.0029013637852071373
+violation: 0.002878970832532449
+violation: 0.002859771985403421
+violation: 0.0028433832994337847
+violation: 0.0028303460993135514
+violation: 0.002818342854579226
+violation: 0.00280988747307176
+violation: 0.0028036824808288434
+violation: 0.0028008829679602347
+violation: 0.002802255269678702
+violation: 0.0028082723550837715
+violation: 0.002817866591247902
+violation: 0.0028316591316124946
+violation: 0.002846302350237922
+violation: 0.002861305908375399
+violation: 0.0028754779336428306
+violation: 0.0028945515685624354
+violation: 0.002919520531638978
+violation: 0.0029498847649808394
+violation: 0.0029858438051170617
+violation: 0.003025773093351659
+violation: 0.0030708456872200357
+violation: 0.003121722063254522
+violation: 0.0031787229373132163
+violation: 0.0032419623759449463
+violation: 0.003311393959363897
+violation: 0.0033876674895151424
+violation: 0.003470609237969633
+violation: 0.003561334991244589
+violation: 0.0036585391533443035
+violation: 0.0037643047390569446
+violation: 0.0038765172052187507
+violation: 0.003995893987476003
+violation: 0.004124332896640748
+violation: 0.0042622220252130204
+violation: 0.004410414239923156
+violation: 0.004571177503308623
+violation: 0.0047449272980632845
+violation: 0.004931884668623905
+violation: 0.005134498090542717
+violation: 0.005361605943181038
+violation: 0.005607329046608275
+violation: 0.005872472044953976
+violation: 0.006158893238266201
+violation: 0.006466072613079221
+violation: 0.006794303841154082
+violation: 0.007116415509961594
+violation: 0.0074645534977827695
+violation: 0.00783467720453548
+violation: 0.008211175981685501
+violation: 0.008582019411813826
+violation: 0.008937131413258626
+violation: 0.009283927558927194
+violation: 0.009670729787748493
+violation: 0.010035079597169122
+violation: 0.010429523472277893
+violation: 0.010845152337627022
+violation: 0.011286412454933227
+violation: 0.011724274229187079
+violation: 0.012167366340991154
+violation: 0.012559519574615267
+violation: 0.012949751229952313
+violation: 0.013294457873122953
+violation: 0.01353407560604335
+violation: 0.013647331706837408
+violation: 0.013611339373923772
+violation: 0.01340458865726663
+violation: 0.01303378673687329
+violation: 0.012546178991016618
+violation: 0.011994068260995338
+violation: 0.011452476282552509
+violation: 0.01091679662122184
+violation: 0.01040088090187757
+violation: 0.009890170204068183
+violation: 0.009426028858688585
+violation: 0.009023957731828803
+violation: 0.008686789638933956
+violation: 0.008388063489628133
+violation: 0.008126929977778896
+violation: 0.007900119243107986
+violation: 0.007708184525236605
+violation: 0.007540923286824674
+violation: 0.0074021223220188115
+violation: 0.00728907132203894
+violation: 0.007178380587343905
+violation: 0.00705969488768231
+violation: 0.006712576506584683
+violation: 0.006383417823000885
+violation: 0.006103615799946099
+violation: 0.005803747546765642
+violation: 0.005513622747882855
+violation: 0.005215598363397731
+violation: 0.004927016720566184
+violation: 0.004664821183072655
+violation: 0.004396074335210093
+violation: 0.004134329014786907
+violation: 0.003882791045274974
+violation: 0.0036416721314677823
+violation: 0.003412318034006349
+violation: 0.003195226611366536
+violation: 0.002993066062957835
+violation: 0.0028053970918714504
+violation: 0.0026321496380840056
+violation: 0.0024724442577517456
+violation: 0.002323558222760687
+violation: 0.0021859589599050266
+violation: 0.0020627057328633275
+violation: 0.0019512120675719527
+violation: 0.001846755970326655
+violation: 0.0017500179455862477
+violation: 0.0016609749845584248
+violation: 0.0015818331583193897
+violation: 0.001511719419926418
+violation: 0.0014484243936166972
+violation: 0.0013900932805226474
+violation: 0.001336906641236358
+violation: 0.0012879501044777417
+violation: 0.001242664814614562
+violation: 0.001201610357191184
+violation: 0.0011656089697138971
+violation: 0.001132724587273017
+violation: 0.0011022846523692045
+violation: 0.0010746786391159185
+violation: 0.0010495648502753154
+violation: 0.0010263352374070458
+violation: 0.0010045845626706794
+violation: 0.0009844769747394343
+violation: 0.0009659211546013398
+violation: 0.000948638024784513
+violation: 0.0009325145005533641
+violation: 0.0009174036440160688
+violation: 0.0009030948006698246
+violation: 0.0008895255236131473
+violation: 0.0008766748156535402
 Factorized tfidf matrix.
 Saved factorization matrices.
 
 ------------------------------
 
-Reconstruction error: 752.154219427
+Reconstruction error: 752.15867934604
 
 Cluster #0:
-Cluster importance: 0.0518705913376
-internet: 2.455685
-government: 2.355207
-net: 2.186778
-neutrality: 2.126816
-company: 1.303620
-free: 1.237651
-nn: 1.160530
-isps: 1.022089
-market: 0.871132
-control: 0.867306
-isp: 0.858608
-regulation: 0.857290
-service: 0.690407
-law: 0.688408
-power: 0.647982
+Cluster importance: 0.05188968436041452
+internet: 2.455640
+government: 2.355286
+net: 2.186718
+neutrality: 2.126758
+company: 1.303662
+free: 1.237642
+nn: 1.160521
+isps: 1.022080
+market: 0.871122
+control: 0.867359
+isp: 0.858599
+regulation: 0.857289
+service: 0.690404
+law: 0.688765
+power: 0.648006
 
 2994
 But seriously, there are some good arguments to repeal NN, many written by fellow pedes. here are a few:
@@ -285,7 +285,7 @@ Personally, I didn't have datacaps before NN. The internet was actually just pla
 
 And yes. Doctors performing real time surgery, stock market orders, first person shooters and other things requiring very low latency should have higher priority over DDOS attacks, Torrents of sometimes illegal things, and massive bulk downloads of games from steam. 
 
-47282
+47283
 removing net neutrality will take the internet to back what it was before net neutrality existed, to a place where no censorship happened.
 
 it's really that simple.  
@@ -296,7 +296,7 @@ free market is what it is.
 
 scary thing about net neutrality, espeically on this sub, was that i thought the people in this sub cared about freedom, to the point where we'd be the first ones to fight in a civil war if that was the case. but now i see most of us here would prefer government overreach into our internet instead of letting the free market work out even if that means there would be a few hiccups here and there where people are overcharged for services and have to find a different way to get in the internet.  very disappointed
 
-124739
+124740
 Net Neutrality allows the government to control the internet, and has nothing to do with neutrality, same as ACA has nothing to do with afordable. 
 
 4088
@@ -306,7 +306,7 @@ Net Neutrality allows the government to control the internet, and has nothing to
 
 
 
-250158
+250160
 Yeah its not. Funny though, 4chan was pushing for Net Neutrality with some ads a few months ago. Now pol seems to be against it? The issue with Net Neutrality is the dangers of FCC control and why its only being applied to ISPs instead of all the tech companies. The FCC isn't known to be altruistic either. Its fishy to say the least.
 
 You're right in saying its an obama proposal. It was part of Obama's campaign. The FCC chair at the time was appointed by Obama. 
@@ -341,7 +341,7 @@ This was originally a NFL thread lol. But I got carried away. To put it simply, 
 
 Spez: I didn't see you edited your post lol. That Anon is right. Its not a free speech matter. Its business trying to get each other to pay
 
-546127
+546132
 Net neutrality isn't the government taking control, it's just making it illegal for the corporations to take control!  
 
 In fact, net neutrality will probably lessen the government's control over the internet, because without net neutrality, it would be much easier for them to pressure ISPs to block or censor certain parts of the internet.  
@@ -351,7 +351,7 @@ Net neutrality doesn't give the government any additional control over the inter
 Of course, we already know that the government doesn't always follow those kinds of rules, but that's already the case so nothing will change in that respect.  
 Things *would* change if net neutrality is abolished, because once corporations start censoring certain parts of the internet, or locking it behind paywalls, the government will be able to start influencing their behavior.  
 
-73344
+73345
 So, a bit of background on this. We, as a nation, dropped the ball pretty damn badly. We haven't been trust-busting as we should, and we've ended up with some consolidated megacorporations that simply own too much. Put simply, the internet isn't really a 'free market' anymore. Net neutrality was an attempt to regulate ISP's. 
 
 So what kind of problems was it looking to regulate? Well, without net neutrality, it was legal for Comcast to throttle Netflix. Why is this a huge problem? Because Comcast owns it's own streaming service. Again, we failed to reign in our corporations, and so government regulation of companies large enough to break the free market is the price we have to pay. 
@@ -372,7 +372,7 @@ The cons are...hard to describe. I can't think of any cons, if I were honest. Ou
 
 And that's the most important part. We *don't* have a free market. The invisible hand of the free market fixes everything (except food/water, people die before the market corrects), *but only if there is a free market*. No free market? Government regulation is the lesser evil. At least the government has to pretend we have rights. 
 
-106477
+106478
 &gt; removing net neutrality will take the internet to back what it was before net neutrality existed, to a place where no censorship happened.
 
 Please explain why in the world repealing net neutrality will cause twitter or facebook or google to stop censoring conservative ideas? How is NN allowing them to censor?? It isn't and they wont stop.  
@@ -382,7 +382,7 @@ Please explain why in the world repealing net neutrality will cause twitter or f
   
 THERE IS NO FREE MARKET IN ISPS. There is only monopoly and power in the hands of monopolies. I believe in small decentralized government. I do not believe in replacing a large government of congress with a large government of corporations. If you are so concerned about losing your freedom then why aren't you concerned about giving up your freedoms to comcast and time warner and Verizon??? When they are the entire market then how will the free market stop their overreach?
 
-204705
+204706
 So much misinformation perpetuated by the Swamp... Abolishing Net Neutrality would benefit swamp creatures with corporate payouts but would be most damaging to conservatives long term.  
 
 
@@ -414,7 +414,7 @@ The user, you, might need to pay extra for an internet package that allows video
 
 Spez: spacing to make wall o' text less of a wall.
 
-469385
+469389
 I linked this before but I'll link it here:
 
 Basically I do believe we need some kind of Net Neutrality right now because the government has made a problem and now they are the only solution. They pretty much let ISP's monopolize, this is not even a federal problem that much, but a regional/local level problem.
@@ -467,87 +467,87 @@ http://www.igmchicago.org/surveys/net-neutrality-ii
 
 ----------
 Cluster #1:
-Cluster importance: 0.0203853253346
-automatically: 3.622553
-perform: 1.920273
-contact: 1.907348
-question: 1.899374
-concern: 1.868269
-action: 1.836923
-screenshot: 1.537552
-link: 1.509024
-trumpire: 1.398638
-usernames***.: 1.398138
-sidebar: 1.397330
-brigading: 1.395142
-showcase: 1.393679
-subreddits: 1.391949
-domreddit: 1.391080
+Cluster importance: 0.02038835271471139
+automatically: 3.622568
+perform: 1.920280
+contact: 1.907356
+question: 1.899385
+concern: 1.868277
+action: 1.836932
+screenshot: 1.537554
+link: 1.509028
+trumpire: 1.398639
+usernames***.: 1.398139
+sidebar: 1.397332
+brigading: 1.395143
+showcase: 1.393681
+subreddits: 1.391951
+domreddit: 1.391082
 
-331225
+562022
 Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
 
 This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
 
 *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
 
-44185
+24662
 Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
 
 This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
 
 *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
 
-347878
+496649
 Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
 
 This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
 
 *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
 
-603243
+249894
 Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
 
 This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
 
 *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
 
-98402
+521755
 Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
 
 This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
 
 *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
 
-269449
+53793
 Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
 
 This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
 
 *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
 
-531670
+573355
 Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
 
 This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
 
 *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
 
-531668
+121438
 Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
 
 This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
 
 *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
 
-63162
+417865
 Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
 
 This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
 
 *I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/The_Donald) if you have any questions or concerns.*
 
-398463
+147403
 Your comment was automatically removed because you linked outside of the Trumpire (see related subreddits in the sidebar). To showcase a post from elsewhere on reddit, ***take a screenshot and black out usernames***.
 
 This rule exists to prevent accusations of [brigading](http://archive.is/i4Col), which can get the DOMreddit banned by the admins of reddit.
@@ -556,190 +556,192 @@ This rule exists to prevent accusations of [brigading](http://archive.is/i4Col),
 
 ----------
 Cluster #2:
-Cluster importance: 0.01262113521
-brick: 5.586723
-centipede: 2.337671
-wall: 2.214005
-brownsville: 1.109380
-imperial: 1.105802
-beach: 1.099004
-build: 1.094949
-mile: 1.084989
-tomorrow: 1.084622
-foot: 1.077695
-wide: 1.074161
-texas: 1.072996
-goal: 1.052732
-hand: 1.044802
-rate: 1.035826
+Cluster importance: 0.012620968805210558
+brick: 5.586689
+centipede: 2.337663
+wall: 2.214003
+brownsville: 1.109372
+imperial: 1.105795
+beach: 1.098997
+build: 1.094951
+mile: 1.084984
+tomorrow: 1.084617
+foot: 1.077691
+wide: 1.074155
+texas: 1.072991
+goal: 1.052726
+hand: 1.044817
+rate: 1.035824
 
-243430
-**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 88839 BRICKS HANDED OUT!**
+300827
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 89097 BRICKS HANDED OUT!**
 
-We are at **13.8699901913%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+We are at **13.9024331382%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
 
-At this rate, the wall will be **1032.61870333 MILES WIDE** and **350.378738494 FEET HIGH** by tomorrow! **DO YOUR PART!**
+At this rate, the wall will be **1035.51020441 MILES WIDE** and **350.59743873 FEET HIGH** by tomorrow! **DO YOUR PART!**
 
-311535
-**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 85375 BRICKS HANDED OUT!**
+566345
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 87591 BRICKS HANDED OUT!**
 
-We are at **13.4508467606%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+We are at **13.7055955723%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
 
-At this rate, the wall will be **996.028942242 MILES WIDE** and **347.371833331 FEET HIGH** by tomorrow! **DO YOUR PART!**
+At this rate, the wall will be **1018.24922835 MILES WIDE** and **349.163324868 FEET HIGH** by tomorrow! **DO YOUR PART!**
 
-90876
-**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 90343 BRICKS HANDED OUT!**
+33326
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 89671 BRICKS HANDED OUT!**
 
-We are at **14.058289071%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+We are at **13.9765475948%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
 
-At this rate, the wall will be **1049.2122738 MILES WIDE** and **351.704632826 FEET HIGH** by tomorrow! **DO YOUR PART!**
+At this rate, the wall will be **1041.89313172 MILES WIDE** and **351.116803442 FEET HIGH** by tomorrow! **DO YOUR PART!**
 
-186003
-**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 90068 BRICKS HANDED OUT!**
+190100
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 86716 BRICKS HANDED OUT!**
 
-We are at **14.0197471899%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+We are at **13.5895265029%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
 
-At this rate, the wall will be **1045.88326223 MILES WIDE** and **351.409532308 FEET HIGH** by tomorrow! **DO YOUR PART!**
+At this rate, the wall will be **1008.3095811 MILES WIDE** and **348.338588344 FEET HIGH** by tomorrow! **DO YOUR PART!**
 
-108641
-**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 93560 BRICKS HANDED OUT!**
+539250
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 92278 BRICKS HANDED OUT!**
 
-We are at **14.4997387501%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+We are at **14.3173880911%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
 
-At this rate, the wall will be **1087.46131399 MILES WIDE** and **354.931577408 FEET HIGH** by tomorrow! **DO YOUR PART!**
+At this rate, the wall will be **1071.35224786 MILES WIDE** and **353.552300867 FEET HIGH** by tomorrow! **DO YOUR PART!**
 
-268535
-**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 86571 BRICKS HANDED OUT!**
+124970
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 87536 BRICKS HANDED OUT!**
 
-We are at **13.572790357%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+We are at **13.6971731053%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
 
-At this rate, the wall will be **1006.82287306 MILES WIDE** and **348.218507484 FEET HIGH** by tomorrow! **DO YOUR PART!**
+At this rate, the wall will be **1017.49910098 MILES WIDE** and **349.086587337 FEET HIGH** by tomorrow! **DO YOUR PART!**
 
-356710
-**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 91405 BRICKS HANDED OUT!**
+252364
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 85292 BRICKS HANDED OUT!**
 
-We are at **14.2055613221%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+We are at **13.4399252364%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
 
-At this rate, the wall will be **1061.35138222 MILES WIDE** and **352.706889988 FEET HIGH** by tomorrow! **DO YOUR PART!**
+At this rate, the wall will be **995.053837196 MILES WIDE** and **347.298161292 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+214095
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 86022 BRICKS HANDED OUT!**
+
+We are at **13.5141794028%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1001.7858132 MILES WIDE** and **347.810857427 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+214062
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 85971 BRICKS HANDED OUT!**
+
+We are at **13.511165911%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1001.24365968 MILES WIDE** and **347.789789917 FEET HIGH** by tomorrow! **DO YOUR PART!**
+
+465034
+**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 90704 BRICKS HANDED OUT!**
+
+We are at **14.109435256%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
+
+At this rate, the wall will be **1053.51118549 MILES WIDE** and **352.051460148 FEET HIGH** by tomorrow! **DO YOUR PART!**
 
 
 ^^^Donate ^^^XMR!: ^^^4AoEmKbK8G9LNwFSbbWcct1gZaL3HKudRWvgP4Jn6WW14XJ46DrwX7pRRSUXUTfj4bi5uqGZiXBgNCWq4GorqjBt1P4BUbx
 
-432970
-**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 92570 BRICKS HANDED OUT!**
-
-We are at **14.348688302%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
-
-At this rate, the wall will be **1073.81682113 MILES WIDE** and **353.737279247 FEET HIGH** by tomorrow! **DO YOUR PART!**
-
-108576
-**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 85431 BRICKS HANDED OUT!**
-
-We are at **13.4579728998%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
-
-At this rate, the wall will be **996.625834432 MILES WIDE** and **347.428678351 FEET HIGH** by tomorrow! **DO YOUR PART!**
-
-10097
-**FOR THE LOVE OF GOD GET THIS PATRIOT A BRICK! THAT'S 93362 BRICKS HANDED OUT!**
-
-We are at **14.4629061012%** of our goal to **BUILD THE WALL** starting from Imperial Beach, CA to Brownsville, Texas! Lets make sure everyone gets a brick in the United States! For every Centipede a brick, for every brick a Centipede!
-
-At this rate, the wall will be **1083.78031322 MILES WIDE** and **354.656242191 FEET HIGH** by tomorrow! **DO YOUR PART!**
-
 ----------
 Cluster #3:
-Cluster importance: 0.0527407871317
-trump: 7.112765
-supporter: 0.580292
-mueller: 0.454007
-donald: 0.449159
-anti: 0.435068
+Cluster importance: 0.05274338791762255
+trump: 7.112774
+supporter: 0.580304
+mueller: 0.454055
+donald: 0.449169
+anti: 0.435069
 support: 0.365038
-tweet: 0.343420
-medium: 0.247061
-session: 0.235884
-russia: 0.214427
-fire: 0.199091
-campaign: 0.197322
-pro: 0.191351
-swamp: 0.189067
-domain: 0.188247
+tweet: 0.343421
+medium: 0.247070
+session: 0.235902
+russia: 0.214443
+fire: 0.199112
+campaign: 0.197323
+pro: 0.191352
+swamp: 0.189068
+domain: 0.188245
 
-321517
+116566
+Me too, I actually wish Trump had done it and not said anything. Although perhaps then they wouldn't have said thanks
+
+199752
+At this point I'm not sure if the rooster is against Trump or if he, yes I said he, is for Trump now. I like him though. Want one for the roof.
+
+253615
+Now is the time for trump and me to take us from cheetos to designer handbags and delicious steaks with Heinz.
+
+192525
+It came out in 2013 which means it was probably 2011 or 12 when it was formulated. Could not be about trump
+
+321520
 I thought it was over that whole "kidnapping" shitshow?
 
 Either way you go, neither has anything to do with Trump lol
 
 
 
-231823
-Is chilli a meal?
-
-- I think it is, same with stew, but certainly not soup. 
-
- -2 to a new up Trump.
-
-199751
-At this point I'm not sure if the rooster is against Trump or if he, yes I said he, is for Trump now. I like him though. Want one for the roof.
-
-233141
+233143
 Trump has done things with Vince McMahon and WWE/WWF in the past, but I don't think XFL was one of them.
 
-192524
-It came out in 2013 which means it was probably 2011 or 12 when it was formulated. Could not be about trump
-
-88676
-2017 was a year of full Trump, was it not? He overshadowed Obummer for his last 20 days, and it's just gotten better from there.
-
-253613
-Now is the time for trump and me to take us from cheetos to designer handbags and delicious steaks with Heinz.
-
-116565
-Me too, I actually wish Trump had done it and not said anything. Although perhaps then they wouldn't have said thanks
-
-519718
+519723
 Can you say where you got that Trump rooster? I've been looking around for one but haven't found one that I liked, but this one is what I have been looking for.
 
-432665
+432669
 That's not the best shitpost of all time.
 
 That's not even Trump's best shitpost of all time.
 
 That's not even Trump's best shitpost of the week.
 
+231825
+Is chilli a meal?
+
+- I think it is, same with stew, but certainly not soup. 
+
+ -2 to a new up Trump.
+
+216164
+I so want him to run vs Trump in 2020. What a shitshow that will be. Trump'll be doing the robot at rallys imitating Zuck
+
 ----------
 Cluster #4:
-Cluster importance: 0.0387533786011
-fuck: 6.875583
-stupid: 0.210134
-bullshit: 0.207315
-retard: 0.191410
-ass: 0.177375
-bitch: 0.167060
-idiot: 0.158995
-literally: 0.145788
-sick: 0.130612
-seriously: 0.130230
-dude: 0.127008
-cunt: 0.115680
-dumb: 0.112640
-cuck: 0.106623
+Cluster importance: 0.03875286765287556
+fuck: 6.875612
+stupid: 0.210141
+bullshit: 0.207319
+retard: 0.191412
+ass: 0.177377
+bitch: 0.167061
+idiot: 0.158998
+literally: 0.145794
+sick: 0.130613
+seriously: 0.130232
+dude: 0.127010
+cunt: 0.115681
+dumb: 0.112643
+cuck: 0.106624
 holy: 0.105675
 
-420652
+420656
 What the fuck? What the fuck is this? What the fuck has this country come to when this is even up for fucking debate? We need fucking tweets about this now? Muthafucka. FUBAR!
 
-380667
+380669
 Spez currently: Oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck oh fuck 
 
-45438
-&gt;LOL by 2020 she's going to look like a fucking zombie.
+494221
+i am so fucking creeped out at what is transpiring (and i am not a prude) that i want to bathe in bleach 
 
-LOL ~~by 2020~~ she~~'s going to~~ lookS like a fucking zombie.
+360973
+Here is the thing. He can UN recuse himself also, and say that he has to do what right. But he won't. So fuck him
 
-FTFY
+300097
+fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you 
 
-382058
+382060
 I made fucking cheese 
 
 m
@@ -776,78 +778,76 @@ s
 
 e
 
-173677
-oh yeah. fuck the koch bros for that...but still better them than nancy gibbs and time warner and whomever have been running TIME for the past 30 years or so
-
-494217
-i am so fucking creeped out at what is transpiring (and i am not a prude) that i want to bathe in bleach 
-
-391571
-PLEASE DON'T FUCK THIS UP
-
-
-PLEASE DON'T FUCK THIS UP
-
-
-PLEASE DON'T FUCK THIS UP
-
-
-PLEASE DON'T FUCK THIS UP
-
-
-PLEASE DON'T FUCK THIS UP
-
-
-PLEASE DON'T FUCK THIS UP
-
-
-PLEASE DON'T FUCK THIS UP
-
-
-PLEASE DON'T FUCK THIS UP
-
-360970
-Here is the thing. He can UN recuse himself also, and say that he has to do what right. But he won't. So fuck him
-
-229805
+229807
 They just tried this in Kansas and the good people of Tonganoxie told them to go fuck right off, as they should have.
 
-300095
-fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you fuck you 
+45439
+&gt;LOL by 2020 she's going to look like a fucking zombie.
+
+LOL ~~by 2020~~ she~~'s going to~~ lookS like a fucking zombie.
+
+FTFY
+
+173678
+oh yeah. fuck the koch bros for that...but still better them than nancy gibbs and time warner and whomever have been running TIME for the past 30 years or so
+
+391575
+PLEASE DON'T FUCK THIS UP
+
+
+PLEASE DON'T FUCK THIS UP
+
+
+PLEASE DON'T FUCK THIS UP
+
+
+PLEASE DON'T FUCK THIS UP
+
+
+PLEASE DON'T FUCK THIS UP
+
+
+PLEASE DON'T FUCK THIS UP
+
+
+PLEASE DON'T FUCK THIS UP
+
+
+PLEASE DON'T FUCK THIS UP
 
 ----------
 Cluster #5:
-Cluster importance: 0.0268145560024
-vote: 6.568572
-democrat: 0.773282
-voter: 0.554185
-republican: 0.299478
-party: 0.283040
-bill: 0.278616
-election: 0.275933
-dems: 0.263340
-poll: 0.251245
-illegal: 0.246326
-senate: 0.238555
-republicans: 0.232014
-ballot: 0.201663
-count: 0.197410
-pass: 0.191097
+Cluster importance: 0.026810906310154786
+vote: 6.568597
+democrat: 0.773212
+voter: 0.554137
+republican: 0.299463
+party: 0.283000
+bill: 0.278603
+election: 0.275841
+dems: 0.263329
+poll: 0.251239
+illegal: 0.246337
+senate: 0.238550
+republicans: 0.232002
+ballot: 0.201659
+count: 0.197409
+pass: 0.191098
 
-78464
+78465
 Doesn't really matter, not voting is the same as a no. We need 50 votes, and whether McCain doesn't vote, or votes no, that -1 vote.
 
-452301
+452305
 Yo dawg, we heard you don't want to vote.
 
 So we decided to vote on whether or not to vote.
 
 Now you can vote without having to vote.
 
-167706
+167707
 They probably didn't show up. 6 Democrats who wanted to vote Yes without voting Yes and 3 Republicans who wanted to vote No without voting No. 
 
-442307
+442311
 If you live in Alabama:
 
 VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! 
@@ -856,71 +856,75 @@ VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE!
 
 VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! VOTE! 
 
-549858
-We must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote.
-
-249422
-I wouldn't vote for someone if I knew that they couldn't tackle at least 500 pages in several days. Just saying.
-
-442558
+442562
 And then let the timer run all the way to 0 before voting on the vote to vote for that vote. 
 
-315814
+272040
+Yeah, that’s what I thought. They can come here and vote with no ID, but you can’t go there and vote without it. 
+
+249424
+I wouldn't vote for someone if I knew that they couldn't tackle at least 500 pages in several days. Just saying.
+
+549864
+We must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote...we must vote.
+
+176371
+They will be again. Because even more will be out to vote for him. Always work to be done. Always. Never stop.
+
+315817
 This move suprised no one. He was never a reliable vote anyway.
 
 Think of it like this. At least he can't be a no vote now.
 
-272038
-Yeah, that’s what I thought. They can come here and vote with no ID, but you can’t go there and vote without it. 
-
-176370
-They will be again. Because even more will be out to vote for him. Always work to be done. Always. Never stop.
-
 ----------
 Cluster #6:
-Cluster importance: 0.0414348342013
-love: 5.035597
-great: 2.097047
-god: 1.462464
-hate: 1.177773
-america: 0.678005
-christmas: 0.543846
-coat: 0.433536
-maga: 0.402509
-family: 0.387031
-bless: 0.344409
-merry: 0.270985
-pede: 0.220850
-meme: 0.219097
-watch: 0.212379
-happy: 0.211607
+Cluster importance: 0.04135847638636184
+love: 5.043284
+great: 2.081352
+god: 1.460990
+hate: 1.181223
+america: 0.673984
+christmas: 0.542902
+coat: 0.433184
+maga: 0.401539
+family: 0.386110
+bless: 0.343879
+merry: 0.270549
+pede: 0.220387
+meme: 0.218542
+watch: 0.211749
+happy: 0.211263
 
 1719
 “A new command I give you - love one another. As I have loved you, so you must love one another. By this everyone will know that you are my disciples, if you love one another.”
 
 ‭‭John‬ ‭13:34-35‬
 
-355373
+355376
 
 “We are made by love, we are made of love, and we are made for love. Everything is love anyway. Our hate is love turned sour, jealousy is love turned bitter, our fears are love standing upside down, greed is love gone overboard, attachment is love turned sticky.” ~ Khurshed Batliwala
 
 ^(I don't think, therefore I am.. a bot)
 
-172528
+172529
 We love our country. We love our President. We even love those who don't love themselves. 
 
 And we love you back.
 
-266293
-I'm not sure either. People love their gibs, but one would think the people here wouldn't love the gibs quite so much.
-
-551606
-Lol. I love TSO this time of the year. Especially their rendition of carol of the bells. Gives me goosebumps everytime. 
-
-201272
+201273
 I love his expressions. There’s one more look he has, it’s that look when he’s going to take someone out to.
 
-397685
+246595
+i went to the eagle conservatory in Wabasha, MN and they got me #EagleWoke
+
+I used to like eagles.. and now i love them.
+
+
+
+551612
+Lol. I love TSO this time of the year. Especially their rendition of carol of the bells. Gives me goosebumps everytime. 
+
+397689
 \&gt; I'd love to one day own an AR-15,
 
 \&gt; love to one day own an AR-15
@@ -933,151 +937,39 @@ I love his expressions. There’s one more look he has, it’s that look when he
 
 like one? just one AR-15?
 
-246593
-i went to the eagle conservatory in Wabasha, MN and they got me #EagleWoke
+266295
+I'm not sure either. People love their gibs, but one would think the people here wouldn't love the gibs quite so much.
 
-I used to like eagles.. and now i love them.
-
-
-
-172800
-Yes.  Something about an SNL skit.  Frankenstein is done for.  And I love how the Madman humiliated him.  This is like getting a Fatality after an intense MK 1v1
-
-57149
+57150
 #I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM I LOVE HIM 
 
 
+172801
+Yes.  Something about an SNL skit.  Frankenstein is done for.  And I love how the Madman humiliated him.  This is like getting a Fatality after an intense MK 1v1
+
 ----------
 Cluster #7:
-Cluster importance: 0.0339920232052
-white: 5.926603
-black: 2.040012
-racist: 1.264146
-race: 0.601188
-male: 0.531354
-hate: 0.511714
-house: 0.476119
-privilege: 0.364015
-racism: 0.316323
-minority: 0.307432
-color: 0.298905
-supremacist: 0.298170
-skin: 0.232413
-group: 0.211551
-crime: 0.208107
+Cluster importance: 0.03398663080452496
+white: 5.926716
+black: 2.040050
+racist: 1.264177
+race: 0.601200
+male: 0.531366
+hate: 0.511648
+house: 0.476069
+privilege: 0.364022
+racism: 0.316332
+minority: 0.307440
+color: 0.298910
+supremacist: 0.298176
+skin: 0.232417
+group: 0.211566
+crime: 0.208152
 
-340544
+340547
 I'm sorry Elizabeth but you're white. Talcum X is white too. You're both white, you just have to accept it and move on. 
 
-452868
-I am white White I am
-
-That white-I-am
-
-That white-I-am!
-
-Can i be white?
-That white-I-am
-Is it ok to be white in this land?
-
-I can like them,
-White-I-am.
-It's ok to be white in this land
-
-Is it ok to be white
-Here or there?
-It's ok to be white
-Here or there.
-It's ok to be white anywhere.
-It's ok to be white in this land
-I can be white White-I-am
-
-Is it ok to be white In a house?
-Is it ok to be white With a mouse?
-
-It's ok to be white In a house.
-It's ok to be white With a mouse.
-
-It's ok to be white Here or there.
-It's ok to be white Anywhere.
-It's ok to be white in this land
-It's ok to be white, white-I-am.
-
-Is it ok to be white In a box?
-Is it ok to be white With a fox?
-
-It's ok in a box.
-It's ok with a fox.
-It's ok in a house.
-It's ok with a mouse.
-It's ok to be white here or there. It's ok to be white anywhere.
-It's ok to be white in this land
-It's ok to be white, White-I-am.
-
-Would you? Could you?
-Help whites at a bar?
-Greet them, seat them Here they are.
-
-You would,
-You Could,
-In a bar.
-
-You may like them, You will see.
-You may like them By a tree?
-
-I would, I could by a tree.
-Yes in a bar! Whites are me.
-
-I can be them in a box.
-I can be them with a fox
-I can be them in a house
-I can be them with a mouse
-I can be them here or there.
-I can be them anywhere.
-
-I can be white im this land.
-I can be like them, white-I-am.
-
-A train! A train! A train! A train!
-Could you, would you Be white on a train?
-
-Yes on a train! Yes by a tree!
-Yes in a bar! Whites are me!
-I would ,I could, in a box.
-I could, I would, with a fox.
-I can be white with a mouse
-I can be white in a house.
-I can be white here or there.
-I can be white anywhere.
-It's ok to be white in this land, it's ok to be white, White-I-am.
-
-Say!
-In the dark?
-Here in the dark!
-Would you, could you, be white the dark?
-
-I would, I could,
-Be white in the dark.
-Would you, could you, Be White in the rain?
-
-I would, I could, in the rain.
-Could in the dark. Could in a train,
-Could in a car, could by a tree.
-
-I can be white, you see.
-
-Could in a house. Could in a box.
-Could with a mouse. 
-Could with a fox.
-I can be white here or there.
-I can be white anywhere!
-You could be white, Be white in this land
-
-Its ok to be white. For White-I-am.
-
- 
-
-433402
+433406
 
 I am white
 White I am
@@ -1264,10 +1156,118 @@ Its ok to be white
 For White-I-am.
  
 
-511472
+452872
+I am white White I am
+
+That white-I-am
+
+That white-I-am!
+
+Can i be white?
+That white-I-am
+Is it ok to be white in this land?
+
+I can like them,
+White-I-am.
+It's ok to be white in this land
+
+Is it ok to be white
+Here or there?
+It's ok to be white
+Here or there.
+It's ok to be white anywhere.
+It's ok to be white in this land
+I can be white White-I-am
+
+Is it ok to be white In a house?
+Is it ok to be white With a mouse?
+
+It's ok to be white In a house.
+It's ok to be white With a mouse.
+
+It's ok to be white Here or there.
+It's ok to be white Anywhere.
+It's ok to be white in this land
+It's ok to be white, white-I-am.
+
+Is it ok to be white In a box?
+Is it ok to be white With a fox?
+
+It's ok in a box.
+It's ok with a fox.
+It's ok in a house.
+It's ok with a mouse.
+It's ok to be white here or there. It's ok to be white anywhere.
+It's ok to be white in this land
+It's ok to be white, White-I-am.
+
+Would you? Could you?
+Help whites at a bar?
+Greet them, seat them Here they are.
+
+You would,
+You Could,
+In a bar.
+
+You may like them, You will see.
+You may like them By a tree?
+
+I would, I could by a tree.
+Yes in a bar! Whites are me.
+
+I can be them in a box.
+I can be them with a fox
+I can be them in a house
+I can be them with a mouse
+I can be them here or there.
+I can be them anywhere.
+
+I can be white im this land.
+I can be like them, white-I-am.
+
+A train! A train! A train! A train!
+Could you, would you Be white on a train?
+
+Yes on a train! Yes by a tree!
+Yes in a bar! Whites are me!
+I would ,I could, in a box.
+I could, I would, with a fox.
+I can be white with a mouse
+I can be white in a house.
+I can be white here or there.
+I can be white anywhere.
+It's ok to be white in this land, it's ok to be white, White-I-am.
+
+Say!
+In the dark?
+Here in the dark!
+Would you, could you, be white the dark?
+
+I would, I could,
+Be white in the dark.
+Would you, could you, Be White in the rain?
+
+I would, I could, in the rain.
+Could in the dark. Could in a train,
+Could in a car, could by a tree.
+
+I can be white, you see.
+
+Could in a house. Could in a box.
+Could with a mouse. 
+Could with a fox.
+I can be white here or there.
+I can be white anywhere!
+You could be white, Be white in this land
+
+Its ok to be white. For White-I-am.
+
+ 
+
+511477
 In other words, they resent the fact that white people like them. Well shit, would they rather white people hate them instead? It's almost as if nothing that white people do will ever be good enough to soothe the egos of some non-white people.
 
-211789
+211790
 &gt; I can never understand the left. What is "white" to them? Many Hispanic people are white. Many Asian people are white. Many Italian people are white. Many French people are white. Jewish people are white. Russian people are white. Irish people are white. Polish people are white. Scottish people are white. The list goes on.
 
 White isn't a skin color. It's a race. It's synonymous with "Indigenous European." 
@@ -1279,118 +1279,118 @@ All whites are racist always.
 
 It is not okay to be white, that much is for certain.
 
-194110
-She has apparently never been to a PowWow.... fry bread... fry bread bowls, fry bread taco... fry bread... tatters.... lol tomatoes and mayo ���������� white people need to go to the PowWow.... 
-
-216188
+216189
 not only do they think it's NOT ok to be white they cannot even contemplate anyone else thinking it's OK to be white.
 
-272001
+194111
+She has apparently never been to a PowWow.... fry bread... fry bread bowls, fry bread taco... fry bread... tatters.... lol tomatoes and mayo ���������� white people need to go to the PowWow.... 
+
+272003
 Does a Sicilian look the same as a Swede? Does a Brit look the same as a Turk?
 
 Not all white people look Irish.
 
-218290
+218291
 You would think a racist page would do "black people vs white people"   just saying .. they put white people first
 
 ----------
 Cluster #8:
-Cluster importance: 0.0393895444657
-woman: 4.602459
-man: 4.385864
-rape: 0.565515
-gay: 0.352569
-sex: 0.340914
-child: 0.339153
-sexual: 0.329775
-feminist: 0.297420
+Cluster importance: 0.039385728977137886
+woman: 4.602409
+man: 4.385903
+rape: 0.565529
+gay: 0.352566
+sex: 0.340921
+child: 0.339161
+sexual: 0.329789
+feminist: 0.297419
 girl: 0.271656
-young: 0.263476
+young: 0.263475
 male: 0.251357
-assault: 0.238311
-female: 0.216495
+assault: 0.238322
+female: 0.216493
 gender: 0.195664
-marry: 0.180179
+marry: 0.180178
 
-112122
+112123
 But...but if men can be women and women can be men...then why don’t the women that earn less just snap their fingers and claim to be men? Problem solved. Or, if men and women are the same in every single way, there IS no wage gap. Some Xer’s just make more than other Xer’s
 
-586391
+586398
 ....I think he actually said “woman”.
 ....as in, “I don’t know her name and am too cave-man to find out” woman.
 ....as in, “this woman”. “I believe woman.” “Uga”
 
 Either that, or he’s full of s***. 
 
-534975
+534980
 No, men can only be boys. And girls must be men. Women must also be men. Unless they are men who want to women's clothing.
 
-429045
+429049
 Men are raped more frequently than women. She might want to check her stats. Also, women in prison are twice as likely to be raped by other women as men are by other men. https://www.theguardian.com/commentisfree/cifamerica/2012/feb/21/us-more-men-raped-than-women
 
-397410
+397414
 "Of man there is little here: therefore do their women masculinise themselves. For only he who is man enough, will—SAVE THE WOMAN in woman. "
 
 -Friedrich Nietzsche
 
 Make our men manly again, and the feminism stops (and the rapes, grenade attacks etc, because our men will Remigrate these aliens back to the ME).
 
-124029
+124030
 So your a women, but you make yourself look like a man, and then try to make women uncomfortable by pretending like your a man in the women’s restroom? Sounds like a psycho 
 
-127742
+127743
 &gt; and how men just want their kids to look better to women
 
 Men don't think like that at all... How do women come up with this shit?
 
-141376
+141377
 Old men tell us "back then men were men and women were women".
 
 When we'll be old, we'll say "back then men had penis and women had vagina"
 
-191478
+191479
 Can't we just go back to the good ole days when a woman could be feminine or butch, and a man could be masculine or effeminate, but there was the end to it?
 
-216500
+216501
 The greatness of woman is up to the greatness of man and the greatness of man is up to the greatness of women.
 
 ----------
 Cluster #9:
-Cluster importance: 0.0553513745138
-pay: 3.556446
-tax: 2.884863
-money: 2.609721
-$: 2.322342
+Cluster importance: 0.055358885109300426
+pay: 3.556450
+tax: 2.884856
+money: 2.609709
+$: 2.322523
 taxis: 1.367354
-cut: 1.075221
-bill: 0.860443
-spend: 0.606741
+cut: 1.075213
+bill: 0.860463
+spend: 0.606733
 income: 0.592756
-job: 0.547700
-buy: 0.505890
-dollar: 0.477957
-high: 0.449844
-plan: 0.444960
+job: 0.547571
+buy: 0.505886
+dollar: 0.477958
+high: 0.449831
+plan: 0.444958
 cost: 0.401177
 
-125536
+125537
 What kills me is when someone gives an example of some rich business owner that reported $10M on his tax return but didn’t pay any taxes without any understanding of how taxes actually work. If the person had to pay $11M that year for employees, equipment, overhead, etc to earn $10M then he actually lost money. How does someone pay tax on money they lost?
 
 People act like businessmen receive a ten million dollar W2 in the mail for their 40 hour work week and  should only be able to write off their uniform.
 
-560112
+560118
 Because people will be making so much more money they will pay more (in $ not %) taxes.  
 Reeeeeee I paid $1000 more in taxes because I got a 20k raise
 
-345322
+345325
 Cooperation tax is paid on Net not Gross.
 
 So if the corporate earning before tax and other bills is $100k and the company pays him $100k then the company pays no corporation tax at all as it has made Net $0 that year. He would then pay income tax on the $100k, which (assuming this is his only income) would be $25k in tax under the current system.
 
-240548
+240550
 The "rich" will just pay for all of it, just gotta tax them 90%+ they don't need that much money anyways.
 
-306956
+306959
 "72% of tax reductions will go to the top x% of the top y%" is the most disingenious argument they make.
 
 If someone is paying 1,000,000 in taxes, and they see a 1% reduction in how much they are paying. Now they're paying 990,000. 10,000 less.
@@ -1405,47 +1405,47 @@ One person got a 1% reduction, the other got a 4% reduction.
 
 
 
-88590
+88591
 Quite a few think that people getting a tax refund each year are getting back all the amount they pay in
 
-161500
+161501
 I don't want my tax dollars to pay for a stadium that I have to pay to get into. They make a lot of money, they can pay for their own stadiums.
 
-130357
+130358
 Rubio basically wants to give moochers more money. $1100  tax credit for people that don't pay taxes isn't good enough for Rubio. A family would have to pay $2000 in taxes before they get the full credit making their tax bill effectively zero. But a family paying zero tax can still claim $1100 tax credit and get a $1100 check from the government for paying nothing. Ridiculous.
 
-435986
+435990
 Umm try again sweetie. That money has already been spent. The only way it will be "paid back" is if it's taxed from *us*, once again, and given as a handout.
 
-308275
+308278
 They keep money offshore because if they can assert indefinite reinvestment abroad of that money, then they don't have to pay any US tax on it.
 
 ----------
 Cluster #10:
-Cluster importance: 0.0346364295603
-shit: 6.257396
-piece: 0.691617
-holy: 0.463238
-talk: 0.233078
-stupid: 0.191069
-eat: 0.127626
-ass: 0.123507
-dumb: 0.107685
+Cluster importance: 0.034627732510613615
+shit: 6.257459
+piece: 0.691624
+holy: 0.463240
+talk: 0.233126
+stupid: 0.191078
+eat: 0.127624
+ass: 0.123510
+dumb: 0.107688
 hole: 0.106595
-crazy: 0.100875
-pull: 0.096850
-dude: 0.096256
-real: 0.095445
-hit: 0.089914
-ton: 0.089858
+crazy: 0.100879
+pull: 0.096854
+dude: 0.096258
+real: 0.095454
+hit: 0.089918
+ton: 0.089859
 
 31888
 I shit it out this morning. Not calling it shit because I think it's shit. I'm calling it shit because they think this will work. 
 
-482604
+482608
 �������������������� good shit go౦ԁ sHit�� thats ✔ some good����shit right����there������ right✔there ✔✔if i do ƽaү so my self �� i say so �� thats what im talking about right there right there (chorus: ʳᶦᵍʰᵗ ᵗʰᵉʳᵉ) mMMMMᎷМ�� ���� ��НO0ОଠOOOOOОଠଠOoooᵒᵒᵒᵒᵒᵒᵒᵒᵒ�� ���� �� �� �� �� �� �� ����Good shit
 
-314461
+314464
 #FIX THIS SHIT
 
 #FIX THIS SHIT
@@ -1462,7 +1462,16 @@ I shit it out this morning. Not calling it shit because I think it's shit. I'm c
 
 #RIGHT FUCKING NOW 
 
-368994
+144238
+Panera bread? Shit. I had that for the first time ever last week and I can make my own overpriced sandwiches if I really want to.
+
+266176
+I might actually be ok with this if it meant I could take a shit on the sidewalk if I needed to.
+
+581247
+Just more shit-flinging which both sides are doing more and more of. After all, your post is full of the same
+
+368997
 Interviewer: What would you say is one of your weaknesses?
 
 Applicant: Probably honesty. 
@@ -1471,105 +1480,96 @@ Interviewer: I don’t really think that honesty is a weakness.
 
 Applicant: I don’t give a shit what you think- I don’t even know you. 
 
-581241
-Just more shit-flinging which both sides are doing more and more of. After all, your post is full of the same
-
-73104
+73105
 I can’t tell if this is this is satire or not anymore because so many people have actually said shit like this.
 
-218742
-I know the judiciary is almost shit. But that's not the right thing to do IMHO.^It ^is ^different ^if ^they ^die ^in ^police ^custody ^though.
-
-266174
-I might actually be ok with this if it meant I could take a shit on the sidewalk if I needed to.
-
-226990
+226991
 &gt; Maybe they have one of those 600mm telephoto or those stargazing lens.
 
 That doesn't mean shit. If a telephoto lens can see him so could a sniper. I am not okay with this.
 
-144237
-Panera bread? Shit. I had that for the first time ever last week and I can make my own overpriced sandwiches if I really want to.
+218743
+I know the judiciary is almost shit. But that's not the right thing to do IMHO.^It ^is ^different ^if ^they ^die ^in ^police ^custody ^though.
 
 ----------
 Cluster #11:
-Cluster importance: 0.0325548816666
-guy: 6.177251
-bad: 0.485322
-mueller: 0.181378
-shoot: 0.169388
-video: 0.159062
-gun: 0.138072
-dude: 0.131281
-girl: 0.119372
-hey: 0.108680
-gay: 0.108207
-picture: 0.088707
-talk: 0.086257
-black: 0.083429
-nice: 0.079234
-fbi: 0.078849
+Cluster importance: 0.03255610051947367
+guy: 6.177473
+bad: 0.485161
+mueller: 0.181386
+shoot: 0.169378
+video: 0.158999
+gun: 0.138146
+dude: 0.131254
+girl: 0.119344
+hey: 0.108664
+gay: 0.108184
+picture: 0.088687
+talk: 0.086249
+black: 0.083411
+nice: 0.079213
+fbi: 0.078876
 
 10990
 Oh there are bad guys, but, there are more good guys than bad guys, and it's time the good guys started running things again. We need to back the good guys .
 
-202072
-&gt;nobody wants the guy who knows everything about you
-
-Hmmmm youd think people would think about that part a little more
-
-77398
+77399
 Guys a nitwit. I know no New Yorker who likes him. But then again I’m not asking around that much either. 
 
-85198
-This tells me that this guy knows nothing of who the Poles are or what they have endured as a people. 
-
-350446
-I'm not sure that guy was even being escorted. He was in the back and it looks like he was using a walkie talkie.
-
-158383
-i posted this here to see if this was true- thank you guys. i should have actually clarified that initially. 
-
-*relief* 
-
-553773
-I don't think Erdogan is a good guy.
-
-The guy he's going after may not be one either, I'm not saying he is or isn't.
-
-143916
-Well, well, well.  And there we have it.
-
-Knew there was something up about all that but didn't know anything about that guy.
-
-530462
-Don't be wimps guys. You're showing yourselves to be people who can dish it but not take it. You should know better than anyone that people don't see things the same way.
-
-474415
+474419
 http://www.dailymail.co.uk/news/article-4882648/Man-throwing-no-SSM-votes-gets-death-threats.html
 
 Looks like it was a hoax, as the guy doesn't actually work for the post.  He's pointing out, however, how you can see through the envelopes with only a flashlight.
 
+158384
+i posted this here to see if this was true- thank you guys. i should have actually clarified that initially. 
+
+*relief* 
+
+553779
+I don't think Erdogan is a good guy.
+
+The guy he's going after may not be one either, I'm not saying he is or isn't.
+
+202073
+&gt;nobody wants the guy who knows everything about you
+
+Hmmmm youd think people would think about that part a little more
+
+350449
+I'm not sure that guy was even being escorted. He was in the back and it looks like he was using a walkie talkie.
+
+530467
+Don't be wimps guys. You're showing yourselves to be people who can dish it but not take it. You should know better than anyone that people don't see things the same way.
+
+143917
+Well, well, well.  And there we have it.
+
+Knew there was something up about all that but didn't know anything about that guy.
+
+85199
+This tells me that this guy knows nothing of who the Poles are or what they have endured as a people. 
+
 ----------
 Cluster #12:
-Cluster importance: 0.0340315775595
-leave: 6.119638
-wing: 0.384257
-hate: 0.278260
-leftist: 0.236478
-alt: 0.201523
-party: 0.195299
-medium: 0.190385
-conservative: 0.166971
-lean: 0.162080
-politic: 0.135031
-political: 0.130692
-meme: 0.127517
-attack: 0.120683
-racist: 0.115639
-push: 0.099630
+Cluster importance: 0.03402783271365662
+leave: 6.119654
+wing: 0.384261
+hate: 0.278167
+leftist: 0.236495
+alt: 0.201525
+party: 0.195309
+medium: 0.190439
+conservative: 0.166997
+lean: 0.162082
+politic: 0.135037
+political: 0.130706
+meme: 0.127515
+attack: 0.120707
+racist: 0.115654
+push: 0.099640
 
-275109
+275111
 The guy should be executed by the state. He was a:
 
 1. illegal immigrant
@@ -1582,10 +1582,10 @@ But oh... ok he said he found the gun on the bench and it went off. Let's just g
 
 *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** *shrug* **looks left** 
 
-501881
+501885
 the midwest is welcoming of people who want to leave shitholes... just make sure to leave the shit where you left it. :)
 
-125858
+125859
 FYI DoD just twited this out:
 U.S. Dept of Defense‏Verified account @DeptofDefense  2h2 hours ago
 More
@@ -1612,51 +1612,51 @@ Do-wah-diddy-diddy-dum-diddy-do.
 
 Link:https://twitter.com/DeptofDefense/status/928373239474253824
 
-212740
+212741
 &gt;The left left me, I didn't leave it.
 
 The left went so far left it left a lot of people behind. 
 
-598610
-I get it, but i dont have to like it. And i think some unpaid leave of absence or a demotion would work. 
-
-505904
+505909
 This depresses me even more actually. Seems like the whole world is against us. Like were the only sain ones left. 
 
-242382
+242384
 I get what this is trying to say, but the delivery is just asking the left to have something to point to
 
-299925
+598618
+I get it, but i dont have to like it. And i think some unpaid leave of absence or a demotion would work. 
+
+299927
 #We know CUE is legit.I think it is several people.The left is going to be mighty suprised about what is coming.. But we won't.
 
-51404
-Left to right and top to bottom: Abdul Sabe, Habibur Rahim, Badrul Hussain, Taherul Alam, Hassan Ali, Nadeem Aslam, Eisa Mousavi, Prabhat Nelli, Mohibur Rahman
-
-119730
+119731
 I don't know whats going on here.
 
 And I don't want to know. I will be ~~living~~ *Leaving this post and I will not be upvoting.
 
+51405
+Left to right and top to bottom: Abdul Sabe, Habibur Rahim, Badrul Hussain, Taherul Alam, Hassan Ali, Nadeem Aslam, Eisa Mousavi, Prabhat Nelli, Mohibur Rahman
+
 ----------
 Cluster #13:
-Cluster importance: 0.316621069286
-wrong: 1.261143
-happen: 1.229955
-lot: 1.101906
-live: 1.096818
-feel: 1.063935
-long: 1.047081
-kid: 0.994439
-talk: 0.926282
-life: 0.919158
-start: 0.906599
-watch: 0.848074
-find: 0.823723
-hear: 0.815250
-bad: 0.802276
-real: 0.767276
+Cluster importance: 0.3166795216623157
+wrong: 1.260951
+happen: 1.229723
+lot: 1.101874
+live: 1.097152
+feel: 1.064040
+long: 1.047025
+kid: 0.994395
+talk: 0.926147
+life: 0.919353
+start: 0.906506
+watch: 0.848438
+find: 0.823727
+hear: 0.815284
+bad: 0.802237
+real: 0.767217
 
-402372
+402376
 I'm sorry you couldn't have found a way to stay home with your kids. I came really close to taking the same route, after my ex divorced me and skipped on child support. 
 
 If it hadn't been for my sons' school giving me sh*t over allowing a 4th grader to read Animal Farm (both my boys, like me, were reading by age 3 and I never censored their books), and threatening to call child protective services because I allowed them access to "inappropriate/ Adult reading material", I would have been in your position.
@@ -1691,7 +1691,7 @@ My biggest regret is that I really wasn't the super cool mom they thought I was.
 
 I would like to remember those years they way they do.
 
-462876
+462880
 I'm gonna have to disagree with you on that one =/  
 
 I was raised pretty conservative (though at the time it really didn't matter to me): polite to others, hold the door when someone is approaching, go to church, respect the parents, ect.  I was fine with it, and it worked for me.  
@@ -1704,7 +1704,7 @@ I ended up getting out of that when my loans ran out and my parents hit the big 
 
 Tl;dr  The brainwashing is absolutely real, but not always at the institutional level.  College lunacy is completely out of control at this point, and has been for a while now. 
 
-445283
+445287
 LONG:
 
 Simple-- THEY ARE. I have been tracking this crap since it began, long about Viet Nam, in earnest. I am a member of the last generation that was nearly unprogrammed. I write about it on my blog also, time permitting.
@@ -1750,7 +1750,7 @@ Teach them that the wise person ALWAYS plays by the rules, and does what is expe
 If you start them off young, and keep them as isolated from the loon garbage as possible until at least age 5--you have a good base to work with. But you still have to work at it, daily, especially tutoring them at night if you really, really can't find a way to home school. Because unless they learn to think, learn to reason, learn to research and develop a solid common sense knowledge base, they'll be vulnerable.
 
 
-599119
+599127
 I think becoming more aware of what religious texts say would help here. The Bible in particular addresses all of those issues to some degree. If this world was all there was, it would make sense to worry about bad events. But, the morality of this world is a mix of good and bad - the pure good comes later. The Gospel is that you can get away from the bad by having faith in Jesus, who cleanses out the bad that came with the fall. 
 
 It's really easy to get wrapped up in this world. In feels so concrete. Our brains like to think of ourselves as really important and wise. Some folks even get disorders and are straight up narcissists. It's really easy to lose sight and get off track when bad things happen if you put all your eggs in this basket of life. 
@@ -1761,7 +1761,7 @@ You sound like you don't want to believe in a God because you don't like how som
 
 Still, at the end of the day, even if you can't be interested in a particular religion, it makes a lot more sense to believe in a higher being of some sort. It really just makes no sense to believe that out of nothing... like literally out of nothing... that the universe just popped into existence from a random explosion in space. 
 
-463323
+463327
 You're clearly paranoid and delusional, if you can't find a decent school for your kids there's something wrong with you and you should never have had kids to begin with. 
 
 *homeschooled kids outperform and come out better adjusted then every other schooling type.*
@@ -1803,12 +1803,12 @@ But this influenza or feeling that I saw all over other parts of Reddit troubled
 I hope you all have a Merry Christmas and keep up the positive vibes and making America great again!  I can always count on finding that here at T_D.
 
 
-588837
+588844
 You should have a kid. I thought life couldn't get any better. I was wrong. Best thing that ever happened to me.
 
 But then again, I always wanted a family of my own.
 
-362007
+362010
 Media glorification... that seems reasonable. Welfare spending... Reasonable too. Breakdown of the family unit...
 
 I think all these are a symptom of something bigger though. A mass murderer is not "crazy" by any stretch. He's more "Upset at the nature of reality".
@@ -1837,7 +1837,7 @@ Mass shooters... they grow up wanting to be the hero. They want to fight the evi
 
 
 
-400890
+400894
 Once upon a time, even if someone considered themselves "not religious" there was an general acceptance in America that there was an afterlife of eternal consequences for the things we did here. Most believed in Heaven and Hell but sometimes disagreed on how one ends up in Heaven. It was universally accepted that if you killed a bunch of people, you were going to burn in hell.
 
 Whether one believes that now or not, a very significant portion of Americans no longer accept that version of the afterlife, and most feel there isn't one at all. So at the end of one's days, there is no consequences of anything.
@@ -1873,130 +1873,130 @@ Throughout my life I have always surrounded myself with a diverse group of frien
 
 ----------
 Cluster #14:
-Cluster importance: 0.0306974751137
-news: 4.795346
-fake: 3.553684
-medium: 0.812194
-story: 0.805407
-cnn: 0.764985
-report: 0.606363
-source: 0.486398
-fox: 0.430173
-article: 0.386961
-lie: 0.337946
-real: 0.335840
-msm: 0.290402
-tweet: 0.192098
-site: 0.189182
-outlet: 0.187883
+Cluster importance: 0.030702014608548902
+news: 4.795310
+fake: 3.553651
+medium: 0.812262
+story: 0.805447
+cnn: 0.765188
+report: 0.606416
+source: 0.486424
+fox: 0.430174
+article: 0.386992
+lie: 0.338022
+real: 0.335873
+msm: 0.290415
+tweet: 0.192106
+site: 0.189183
+outlet: 0.187887
 
-315928
+315931
 nope. MSM is fake news. and TP is fake news too. give us evidence for this claim. nobody else is reporting it b/c it's fake news.
 
-175231
+175232
 This was fake news before, and it's fake news now.  It'll continue to be fake news tomorrow, and every day after that.
 
-201178
+201179
 That's some Meta-Level fake news.   
 *"Hey Bro, i heard you like fake news, so I put some fake news about fake news in your fake news."*
 
-252582
+252584
 All he did was mimic what Abe did, which is why he did not do anything wrong. Fake news is just fake news.
 
-237197
+237199
 Yo I heard you like Fake News. So we made some even Faker News, so you can get the Fakest News inside your already Faked News. 
 
-600217
+600225
 This is why we call it Fake News. It's not "news that Trump doesn't like is fake". Fake News is Fake News. "Concocting", what a bunch of cuckazords.
 
-465095
+465099
 Yo dog, I heard you like Fake News, so we made some Fake News about Fake News, so you've got Fake News to read about Fake News.
 
-204064
-Yeah, I'm here all the time, and I've *never* seen that expression. *Maybe* it's been used, but it's hardly prevalent. Going to have to call fake news on this one.
-
-258639
+258641
 An assistant D.A, not a D.A. But you are right, when I relooked it up, I found out it was most likely fake news about him not being a D.A
 
-117516
+204065
+Yeah, I'm here all the time, and I've *never* seen that expression. *Maybe* it's been used, but it's hardly prevalent. Going to have to call fake news on this one.
+
+117517
 Thanks for the tip.  I won't post it again as I do like to keep it factual, and not be fake news.
 
 ----------
 Cluster #15:
-Cluster importance: 0.0339557650471
-state: 5.742874
-deep: 1.379706
-law: 0.770227
-unite: 0.750257
-federal: 0.533411
-california: 0.418148
-blue: 0.379645
-government: 0.345127
-live: 0.339763
-red: 0.326502
-city: 0.317540
-illegal: 0.288262
-taxis: 0.268175
-citizen: 0.206846
-local: 0.201474
+Cluster importance: 0.03395202120085436
+state: 5.742883
+deep: 1.379662
+law: 0.770264
+unite: 0.750500
+federal: 0.533398
+california: 0.418133
+blue: 0.379625
+government: 0.345017
+live: 0.339647
+red: 0.326479
+city: 0.317519
+illegal: 0.288310
+taxis: 0.268161
+citizen: 0.206850
+local: 0.201463
 
-201354
+201355
 Try it. It doesn't autocorrect bc it could be using state as a verb (like please state your opinion) instead of the noun State (as in Ohiofor example)
 
-178434
+178435
 The deep state fully controls Virginia. Of all the States, how could they not have that state under their thumb?
 
 spez: typo fix
 
-418701
+418705
 This is yuge for States like CA, IL, and MA. If I understand this correctly it means residents of those States could go to neighboring States and get a permit and it would be valid in their own state? Can the federal law overturn state law?
 
-367384
+367387
 Clinton to run in what state?  The state of bliss?  The state of ignorance?  Which state's candidate is about to go flying?
 
-314033
+314036
 You know where they are, I know where they are. Everyone knows where they are; they are being shielded by the deep state.
 
-284290
+284292
 It states "negotiation by **unauthorized persons** with foreign governments having a dispute with the United States."  
 
 But the thing is, BO is authorized by the deep state.
 
-575753
+575759
 That and the out of state tuition at U of A is about the same as some colleges in state tuition. 
 
-135030
+135031
 "Justifiable homocide". That's different state to state. Some states, sure, no brainer.  Other states, you better hope the intruder didn't spin around and take a round in his side or back. 
 
-451727
+451731
 between her, our state legislature and Marty, it really shows where our state is at, and with all that somehow Maura Healy is still the worst.
 
-530166
+530171
 between her, our state legislature and Marty, it really shows where our state is at, and with all that somehow Maura Healy is still the worst.
 
 ----------
 Cluster #16:
-Cluster importance: 0.0333228953787
-president: 5.584049
-obama: 2.169494
-hillary: 0.628355
-clinton: 0.541615
-elect: 0.301985
-bush: 0.286304
-office: 0.283298
-bill: 0.258823
-america: 0.236003
-donald: 0.206397
-american: 0.197587
-unite: 0.170791
-fbi: 0.163666
-administration: 0.156334
-great: 0.149516
+Cluster importance: 0.03331091949476571
+president: 5.584069
+obama: 2.169391
+hillary: 0.628122
+clinton: 0.541477
+elect: 0.301978
+bush: 0.286288
+office: 0.283282
+bill: 0.258768
+america: 0.236605
+donald: 0.206448
+american: 0.197668
+unite: 0.170781
+fbi: 0.163581
+administration: 0.156320
+great: 0.151720
 
-123273
+123274
 I thought so also, at the time.  But if we had President Cain then we wouldn't have gotten President Trump.  So it's worked out for the better, thanks God!
 
-422093
+422097
 ^(AGENCIES UNDER US DISGRACED PRESIDENT OBAMA:)
 
 **B**lack **L**ives **M**atter
@@ -2011,10 +2011,10 @@ I thought so also, at the time.  But if we had President Cain then we wouldn't h
 
 **F**rance-**U**nited **K**ingdom-**U**nited **S**tates-**A**ustralia-**L**ibya-**L**iberia.
 
-576045
+576051
 This is saying that she is the president. “All the days she has not been president”= 0 therefore your saying she is the president. If you take out the “not” it will make sense. 
 
-120886
+120887
 President Trump will be the last Republican President and the first Freedom Party President. The way President Lincoln was the last Whig President and the first Republican President 
 
 6054
@@ -2074,68 +2074,68 @@ H/T ProConservativeNews
 https://proconservativenews.com/a-list-of-obamas-accomplishments-as-the-first-black-president-of-the-usa/
 
 
-358378
+358381
 President Trump and Abraham Lincoln are the only two presidents to be inducted into a wrestling hall of fame.
 
 Think about it.
 
-472205
+472209
 First thing first, it's not "President" Obummer, it's FORMER president Obummer to everyone !! He's not the president anymore, thank God!!!! 
 
-422073
+422077
 The best Christmas/ New Years present our President could give us is seeing Killary with handcuffs before the New Year. LOL That's my wish anyway.
 
-543236
+543241
 It’s the little things that make my day!  
 Getting a wink from this (our President) and that (the_Congress) did it for me!
 
 
-167913
+167914
 &gt;At least I will go down as a president
 
 No, no. You'll be a *former* president by the time you go down, you know that.
 
 ----------
 Cluster #17:
-Cluster importance: 0.0449782451051
-win: 4.374874
-moore: 2.304620
-election: 2.234569
-lose: 1.338446
-democrat: 0.982065
-hillary: 0.951779
-roy: 0.791235
-candidate: 0.640331
-party: 0.596630
-alabama: 0.538167
-dems: 0.455142
-seat: 0.422253
-voter: 0.388995
-republican: 0.379422
-republicans: 0.364410
+Cluster importance: 0.044995780924504916
+win: 4.374615
+moore: 2.304545
+election: 2.234892
+lose: 1.338408
+democrat: 0.982210
+hillary: 0.952084
+roy: 0.791208
+candidate: 0.640343
+party: 0.596717
+alabama: 0.538168
+dems: 0.455165
+seat: 0.422251
+voter: 0.389274
+republican: 0.379445
+republicans: 0.364428
 
-88935
+88936
 All this says is they know they aren’t gonna win. So they will act like they didn’t even want to win. 
 
-444292
-Oh yeah he should be SecDef for 7 more years, and then in 2024, think about it. He would win in a landslide
-
-274773
+274775
 Thank you, thank you, thank you, for all the work you do!!! Keep it up! We're winning, and we're behind you 100%!
 
-307570
+444296
+Oh yeah he should be SecDef for 7 more years, and then in 2024, think about it. He would win in a landslide
+
+307573
 I am wondering, I know about when he said Moore may not win, but when did he say that Gillespie won't win.
 
-296019
+296021
 just dont want to lose that seat. even if that means moore wins...so fucking what. after he wins, they can do whatever they want
 
-95473
+95474
 I hope Moore wins...it's not so much as I want Moore to win, as it is that I really don't want the establishment to win..
 
-177276
+177277
 Someone else won the election the other day. I was pretty bummed about it. But I think whoever won it was probably more happy to win it than I am to lose it. So, whatever.
 
-603917
+603925
 I'm seeing a lot of negativity around Moore losing the election today. There shouldn't be. Him losing is actually a net gain for us, and here's why:
 
 1. If Moore won, Democrats would paint the GOP and Republicans as being the party of sexual assault and pedophilia. Whether or not Moore did what he was accused of doesn't matter in this regard. They would do everything they can to make him, and the accusations behind him, the face of the party. This would affect perceptions in enough people to be damaging for us in future elections. 
@@ -2144,32 +2144,32 @@ I'm seeing a lot of negativity around Moore losing the election today. There sho
 
 3. Doug Jones's win will be a wake up call to Republicans. Between Gillespie losing in Virginia and Moore losing in Alabama, Republicans (both in government and in the public) will realize that just because we have the majority in the house and senate, doesn't mean we can relax and simply assume we will win every election. Every election should be taken seriously and treated accordingly. We must fight to keep every seat we have and win every seat we don't. People who didn't think that before will realize it now.
 
-602234
+602242
 I was so proud to be a part of this election when I saw it. When it was first posted we didn't know he had won yet.
 
-258634
+258636
 I think they're going to do it. There's no way all of this is going away if Moore wins the election.
 
 ----------
 Cluster #18:
-Cluster importance: 0.0386940470697
-country: 5.727357
-america: 0.810916
-american: 0.529889
-war: 0.445943
-muslim: 0.413056
-citizen: 0.368790
-muslims: 0.345082
-illegal: 0.339707
-europe: 0.326146
-fight: 0.318687
-live: 0.306970
-immigrant: 0.295484
-nation: 0.289359
-culture: 0.279218
-immigration: 0.276593
+Cluster importance: 0.03869848113282177
+country: 5.727082
+america: 0.812224
+american: 0.530108
+war: 0.445892
+muslim: 0.412961
+citizen: 0.368783
+muslims: 0.344983
+illegal: 0.339647
+europe: 0.326148
+fight: 0.318691
+live: 0.306721
+immigrant: 0.295481
+nation: 0.289476
+culture: 0.279229
+immigration: 0.276588
 
-446981
+446985
 Well, in his country you don't need to cover your head. So in his country, yes it is a choice.
 
 In most countries, it isn't.
@@ -2177,59 +2177,59 @@ In most countries, it isn't.
 38215
 No. These countries are dumb enough to take all the misfit jihadists while the home country is thinking it's a Ramadan miracle
 
-233567
+233569
 Don't even pretend that they care anything about our country.  They don't even want there to be a "country".  They hate everything about this country.
 
-70850
+70851
 It’s unbecoming of every country in the UN who voted against us to think they somehow have a say in where the US - a sovereign country - puts its embassy in another sovereign country.
 
-397469
+397473
 Mcturtle needs to be run out of the country, let him live in one of those shitholes he's trying to turn this country into.
 
-83817
+83818
 Uzbekhistan makes even less sense.  the country is not at war, the country is not poor, the country has no civil strife, the country has a stable government, the country has food.
 
 But Chuckie Schumer thought that taking in an Uzbek islamist was good for multiculturalism.
 
-198402
+198403
 If you are a country that is reliant on another country for their well being then what do you expect? Every country should always be working on becoming completely self reliant.
 
-149128
+149129
 They need to have a good read about the founding of this country. Motherfucker is as unAmerican as it gets. Get the fuck out of our country.
 
-340362
-If we just had MORE people we would be MORE prosperous!! Thats why the countries with the most people are the best!!
-
-162970
+162971
 And what are you going to DO ABOUT IT, top lawman? Yeah.  That's YOU Seesions.  Top lawman in the country!  WAKEY WAKEY!
+
+340365
+If we just had MORE people we would be MORE prosperous!! Thats why the countries with the most people are the best!!
 
 ----------
 Cluster #19:
-Cluster importance: 0.0271540642099
-liberal: 5.741316
-conservative: 0.917330
-hate: 0.526208
-democrat: 0.251856
-racist: 0.239719
-medium: 0.222886
+Cluster importance: 0.02715370619413021
+liberal: 5.741447
+conservative: 0.917347
+hate: 0.524492
+democrat: 0.251931
+racist: 0.239837
+medium: 0.222949
 friend: 0.199907
-leftist: 0.197350
-support: 0.173637
-city: 0.145880
-party: 0.143908
-talk: 0.128146
-politic: 0.125130
-view: 0.123480
-stupid: 0.115943
+leftist: 0.197325
+support: 0.173656
+city: 0.145891
+party: 0.143944
+talk: 0.128216
+politic: 0.125134
+view: 0.123483
+stupid: 0.115958
 
-518506
+518511
 We sort of agreed to no longer call them liberal, because they aren't liberal. They are leftists. Ofton times completely ideologicaly subverted drones.
 They are not liberal. They are even told what to think.
 
-329501
+329504
 Meh.. if you're on a yacht who gives a fuck what some liberal peasants say. Let alone on a yacht with a bombshell. 
 
-361021
+361024
 they dont need to.
 
 if a liberal murdered someone right in front of a liberal voter. that liberal could simply say; he didnt do it, and that would be enough
@@ -2248,17 +2248,17 @@ Old Liberals, 2017: Why are they beating up that guy in a red hat?
 Old Liberals: Hilary!
 Old Liberals: But isn't he a Communist?
 
-595409
+595417
 Liberal: I want the good things in life.
 
 Conservative: Well, you have to work for them, some times lif...
 
 Liberal: REEEEEEEEEEEEEEEEE
 
-191278
+191279
 Liberals aren't Liberal at all.  I hate it that the word Liberal has been demeaned into meaning something that what it is really supposed to mean.  These people are Progressives, not Liberals.
 
-580955
+580961
 Or Detroit.  It's been run by liberal Democrats for over 60 years.  When a liberal tells you their policies will work, why isn't Detroit a liberal paradise?
 
 10291
@@ -2292,10 +2292,10 @@ Liberal: RRRREEEEEEE RRRREEEEEEE RRRREEEEEEE RRRREEEEEEE RRRREEEEEEE RRRREEEEEEE
 
 I'm noticing a pattern.
 
-442831
-I can't say where I work/what I do - but it has to do with infosec; 90% of my colleagues are liberals. 
-
-548627
+548632
 I was trying to make up my own words for us that seem like liberal lunatics would use.  Trumpanzee might have been used already, but i thought republiclown would work.  
+
+442835
+I can't say where I work/what I do - but it has to do with infosec; 90% of my colleagues are liberals. 
 
 ----------

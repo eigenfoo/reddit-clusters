@@ -5,92 +5,92 @@ Vectorized comments.
 Saved features names (vocabulary) and document-term matrix.
 Factorizing tfidf matrix...
 violation: 1.0
-violation: 0.466425594712
-violation: 0.301467146129
-violation: 0.225661493047
-violation: 0.174566240112
-violation: 0.130371241936
-violation: 0.0927614329236
-violation: 0.0684710335361
-violation: 0.0537090400809
-violation: 0.0441714851541
-violation: 0.0368744873582
-violation: 0.0308173007864
-violation: 0.0257049642923
-violation: 0.0215234605401
-violation: 0.0182819562933
-violation: 0.0156976758713
-violation: 0.0135976456604
-violation: 0.0118459155434
-violation: 0.0103634832022
-violation: 0.0091003512357
-violation: 0.00802855709552
-violation: 0.00712561879055
-violation: 0.00636382946295
-violation: 0.00570583910278
-violation: 0.00514421539828
-violation: 0.00464717695063
-violation: 0.00421798364111
-violation: 0.00383825015208
-violation: 0.00350230056107
-violation: 0.00320598810435
-violation: 0.00293774445719
-violation: 0.002695166266
-violation: 0.00247537458855
-violation: 0.00227572667255
-violation: 0.0020937040635
-violation: 0.00192772982957
-violation: 0.00177609012281
-violation: 0.00163716169519
-violation: 0.00150932564128
-violation: 0.00139217305634
-violation: 0.00128478040887
-violation: 0.00118677152948
-violation: 0.00109688134798
-violation: 0.00101448383937
-violation: 0.00093769108604
-violation: 0.000867136064234
-violation: 0.000802304160037
-violation: 0.000742611505848
-violation: 0.000687606537016
-violation: 0.000636916639824
-violation: 0.000590422108879
-violation: 0.000547774049755
-violation: 0.00050844083206
-violation: 0.000472194822569
-violation: 0.000438526453111
-violation: 0.000407413680188
-violation: 0.000378675736216
-violation: 0.000352101222102
-violation: 0.000327518935932
-violation: 0.00030478497315
-violation: 0.000283753161382
-violation: 0.000264294833772
-violation: 0.000246280055236
-violation: 0.000229594383598
-violation: 0.000214095249333
-violation: 0.000199721577569
-violation: 0.000186384498138
-violation: 0.000173995800063
-violation: 0.000162487150927
-violation: 0.000151778763319
-violation: 0.000141849430237
-violation: 0.000132631419105
-violation: 0.000124066278166
-violation: 0.00011610404623
-violation: 0.000108700418208
-violation: 0.000101807992926
-violation: 9.53756445514e-05
+violation: 0.4664255947117608
+violation: 0.30146714612928793
+violation: 0.2256614930469832
+violation: 0.17456624011244098
+violation: 0.13037124193636251
+violation: 0.09276143292352923
+violation: 0.06847103353602936
+violation: 0.053709040080860804
+violation: 0.044171485154088974
+violation: 0.03687448735822963
+violation: 0.030817300786341085
+violation: 0.025704964292283517
+violation: 0.0215234605401153
+violation: 0.01828195629329385
+violation: 0.0156976758713309
+violation: 0.013597645660420932
+violation: 0.011845915543414135
+violation: 0.010363483202182652
+violation: 0.009100351235689105
+violation: 0.008028557095516364
+violation: 0.0071256187905469484
+violation: 0.006363829462939913
+violation: 0.005705839102770787
+violation: 0.005144215398274646
+violation: 0.004647176950621926
+violation: 0.004217983641106756
+violation: 0.0038382501520759105
+violation: 0.003502300561063072
+violation: 0.0032059881043511418
+violation: 0.0029377444571918408
+violation: 0.0026951662659945633
+violation: 0.002475374588542537
+violation: 0.002275726672544823
+violation: 0.0020937040634960388
+violation: 0.0019277298295700537
+violation: 0.001776090122810297
+violation: 0.0016371616951891504
+violation: 0.0015093256412746661
+violation: 0.0013921730563347986
+violation: 0.0012847804088727834
+violation: 0.0011867715294742436
+violation: 0.001096881347980746
+violation: 0.0010144838393713739
+violation: 0.0009376910860398625
+violation: 0.000867136064233554
+violation: 0.0008023041600367353
+violation: 0.0007426115058473544
+violation: 0.000687606537016057
+violation: 0.0006369166398241953
+violation: 0.0005904221088789319
+violation: 0.0005477740497553366
+violation: 0.0005084408320605673
+violation: 0.0004721948225686786
+violation: 0.00043852645311067296
+violation: 0.0004074136801882135
+violation: 0.00037867573621535986
+violation: 0.00035210122210174494
+violation: 0.0003275189359327121
+violation: 0.00030478497315016435
+violation: 0.00028375316138136225
+violation: 0.00026429483377178934
+violation: 0.0002462800552365437
+violation: 0.0002295943835978966
+violation: 0.000214095249333498
+violation: 0.00019972157756855853
+violation: 0.00018638449813837638
+violation: 0.0001739958000628611
+violation: 0.00016248715092706962
+violation: 0.00015177876331912366
+violation: 0.00014184943023714673
+violation: 0.00013263141910472095
+violation: 0.0001240662781667212
+violation: 0.00011610404623054115
+violation: 0.00010870041820831909
+violation: 0.00010180799292658586
+violation: 9.537564455150737e-05
 Converged at iteration 77
 Factorized tfidf matrix.
 Saved factorization matrices.
 
 ------------------------------
 
-Reconstruction error: 141.799617263
+Reconstruction error: 141.79961726323276
 
 Cluster #0:
-Cluster importance: 0.136166323966
+Cluster importance: 0.1361663239661869
 trp: 1.033606
 understand: 0.549330
 learn: 0.538576
@@ -277,7 +277,7 @@ It would be sad to have TRP die, as this is a good place for discussion and grow
 
 ----------
 Cluster #1:
-Cluster importance: 0.0732008224812
+Cluster importance: 0.07320082248115148
 woman: 3.437719
 attractive: 0.189343
 attract: 0.134293
@@ -360,7 +360,7 @@ I would never, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever,
 
 ----------
 Cluster #2:
-Cluster importance: 0.00813342472013
+Cluster importance: 0.008133424720127942
 /r: 1.433271
 submission: 1.370826
 question: 1.155940
@@ -429,7 +429,7 @@ Your above submission to /r/TheRedPill has been removed, because you have a new 
 
 ----------
 Cluster #3:
-Cluster importance: 0.0579392277816
+Cluster importance: 0.05793922778158556
 girl: 3.100542
 hot: 0.290263
 talk: 0.267014
@@ -630,7 +630,7 @@ Second girl shows up. She'll immediately talk to first girl because women are so
 
 ----------
 Cluster #4:
-Cluster importance: 0.0501713502399
+Cluster importance: 0.05017135023989033
 fuck: 2.988763
 bitch: 0.303573
 dude: 0.253116
@@ -755,7 +755,7 @@ I would never, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever,
 
 ----------
 Cluster #5:
-Cluster importance: 0.0507653644048
+Cluster importance: 0.0507653644048435
 guy: 2.927723
 nice: 0.251216
 white: 0.165470
@@ -910,7 +910,7 @@ Get her mind; get her body.
 
 ----------
 Cluster #6:
-Cluster importance: 0.0641078364176
+Cluster importance: 0.06410783641763765
 man: 3.200260
 society: 0.267513
 male: 0.207114
@@ -1170,7 +1170,7 @@ When were all those men born? Not in the early 90's or 2000's that's for sure. I
 
 ----------
 Cluster #7:
-Cluster importance: 0.0381082933516
+Cluster importance: 0.03810829335161069
 pill: 2.050260
 red: 1.632310
 blue: 0.849261
@@ -1304,7 +1304,7 @@ Im not sure I could tolerate getting my dick sucked with my current understandin
 
 ----------
 Cluster #8:
-Cluster importance: 0.0596298834818
+Cluster importance: 0.05962988348183688
 kid: 1.267151
 child: 1.153316
 money: 0.706184
@@ -1393,7 +1393,7 @@ I'm going to propose in  a year or so to a woman I've been with for 9 years and 
 
 ----------
 Cluster #9:
-Cluster importance: 0.0390221612977
+Cluster importance: 0.03902216129769248
 friend: 2.567299
 talk: 0.330365
 drink: 0.274043
@@ -1477,7 +1477,7 @@ I do agree with one thing though, I can't expect everyone of my close friends or
 
 ----------
 Cluster #10:
-Cluster importance: 0.0454192369203
+Cluster importance: 0.04541923692026502
 feel: 2.649688
 start: 0.228400
 bad: 0.202577
@@ -1574,7 +1574,7 @@ And that was worse. When I felt pain and anger, at least I felt something. After
 
 ----------
 Cluster #11:
-Cluster importance: 0.0364176376514
+Cluster importance: 0.03641763765135938
 sex: 2.587015
 sexual: 0.393838
 porn: 0.303277
@@ -1687,7 +1687,7 @@ Being with a girl who doesn't want sex as much as you can really be soul-crushin
 
 ----------
 Cluster #12:
-Cluster importance: 0.0639250628284
+Cluster importance: 0.0639250628284213
 lift: 1.181068
 fat: 0.836193
 weight: 0.821460
@@ -1844,7 +1844,7 @@ I'm not very active outside of my training programs, so, for someone like you, y
 
 ----------
 Cluster #13:
-Cluster importance: 0.0321224583048
+Cluster importance: 0.03212245830477496
 beta: 1.861308
 alpha: 1.801864
 male: 0.597880
@@ -1983,7 +1983,7 @@ An interesting alpha/beta thing on women. I want both too. Alpha female (hot) fo
 
 ----------
 Cluster #14:
-Cluster importance: 0.0489376285127
+Cluster importance: 0.048937628512679916
 shit: 2.433590
 test: 1.069885
 frame: 0.396684
@@ -2098,7 +2098,7 @@ So why the fuck did she shit test him?
 
 ----------
 Cluster #15:
-Cluster importance: 0.0328078592643
+Cluster importance: 0.032807859264336305
 cheat: 1.606989
 relationship: 1.412647
 ltr: 0.855341
@@ -2191,7 +2191,7 @@ My issue would be cheating while saying you are in a LTR/committed relationship.
 
 ----------
 Cluster #16:
-Cluster importance: 0.0398903358465
+Cluster importance: 0.039890335846470185
 game: 2.065402
 approach: 1.040597
 play: 0.925119
@@ -2274,7 +2274,7 @@ Sad this type of game is still getting taught and used. If you need to approach 
 
 ----------
 Cluster #17:
-Cluster importance: 0.050491204021
+Cluster importance: 0.05049120402101896
 life: 2.488133
 live: 0.792035
 goal: 0.295746
@@ -2384,7 +2384,7 @@ Follow your own path and stick with it
 
 ----------
 Cluster #18:
-Cluster importance: 0.0440941283984
+Cluster importance: 0.044094128398446425
 social: 1.586301
 high: 1.270548
 smv: 0.915908
@@ -2471,7 +2471,7 @@ Social media is also instant social proof.
 
 ----------
 Cluster #19:
-Cluster importance: 0.0286497601097
+Cluster importance: 0.028649760109664153
 love: 2.544801
 fall: 0.186854
 care: 0.182297
