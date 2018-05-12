@@ -132,7 +132,7 @@ if __name__ == '__main__':
 
         print('')
 
-        for exemplar_idx in np.argsort(scores)[-5:]:
+        for exemplar_idx in np.argsort(scores)[-10:]:
             print(exemplar_idx)
             print(data[exemplar_idx])
             print('')
