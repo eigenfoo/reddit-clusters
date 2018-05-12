@@ -117,7 +117,7 @@ if __name__ == '__main__':
     print('')
 
     # FIXME This shouldn't be necessary? And yet it doesn't work without it :(
-    data = np.load('data_{}.npy'.format(sys.argv[1]))
+    data = np.load('results/data_{}.npy'.format(sys.argv[1]))
 
     # Print clusters and exemplars.
     for topic_idx, [scores, topic] in enumerate(zip(np.transpose(W), H)):
