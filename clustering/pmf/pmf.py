@@ -6,9 +6,11 @@ Original paper:
 '''
 
 import numpy as np
+import pandas as pd
 import tensorflow as tf
 from scipy import sparse
 import spacy
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 np.random.seed(1618)
 tf.set_random_seed(1618)
@@ -67,6 +69,7 @@ vectorizer = TfidfVectorizer(strip_accents='unicode',
 tfidf = vectorizer.fit_transform(data)
 
 # Get portions of tf-idf matrix that are nonzero
+nonzero_rows, nonzero_cols, nonzero_vals = sparse.find(tfidf)
 index = np.vstack([nonzero_rows, nonzero_cols]).T
 nonzero_tfidf = tfidf[nonzero_rows, nonzero_cols]
 
@@ -101,11 +104,13 @@ with tf.name_scope('loss'):
 with tf.name_scope('train'):
     train_step = tf.train.AdamOptimizer().minimize(loss)
 
+sess = tf.Session()
+
 merged_summary = tf.summary.merge_all()
 writer = tf.summary.FileWriter('./logs', sess.graph)
 
-sess = tf.Session()
 sess.run(tf.global_variables_initializer())
+
 for i in range(NUM_EPOCHS):
     _, summary_, loss_ = sess.run([train_step, merged_summary, loss])
     writer.add_summary(summary_, i)
