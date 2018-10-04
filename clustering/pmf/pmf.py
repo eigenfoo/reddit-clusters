@@ -16,10 +16,8 @@ np.random.seed(1618)
 tf.set_random_seed(1618)
 
 DATA_FILE = 'NeutralPolitics.csv'
-NUM_TOKENS = 5000
-NUM_DOCUMENTS = 100
 NUM_LATENTS = 20
-NUM_EPOCHS = 2000
+NUM_ITERATIONS = 5000
 
 
 def mask(token):
@@ -65,8 +63,8 @@ vectorizer = TfidfVectorizer(strip_accents='unicode',
                              max_df=0.90,
                              min_df=0.001,
                              norm='l2')
-
 tfidf = vectorizer.fit_transform(data)
+num_documents, num_tokens = tfidf.shape
 
 # Get portions of tf-idf matrix that are nonzero
 nonzero_rows, nonzero_cols, nonzero_vals = sparse.find(tfidf)
@@ -75,9 +73,9 @@ nonzero_tfidf = tfidf[nonzero_rows, nonzero_cols]
 
 # Define matrices
 with tf.name_scope('matrices'):
-    U = tf.get_variable('U', [NUM_LATENTS, NUM_DOCUMENTS], tf.float32,
+    U = tf.get_variable('U', [NUM_LATENTS, num_documents], tf.float32,
                         tf.truncated_normal_initializer(mean=0.0, stddev=0.2))
-    V = tf.get_variable('V', [NUM_LATENTS, NUM_TOKENS], tf.float32,
+    V = tf.get_variable('V', [NUM_LATENTS, num_tokens], tf.float32,
                         tf.truncated_normal_initializer(mean=0.0, stddev=0.2))
     R = tf.matmul(tf.transpose(U), V)
 
@@ -88,8 +86,8 @@ variable_summaries('R', R)
 # Define loss
 with tf.name_scope('loss'):
     # TODO regularization parameters may need tuning...
-    lambda_U = 1 / (NUM_LATENTS * NUM_DOCUMENTS)
-    lambda_V = 1 / (NUM_LATENTS * NUM_TOKENS)
+    lambda_U = 1 / (NUM_LATENTS * num_documents)
+    lambda_V = 1 / (NUM_LATENTS * num_tokens)
     error = tf.reduce_sum((nonzero_tfidf - tf.gather_nd(R, index))**2)
     regularization_U = lambda_U * tf.reduce_sum(tf.norm(U, axis=1))
     regularization_V = lambda_V * tf.reduce_sum(tf.norm(V, axis=1))
@@ -107,15 +105,18 @@ with tf.name_scope('train'):
 sess = tf.Session()
 
 merged_summary = tf.summary.merge_all()
+
 writer = tf.summary.FileWriter('./logs', sess.graph)
+saver = tf.train.Saver()
 
 sess.run(tf.global_variables_initializer())
 
-for i in range(NUM_EPOCHS):
+for i in range(NUM_ITERATIONS):
     _, summary_, loss_ = sess.run([train_step, merged_summary, loss])
     writer.add_summary(summary_, i)
 
     if i % 500 == 0:
-        print('Epoch {}:'.format(i), loss_)
+        print('Iteration {}:'.format(i), loss_)
+        saver.save(sess, "./tmp/model_{}.ckpt".format(i))
 
 writer.close()
