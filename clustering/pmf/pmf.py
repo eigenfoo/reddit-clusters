@@ -37,7 +37,7 @@ def tokenize(document):
 
 
 def variable_summaries(name, var):
-    """ Attach summaries to a Tensor (for TensorBoard visualization). """
+    ''' Attach summaries to a Tensor (for TensorBoard visualization). '''
     with tf.name_scope(name):
         mean = tf.reduce_mean(var)
         stddev = tf.sqrt(tf.reduce_mean(tf.square(var - mean)))
@@ -61,10 +61,11 @@ data = pd.read_csv(DATA_FILE).squeeze()
 vectorizer = TfidfVectorizer(strip_accents='unicode',
                              tokenizer=tokenize,
                              max_df=0.90,
-                             min_df=0.001,
+                             min_df=0.01,
                              norm='l2')
 tfidf = vectorizer.fit_transform(data)
 num_documents, num_tokens = tfidf.shape
+feature_names = vectorizer.get_feature_names()
 
 # Get portions of tf-idf matrix that are nonzero
 nonzero_rows, nonzero_cols, nonzero_vals = sparse.find(tfidf)
@@ -73,11 +74,11 @@ nonzero_tfidf = tfidf[nonzero_rows, nonzero_cols]
 
 # Define matrices
 with tf.name_scope('matrices'):
-    U = tf.get_variable('U', [NUM_LATENTS, num_documents], tf.float32,
-                        tf.truncated_normal_initializer(mean=0.0, stddev=0.2))
-    V = tf.get_variable('V', [NUM_LATENTS, num_tokens], tf.float32,
-                        tf.truncated_normal_initializer(mean=0.0, stddev=0.2))
-    R = tf.matmul(tf.transpose(U), V)
+    U = tf.get_variable('U', [num_documents, NUM_LATENTS], tf.float32,
+                        tf.truncated_normal_initializer())
+    V = tf.get_variable('V', [num_tokens, NUM_LATENTS], tf.float32,
+                        tf.truncated_normal_initializer())
+    R = tf.matmul(tf.abs(U), tf.abs(tf.transpose(V)))  # Enforce non-negativity
 
 variable_summaries('U', U)
 variable_summaries('V', V)
@@ -86,8 +87,8 @@ variable_summaries('R', R)
 # Define loss
 with tf.name_scope('loss'):
     # TODO regularization parameters may need tuning...
-    lambda_U = 1 / (NUM_LATENTS * num_documents)
-    lambda_V = 1 / (NUM_LATENTS * num_tokens)
+    lambda_U = 500 / (NUM_LATENTS * num_documents)
+    lambda_V = 500 / (NUM_LATENTS * num_tokens)
     error = tf.reduce_sum((nonzero_tfidf - tf.gather_nd(R, index))**2)
     regularization_U = lambda_U * tf.reduce_sum(tf.norm(U, axis=1))
     regularization_V = lambda_V * tf.reduce_sum(tf.norm(V, axis=1))
@@ -117,6 +118,22 @@ for i in range(NUM_ITERATIONS):
 
     if i % 500 == 0:
         print('Iteration {}:'.format(i), loss_)
-        saver.save(sess, "./tmp/model_{}.ckpt".format(i))
+        saver.save(sess, './tmp/model_{}.ckpt'.format(i))
 
-writer.close()
+U_, V_, R_ = sess.run([U, V, R])
+
+# Zero out non-relevant entries.
+R_[(tfidf == 0).toarray()] = 0  # FIXME I am inefficient
+
+# Enforce non-negativity.
+# FIXME it would be more elegant to do this with clipping through tf.assign...
+# See https://stackoverflow.com/a/43171577
+U_ = np.abs(U_)
+V_ = np.abs(V_)
+R_ = np.abs(R_)
+
+np.save('./results/U.npy', U_)
+np.save('./results/V.npy', V_)
+np.save('./results/R.npy', R_)
+np.save('./results/tfidf.npy', tfidf)
+np.save('./results/feature_names.npy', feature_names)
