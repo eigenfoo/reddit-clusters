@@ -17,7 +17,7 @@ tf.set_random_seed(1618)
 
 DATA_FILE = 'NeutralPolitics.csv'
 NUM_LATENTS = 20
-NUM_ITERATIONS = 5000
+NUM_ITERATIONS = 30000
 
 
 def mask(token):
@@ -87,8 +87,8 @@ variable_summaries('R', R)
 # Define loss
 with tf.name_scope('loss'):
     # TODO regularization parameters may need tuning...
-    lambda_U = 500 / (NUM_LATENTS * num_documents)
-    lambda_V = 500 / (NUM_LATENTS * num_tokens)
+    lambda_U = 300 / (NUM_LATENTS * num_documents)
+    lambda_V = 300 / (NUM_LATENTS * num_tokens)
     error = tf.reduce_sum((nonzero_tfidf - tf.gather_nd(R, index))**2)
     regularization_U = lambda_U * tf.reduce_sum(tf.norm(U, axis=1))
     regularization_V = lambda_V * tf.reduce_sum(tf.norm(V, axis=1))
@@ -116,7 +116,7 @@ for i in range(NUM_ITERATIONS):
     _, summary_, loss_ = sess.run([train_step, merged_summary, loss])
     writer.add_summary(summary_, i)
 
-    if i % 500 == 0:
+    if i % 1000 == 0:
         print('Iteration {}:'.format(i), loss_)
         saver.save(sess, './tmp/model_{}.ckpt'.format(i))
 
