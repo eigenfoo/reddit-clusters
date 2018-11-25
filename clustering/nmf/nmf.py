@@ -40,14 +40,14 @@ def tokenize(document):
 if __name__ == '__main__':
     if len(sys.argv) != 3:
         print('Usage: ')
-        print('\tpython tfidf_nmf.py SUBREDDIT_NAME NUM_TOPICS')
+        print('\tpython nmf.py SUBREDDIT_NAME NUM_TOPICS')
         sys.exit(1)
 
     # Disable tagger, parser and named-entity recognition
     nlp = spacy.load('en', disable=['tagger', 'parser', 'ner'])
 
     # Load custom stoplist
-    with open('../data/stoplist.txt', 'r') as f:
+    with open('../../data/stoplist.txt', 'r') as f:
         stops = f.read().split()
 
     for stop in stops:
@@ -58,9 +58,9 @@ if __name__ == '__main__':
         lexeme.is_stop = True
 
     # Read data.
-    DATA_FILE = '../data/bigquery/2017/11-12/' + sys.argv[1] + '.csv'
+    DATA_FILE = '../pmf/NeutralPolitics.csv'  #'../data/bigquery/2017/11-12/' + sys.argv[1] + '.csv'
     data = pd.read_csv(DATA_FILE)
-    data = data.iloc[:, 1].fillna('').astype(str).squeeze()
+    data = data.iloc[:, 0].fillna('').astype(str).squeeze()  # FIXME change 0 to 1
     print('Loaded Reddit comments.')
 
     # Disregard the bottom 70% of all comments, by simple count of split tokens.
